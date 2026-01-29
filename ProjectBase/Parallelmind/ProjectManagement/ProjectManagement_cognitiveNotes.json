@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0.0",
+  "id": "d9348b2c-3e1e-4ba2-8a66-d58375a368f2",
+  "name": "ProjectManagement",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB\\KB\\ProjectBase\\Parallelmind\\ProjectManagement",
+  "created_on": "2026-01-29T13:56:06.633Z",
+  "updated_on": "2026-01-29T14:07:17.626Z",
+  "last_viewed_on": "2026-01-29T13:56:06.633Z",
+  "views": 0,
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [],
+  "node_positions": {
+    "flow_1769694990489_ecb3ca71f01188": {
+      "x": -186.67649119476332,
+      "y": -230.2032323317137
+    },
+    "flow_1769695028841_49f4c0ff13c158": {
+      "x": -79.58301682733673,
+      "y": -108.69935983979636
+    },
+    "flow_1769695288786_29ff2a832e853": {
+      "x": 249.68805112931534,
+      "y": -350.6672740840812
+    },
+    "flow_1769695449073_7fa4e4e4ab702": {
+      "x": 256.7577972786789,
+      "y": -212.35253851452146
+    },
+    "flow_1769695505891_8b8fb59453dc2": {
+      "x": 257.58614486461886,
+      "y": -66.33530704313127
+    }
+  },
+  "node_colors": {
+    "flow_1769694990489_ecb3ca71f01188": "#23cbd7",
+    "flow_1769695028841_49f4c0ff13c158": "#23cbd7",
+    "flow_1769695080482_306b39917ba7c": "#23cbd7",
+    "flow_1769695115905_24033883176a48": "#23cbd7",
+    "flow_1769695288786_29ff2a832e853": "#23cbd7",
+    "flow_1769695505891_8b8fb59453dc2": "#23cbd7"
+  },
+  "node_size": {},
+  "flowchart_nodes": [
+    {
+      "id": "flow_1769694990489_ecb3ca71f01188",
+      "type": "flowchart.circle",
+      "name": "Organization",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-29T13:56:57.074Z",
+      "updated_on": "2026-01-29T13:56:57.074Z"
+    },
+    {
+      "id": "flow_1769695028841_49f4c0ff13c158",
+      "type": "flowchart.roundRect",
+      "name": "Portfolios",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-29T13:57:40.218Z",
+      "updated_on": "2026-01-29T13:57:40.218Z"
+    },
+    {
+      "id": "flow_1769695288786_29ff2a832e853",
+      "type": "flowchart.roundRect",
+      "name": "Majoris Software Lab",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-29T14:02:01.002Z",
+      "updated_on": "2026-01-29T14:04:00.412Z"
+    },
+    {
+      "id": "flow_1769695505891_8b8fb59453dc2",
+      "type": "flowchart.roundRect",
+      "name": "BalavenkataHomeStay",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-29T14:05:33.018Z",
+      "updated_on": "2026-01-29T14:05:33.018Z"
+    }
+  ],
+  "flowchart_edges": [
+    {
+      "id": "e_flow_1769694990489_ecb3ca71f01188_flow_1769695028841_49f4c0ff13c158_1769695064811",
+      "source": "flow_1769694990489_ecb3ca71f01188",
+      "target": "flow_1769695028841_49f4c0ff13c158",
+      "source_handle": "source-right",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769695028841_49f4c0ff13c158_flow_1769695288786_29ff2a832e853_1769695395682",
+      "source": "flow_1769695028841_49f4c0ff13c158",
+      "target": "flow_1769695288786_29ff2a832e853",
+      "source_handle": "source-right",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769695028841_49f4c0ff13c158_flow_1769695449073_7fa4e4e4ab702_1769695459978",
+      "source": "flow_1769695028841_49f4c0ff13c158",
+      "target": "flow_1769695449073_7fa4e4e4ab702",
+      "source_handle": "source-right",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769695028841_49f4c0ff13c158_flow_1769695505891_8b8fb59453dc2_1769695545225",
+      "source": "flow_1769695028841_49f4c0ff13c158",
+      "target": "flow_1769695505891_8b8fb59453dc2",
+      "source_handle": "source-right",
+      "target_handle": "target-top",
+      "purpose": ""
+    }
+  ],
+  "groups": [],
+  "child": []
+}

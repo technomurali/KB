@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0.0",
+  "id": "e5978b66-5bb2-4fd0-9504-4266482fdfba",
+  "name": "KB",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB",
+  "created_on": "2026-01-25T05:41:26.081Z",
+  "updated_on": "2026-01-25T05:41:26.081Z",
+  "last_viewed_on": "2026-01-25T05:41:26.081Z",
+  "views": 0,
+  "notifications": [
+    "Subfolder ignored at Goals",
+    "Subfolder ignored at ProjectBase",
+    "Subfolder ignored at RealityBase",
+    "Subfolder ignored at Techno KB"
+  ],
+  "recommendations": [],
+  "error_messages": [],
+  "node_positions": {},
+  "node_colors": {},
+  "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "child": [
+    {
+      "id": "f498d19e-b10b-4c24-bf77-d2d847716c94",
+      "name": "parallelmind",
+      "extension": "json",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\parallelmind.json",
+      "created_on": "2026-01-25T05:41:26.081Z",
+      "updated_on": "2026-01-25T05:41:26.081Z",
+      "last_viewed_on": "2026-01-25T05:41:26.081Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": null
+    }
+  ]
+}

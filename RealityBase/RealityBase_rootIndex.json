@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "id": "415da58f-fe41-429b-a423-30b2176786f5",
+  "name": "RealityBase",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "D:\\2026\\KB\\RealityBase",
+  "created_on": "2026-01-28T06:53:21.667Z",
+  "updated_on": "2026-01-28T06:53:21.667Z",
+  "last_viewed_on": "2026-01-28T06:53:21.667Z",
+  "views": 0,
+  "notifications": [
+    "Root folder contained files before initialization"
+  ],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [],
+  "node_positions": {},
+  "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "child": [
+    {
+      "id": "bc0e61f3-c0dc-498a-88e8-a43fdf7c3b04",
+      "name": "PromptCodingExperiances",
+      "purpose": "",
+      "type": "folder_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\RealityBase\\PromptCodingExperiances",
+      "created_on": "2026-01-28T06:53:21.667Z",
+      "updated_on": "2026-01-28T06:53:21.667Z",
+      "last_viewed_on": "2026-01-28T06:53:21.667Z",
+      "views": 0,
+      "child": []
+    },
+    {
+      "id": "e5b5864b-57a1-4a65-9271-486aa03de712",
+      "name": "Higherlevel Understanding",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\RealityBase\\Higherlevel Understanding.md",
+      "created_on": "2026-01-28T06:53:21.667Z",
+      "updated_on": "2026-01-28T06:53:21.667Z",
+      "last_viewed_on": "2026-01-28T06:53:21.667Z",
+      "views": 0
+    },
+    {
+      "id": "0398ee0e-57b3-4d7d-b624-22e43945b601",
+      "name": "RealityBase_cognitiveNotes",
+      "extension": "json",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\RealityBase\\RealityBase_cognitiveNotes.json",
+      "created_on": "2026-01-28T06:53:21.667Z",
+      "updated_on": "2026-01-28T06:53:21.667Z",
+      "last_viewed_on": "2026-01-28T06:53:21.667Z",
+      "views": 0
+    }
+  ]
+}

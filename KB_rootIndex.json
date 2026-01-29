@@ -1,0 +1,633 @@
+{
+  "schema_version": "1.0.0",
+  "id": "883789e9-58ab-4358-b312-6cf2bc291530",
+  "name": "KB",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB",
+  "created_on": "2026-01-24T19:09:35.581Z",
+  "updated_on": "2026-01-24T19:30:46.038Z",
+  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+  "views": 0,
+  "notifications": [
+    "Root folder contained files before initialization"
+  ],
+  "recommendations": [],
+  "error_messages": [],
+  "node_positions": {
+    "3ac02d46-7082-4007-aae7-8e19c594d02a": {
+      "x": 0.004198841772222295,
+      "y": 650.3378844508342
+    },
+    "00": {
+      "x": -473.46363103100964,
+      "y": -903.9921707607097
+    },
+    "871f4b53-a3bb-499e-991b-b32e57cdfd44": {
+      "x": -1782.4206215381398,
+      "y": -205.96200473035452
+    },
+    "090aff2c-c0c7-4eba-9e53-7a19cdc577dc": {
+      "x": -2186.0006704672605,
+      "y": -199.5331140292759
+    },
+    "e47eb4c6-f660-4763-8d2b-40bd5f46e5d2": {
+      "x": -2547.1500407692633,
+      "y": -199.5331140292759
+    },
+    "5abb55e4-5670-47c1-9c99-cf59886e08b2": {
+      "x": -642.2335935895615,
+      "y": 1549.2309736382201
+    },
+    "c98184a6-8352-4f29-8c9d-d7630f90c9c6": {
+      "x": -412.23359358956145,
+      "y": 1549.2309736382201
+    },
+    "35cc6db7-85ae-4668-afb9-0664b5a2945a": {
+      "x": -182.23359358956142,
+      "y": 1549.2309736382201
+    },
+    "c3369e55-0206-4f44-bfa2-f901c1e07872": {
+      "x": 47.76640641043855,
+      "y": 1549.2309736382201
+    },
+    "81f631d1-7369-4975-821a-96adfef143e0": {
+      "x": 277.76640641043855,
+      "y": 1549.2309736382201
+    },
+    "a9205ee1-6c96-443d-b096-b4122dca683d": {
+      "x": 507.76640641043855,
+      "y": 1549.2309736382201
+    },
+    "0ea91031-0545-4561-8947-cd2e834188f5": {
+      "x": 737.7664064104385,
+      "y": 1549.2309736382201
+    },
+    "79c6e71e-b6ae-493e-a62a-6d6ca9c51fd4": {
+      "x": -37.788577088619206,
+      "y": 394.0800932774863
+    },
+    "f0b163d2-d3c8-4f73-8650-b959cfcbaa79": {
+      "x": 9.149559058731484,
+      "y": 85.7434566812816
+    },
+    "ac46819f-392f-46a3-ab24-1218a17e2b9f": {
+      "x": -297.99712935421144,
+      "y": 85.7434566812816
+    },
+    "231fd7ba-a3df-48a8-940d-0417e224f526": {
+      "x": -640.2895774780466,
+      "y": 67.60910456856709
+    },
+    "a2e27fd0-84c5-4fea-bdf5-2d20f27a8c81": {
+      "x": -659.5762495812821,
+      "y": -173.81755122496168
+    },
+    "1e119b64-6792-42bc-ab9b-ff1c7cf21a38": {
+      "x": -1362.434030983439,
+      "y": -173.81755122496173
+    },
+    "e9a6ee0e-a32e-4d52-adb6-c33eba8f091f": {
+      "x": -1362.434030983439,
+      "y": 106.18244877503827
+    },
+    "dc166ec5-f654-4af3-83ba-5e708d0a25c6": {
+      "x": -1362.434030983439,
+      "y": 386.18244877503827
+    },
+    "4d09b822-3c4e-4467-a2dd-3e1e6e526206": {
+      "x": -1592.434030983439,
+      "y": 666.1824487750382
+    },
+    "6af4d615-65f0-471c-84b7-990bd4e91b64": {
+      "x": -1362.434030983439,
+      "y": 666.1824487750382
+    },
+    "5e828d2c-9f16-4bd2-8f68-8a04f2c10107": {
+      "x": -1132.434030983439,
+      "y": 666.1824487750382
+    },
+    "7278946f-67cb-4ed2-9e61-3ac7e64b7001": {
+      "x": -1004.2072319578916,
+      "y": 390.4229988156405
+    },
+    "43d66c13-3e5f-4c83-bf23-cdbd31115d65": {
+      "x": -1623.1281790751364,
+      "y": 373.4607986532316
+    },
+    "46217393-7c4e-43c0-9e7c-1baede22678d": {
+      "x": 365.5158723484128,
+      "y": -213.54321542195407
+    },
+    "074c3062-d390-41d4-8973-1067b2cb11c0": {
+      "x": 513.7124435697779,
+      "y": 55.549660740894524
+    },
+    "9381bd6f-46f3-4fe1-a897-b85d6f4d70c7": {
+      "x": 1131.0389391310546,
+      "y": 378.4464617554598
+    },
+    "4eae84ff-a0fd-4882-ab52-1484d045e6c8": {
+      "x": 326.0389391310546,
+      "y": 658.4464617554597
+    },
+    "aec0d661-3eba-499f-bc40-1e7354041112": {
+      "x": 556.0389391310546,
+      "y": 658.4464617554597
+    },
+    "98f02150-c323-4044-aa8e-8cef4941923d": {
+      "x": 786.0389391310546,
+      "y": 658.4464617554597
+    },
+    "6178b3ff-fbe2-4466-831b-0f7e2c2b9e9e": {
+      "x": 1016.0389391310546,
+      "y": 658.4464617554597
+    },
+    "d8f65d3f-e012-4e2d-af30-3b4617815bdc": {
+      "x": 1246.0389391310546,
+      "y": 658.4464617554597
+    },
+    "285461c2-a083-4ff6-bf29-0863b71e6da8": {
+      "x": 1476.0389391310546,
+      "y": 658.4464617554597
+    },
+    "3102f9a6-641d-4264-9278-8c99c0ec0de6": {
+      "x": 1706.0389391310546,
+      "y": 658.4464617554597
+    },
+    "d4d48434-233c-4bd7-99a3-ebbf2cdf5fb6": {
+      "x": 1936.0389391310546,
+      "y": 658.4464617554597
+    }
+  },
+  "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "child": [
+    {
+      "id": "871f4b53-a3bb-499e-991b-b32e57cdfd44",
+      "name": "Goals",
+      "purpose": "",
+      "type": "folder_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Goals",
+      "created_on": "2026-01-24T19:09:35.581Z",
+      "updated_on": "2026-01-24T19:09:35.581Z",
+      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+      "views": 0,
+      "child": []
+    },
+    {
+      "id": "1e119b64-6792-42bc-ab9b-ff1c7cf21a38",
+      "name": "ProjectBase",
+      "purpose": "",
+      "type": "folder_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\ProjectBase",
+      "created_on": "2026-01-24T19:09:35.581Z",
+      "updated_on": "2026-01-24T19:09:35.581Z",
+      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+      "views": 0,
+      "child": [
+        {
+          "id": "e9a6ee0e-a32e-4d52-adb6-c33eba8f091f",
+          "name": "Parallelmind",
+          "purpose": "",
+          "type": "folder_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind",
+          "created_on": "2026-01-24T19:09:35.581Z",
+          "updated_on": "2026-01-24T19:09:35.581Z",
+          "last_viewed_on": "2026-01-24T19:09:35.581Z",
+          "views": 0,
+          "child": [
+            {
+              "id": "dc166ec5-f654-4af3-83ba-5e708d0a25c6",
+              "name": "ProjectDocs",
+              "purpose": "",
+              "type": "folder_C",
+              "level": 3,
+              "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs",
+              "created_on": "2026-01-24T19:09:35.581Z",
+              "updated_on": "2026-01-24T19:09:35.581Z",
+              "last_viewed_on": "2026-01-24T19:09:35.581Z",
+              "views": 0,
+              "child": [
+                {
+                  "id": "4d09b822-3c4e-4467-a2dd-3e1e6e526206",
+                  "name": "BasicIdea",
+                  "extension": "docx",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\BasicIdea.docx",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "6af4d615-65f0-471c-84b7-990bd4e91b64",
+                  "name": "ProductCapabilitiesRegister-1st30days",
+                  "extension": "md",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProductCapabilitiesRegister-1st30days.md",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "5e828d2c-9f16-4bd2-8f68-8a04f2c10107",
+                  "name": "ProjectDocs_cognitiveNotes",
+                  "extension": "json",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProjectDocs_cognitiveNotes.json",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                }
+              ]
+            },
+            {
+              "id": "7278946f-67cb-4ed2-9e61-3ac7e64b7001",
+              "name": "ProjectManagement",
+              "purpose": "",
+              "type": "folder_C",
+              "level": 3,
+              "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectManagement",
+              "created_on": "2026-01-24T19:09:35.581Z",
+              "updated_on": "2026-01-24T19:09:35.581Z",
+              "last_viewed_on": "2026-01-24T19:09:35.581Z",
+              "views": 0,
+              "child": []
+            },
+            {
+              "id": "43d66c13-3e5f-4c83-bf23-cdbd31115d65",
+              "name": "Parallelmind_rootIndex",
+              "extension": "json",
+              "purpose": "",
+              "type": "file_C",
+              "level": 3,
+              "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\Parallelmind_rootIndex.json",
+              "created_on": "2026-01-24T19:09:35.581Z",
+              "updated_on": "2026-01-24T19:09:35.581Z",
+              "last_viewed_on": "2026-01-24T19:09:35.581Z",
+              "views": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2e27fd0-84c5-4fea-bdf5-2d20f27a8c81",
+      "name": "RealityBase",
+      "purpose": "",
+      "type": "folder_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\RealityBase",
+      "created_on": "2026-01-24T19:09:35.581Z",
+      "updated_on": "2026-01-24T19:09:35.581Z",
+      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+      "views": 0,
+      "child": [
+        {
+          "id": "231fd7ba-a3df-48a8-940d-0417e224f526",
+          "name": "PromptCodingExperiances",
+          "purpose": "",
+          "type": "folder_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\RealityBase\\PromptCodingExperiances",
+          "created_on": "2026-01-24T19:09:35.581Z",
+          "updated_on": "2026-01-24T19:09:35.581Z",
+          "last_viewed_on": "2026-01-24T19:09:35.581Z",
+          "views": 0,
+          "child": []
+        }
+      ]
+    },
+    {
+      "id": "46217393-7c4e-43c0-9e7c-1baede22678d",
+      "name": "Techno KB",
+      "purpose": "",
+      "type": "folder_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Techno KB",
+      "created_on": "2026-01-24T19:09:35.581Z",
+      "updated_on": "2026-01-24T19:09:35.581Z",
+      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+      "views": 0,
+      "child": [
+        {
+          "id": "074c3062-d390-41d4-8973-1067b2cb11c0",
+          "name": "AI",
+          "purpose": "",
+          "type": "folder_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\Techno KB\\AI",
+          "created_on": "2026-01-24T19:09:35.581Z",
+          "updated_on": "2026-01-24T19:09:35.581Z",
+          "last_viewed_on": "2026-01-24T19:09:35.581Z",
+          "views": 0,
+          "child": [
+            {
+              "id": "79c6e71e-b6ae-493e-a62a-6d6ca9c51fd4",
+              "name": "News",
+              "purpose": "",
+              "type": "folder_C",
+              "level": 3,
+              "path": "E:\\2026\\KB\\Techno KB\\AI\\News",
+              "created_on": "2026-01-24T19:09:35.581Z",
+              "updated_on": "2026-01-24T19:09:35.581Z",
+              "last_viewed_on": "2026-01-24T19:09:35.581Z",
+              "views": 0,
+              "child": [
+                {
+                  "id": "3ac02d46-7082-4007-aae7-8e19c594d02a",
+                  "name": "Matt Wolf",
+                  "purpose": "",
+                  "type": "folder_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt Wolf",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:30:46.038Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0,
+                  "child": [
+                    {
+                      "id": "5abb55e4-5670-47c1-9c99-cf59886e08b2",
+                      "name": "ChatGPT Updates",
+                      "extension": "md",
+                      "purpose": "",
+                      "type": "file_D",
+                      "level": 4,
+                      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt Wolf\\ChatGPT Updates.md",
+                      "created_on": "2026-01-24T19:09:35.581Z",
+                      "updated_on": "2026-01-24T19:30:46.038Z",
+                      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                      "views": 0
+                    },
+                    {
+                      "id": "c98184a6-8352-4f29-8c9d-d7630f90c9c6",
+                      "name": "Claude Can Now Control Your Computer!",
+                      "extension": "png",
+                      "purpose": "",
+                      "type": "file_D",
+                      "level": 4,
+                      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt Wolf\\Claude Can Now Control Your Computer!.png",
+                      "created_on": "2026-01-24T19:09:35.581Z",
+                      "updated_on": "2026-01-24T19:30:46.038Z",
+                      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                      "views": 0
+                    },
+                    {
+                      "id": "35cc6db7-85ae-4668-afb9-0664b5a2945a",
+                      "name": "Claude updates",
+                      "extension": "md",
+                      "purpose": "",
+                      "type": "file_D",
+                      "level": 4,
+                      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt Wolf\\Claude updates.md",
+                      "created_on": "2026-01-24T19:09:35.581Z",
+                      "updated_on": "2026-01-24T19:30:46.038Z",
+                      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                      "views": 0
+                    },
+                    {
+                      "id": "c3369e55-0206-4f44-bfa2-f901c1e07872",
+                      "name": "Google Gemini Updates",
+                      "extension": "md",
+                      "purpose": "",
+                      "type": "file_D",
+                      "level": 4,
+                      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt Wolf\\Google Gemini Updates.md",
+                      "created_on": "2026-01-24T19:09:35.581Z",
+                      "updated_on": "2026-01-24T19:30:46.038Z",
+                      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                      "views": 0
+                    },
+                    {
+                      "id": "81f631d1-7369-4975-821a-96adfef143e0",
+                      "name": "Matt_cognitiveNotes",
+                      "extension": "json",
+                      "purpose": "",
+                      "type": "file_D",
+                      "level": 4,
+                      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt Wolf\\Matt_cognitiveNotes.json",
+                      "created_on": "2026-01-24T19:30:20.333Z",
+                      "updated_on": "2026-01-24T19:30:46.038Z",
+                      "last_viewed_on": "2026-01-24T19:30:20.333Z",
+                      "views": 0
+                    },
+                    {
+                      "id": "a9205ee1-6c96-443d-b096-b4122dca683d",
+                      "name": "Opensource",
+                      "extension": "md",
+                      "purpose": "",
+                      "type": "file_D",
+                      "level": 4,
+                      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt Wolf\\Opensource.md",
+                      "created_on": "2026-01-24T19:09:35.581Z",
+                      "updated_on": "2026-01-24T19:30:46.038Z",
+                      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                      "views": 0
+                    },
+                    {
+                      "id": "0ea91031-0545-4561-8947-cd2e834188f5",
+                      "name": "Perplex",
+                      "extension": "md",
+                      "purpose": "",
+                      "type": "file_D",
+                      "level": 4,
+                      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt Wolf\\Perplex.md",
+                      "created_on": "2026-01-24T19:09:35.581Z",
+                      "updated_on": "2026-01-24T19:30:46.038Z",
+                      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                      "views": 0
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "9381bd6f-46f3-4fe1-a897-b85d6f4d70c7",
+              "name": "Prompt DB",
+              "purpose": "",
+              "type": "folder_C",
+              "level": 3,
+              "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB",
+              "created_on": "2026-01-24T19:09:35.581Z",
+              "updated_on": "2026-01-24T19:09:35.581Z",
+              "last_viewed_on": "2026-01-24T19:09:35.581Z",
+              "views": 0,
+              "child": [
+                {
+                  "id": "4eae84ff-a0fd-4882-ab52-1484d045e6c8",
+                  "name": "Cursor AI Prompts",
+                  "extension": "md",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB\\Cursor AI Prompts.md",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "aec0d661-3eba-499f-bc40-1e7354041112",
+                  "name": "prompt 4",
+                  "extension": "png",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB\\prompt 4.png",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "98f02150-c323-4044-aa8e-8cef4941923d",
+                  "name": "Prompt DB_cognitiveNotes",
+                  "extension": "json",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB\\Prompt DB_cognitiveNotes.json",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "6178b3ff-fbe2-4466-831b-0f7e2c2b9e9e",
+                  "name": "Prompt DB_rootIndex",
+                  "extension": "json",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB\\Prompt DB_rootIndex.json",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "d8f65d3f-e012-4e2d-af30-3b4617815bdc",
+                  "name": "prompt2",
+                  "extension": "png",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB\\prompt2.png",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "285461c2-a083-4ff6-bf29-0863b71e6da8",
+                  "name": "prompt3",
+                  "extension": "png",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB\\prompt3.png",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "3102f9a6-641d-4264-9278-8c99c0ec0de6",
+                  "name": "Veo prompt",
+                  "extension": "png",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB\\Veo prompt.png",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                },
+                {
+                  "id": "d4d48434-233c-4bd7-99a3-ebbf2cdf5fb6",
+                  "name": "Veo Prompts",
+                  "extension": "md",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\KB\\Techno KB\\AI\\Prompt DB\\Veo Prompts.md",
+                  "created_on": "2026-01-24T19:09:35.581Z",
+                  "updated_on": "2026-01-24T19:09:35.581Z",
+                  "last_viewed_on": "2026-01-24T19:09:35.581Z",
+                  "views": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ac46819f-392f-46a3-ab24-1218a17e2b9f",
+          "name": "Techno KB_cognitiveNotes",
+          "extension": "json",
+          "purpose": "",
+          "type": "file_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\Techno KB\\Techno KB_cognitiveNotes.json",
+          "created_on": "2026-01-24T19:09:35.581Z",
+          "updated_on": "2026-01-24T19:09:35.581Z",
+          "last_viewed_on": "2026-01-24T19:09:35.581Z",
+          "views": 0
+        },
+        {
+          "id": "f0b163d2-d3c8-4f73-8650-b959cfcbaa79",
+          "name": "Techno KB_rootIndex",
+          "extension": "json",
+          "purpose": "",
+          "type": "file_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\Techno KB\\Techno KB_rootIndex.json",
+          "created_on": "2026-01-24T19:09:35.581Z",
+          "updated_on": "2026-01-24T19:09:35.581Z",
+          "last_viewed_on": "2026-01-24T19:09:35.581Z",
+          "views": 0
+        }
+      ]
+    },
+    {
+      "id": "e47eb4c6-f660-4763-8d2b-40bd5f46e5d2",
+      "name": "KB_cognitiveNotes",
+      "extension": "json",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB_cognitiveNotes.json",
+      "created_on": "2026-01-25T05:41:36.804Z",
+      "updated_on": "2026-01-25T05:41:36.804Z",
+      "last_viewed_on": "2026-01-25T05:41:36.804Z",
+      "views": 0
+    },
+    {
+      "id": "090aff2c-c0c7-4eba-9e53-7a19cdc577dc",
+      "name": "parallelmind",
+      "extension": "json",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\parallelmind.json",
+      "created_on": "2026-01-24T19:09:35.581Z",
+      "updated_on": "2026-01-24T19:09:35.581Z",
+      "last_viewed_on": "2026-01-24T19:09:35.581Z",
+      "views": 0
+    }
+  ]
+}

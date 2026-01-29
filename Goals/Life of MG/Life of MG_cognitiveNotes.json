@@ -1,0 +1,777 @@
+{
+  "schema_version": "1.0.0",
+  "id": "b1c1a765-83d9-4480-ab0b-5aa2beaf7fd2",
+  "name": "Life of MG",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "D:\\2026\\KB\\Goals\\Life of MG",
+  "created_on": "2026-01-25T15:09:24.500Z",
+  "updated_on": "2026-01-27T00:59:01.654Z",
+  "last_viewed_on": "2026-01-25T15:09:24.500Z",
+  "views": 0,
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [
+    {
+      "id": "tmp_1769362500691_bdfe5c79e37fa8",
+      "label": "Jan Week4-Outcomes.md"
+    },
+    {
+      "id": "tmp_1769362396186_56fa0587904d9",
+      "label": "Week1-Outcomes.md"
+    }
+  ],
+  "node_positions": {
+    "tmp_1769353798235_848c932623d8": {
+      "x": -2.812257065345989,
+      "y": -320.7668128821808
+    },
+    "tmp_1769353843671_a970cffbea76f8": {
+      "x": -43.67428623493906,
+      "y": 72.42804616668528
+    },
+    "tmp_1769353877691_1a3fb20f372a18": {
+      "x": 303.5849994403217,
+      "y": 65.79508689462449
+    },
+    "b1c1a765-83d9-4480-ab0b-5aa2beaf7fd2": {
+      "x": 120,
+      "y": 0
+    },
+    "tmp_1769353941436_5704b03292ac5": {
+      "x": -191.71645661941744,
+      "y": -183.35447395747983
+    },
+    "tmp_1769353982393_b0ceef381c272": {
+      "x": -135.2112453699366,
+      "y": -159.2774483200972
+    },
+    "flow_1769354035891_d23f830f1a1e6": {
+      "x": -43.456783841656375,
+      "y": -600.2120002761271
+    },
+    "tmp_1769354175436_3c4b04494480e8": {
+      "x": 98.28047698879999,
+      "y": -184.66589345864878
+    },
+    "tmp_1769355299712_e110d93208cd28": {
+      "x": -585.6167318317532,
+      "y": -119.26125619630548
+    },
+    "tmp_1769355315282_1d0aa30fb6ccc": {
+      "x": 710.514146116777,
+      "y": -67.15583058046349
+    },
+    "tmp_1769355801390_6f65bc14e7e048": {
+      "x": -549.054311021539,
+      "y": -580.8914661420656
+    },
+    "tmp_1769356222605_0d9a7d457f68d8": {
+      "x": -1498.5155269294487,
+      "y": 75.18223463996708
+    },
+    "tmp_1769356231063_1a2204f82e50a8": {
+      "x": -287.7269225084601,
+      "y": 159.43519728274651
+    },
+    "tmp_1769356234103_33e25850d2ae38": {
+      "x": -83.4270462120345,
+      "y": 250.58488077354525
+    },
+    "tmp_1769356238146_edf20827237bc8": {
+      "x": 429.28127611990817,
+      "y": 156.7710088512249
+    },
+    "tmp_1769356241896_3803b70bd7c8": {
+      "x": 984.478762289559,
+      "y": 152.95640686968585
+    },
+    "tmp_1769356245008_f32b85adac97e8": {
+      "x": 594.3049192894761,
+      "y": 344.3535272730159
+    },
+    "tmp_1769356763982_8512c25c561a": {
+      "x": -1318.783734227126,
+      "y": 490.3046245528086
+    },
+    "tmp_1769356869890_2b5cb533273cb": {
+      "x": -1501.352687597312,
+      "y": 330.946788418081
+    },
+    "tmp_1769356898012_55310b5e3178c8": {
+      "x": -885.6957497827814,
+      "y": 351.93638626163477
+    },
+    "tmp_1769358738372_4047acc7e44c08": {
+      "x": -445.56548589842487,
+      "y": 376.7637344697385
+    },
+    "tmp_1769360420405_435032ee2734b8": {
+      "x": -286.4329079381853,
+      "y": 377.3987626675154
+    },
+    "tmp_1769360454831_c1ba53875c29e8": {
+      "x": -127.11329910371023,
+      "y": 374.2909527974978
+    },
+    "tmp_1769360640489_6f4803e13b85d": {
+      "x": 249.86040214533818,
+      "y": 361.50070083426186
+    },
+    "tmp_1769360666351_3aecbe9a41b7d8": {
+      "x": 415.8604021453382,
+      "y": 361.8889259338918
+    },
+    "tmp_1769360715132_04297c6d09361": {
+      "x": 569.8604021453382,
+      "y": 365.8889259338918
+    },
+    "tmp_1769361902134_25ff1556577ba": {
+      "x": 850.7234645450042,
+      "y": 348.1182520737946
+    },
+    "tmp_1769361920448_0ebe59b62b9bf8": {
+      "x": 1008.7234645450042,
+      "y": 350.1182520737946
+    },
+    "tmp_1769361943422_1980919d7a8dd8": {
+      "x": 1190.7234645450042,
+      "y": 350.1182520737946
+    },
+    "tmp_1769362396186_56fa0587904d9": {
+      "x": -2472.4457887751414,
+      "y": 549.656584259495
+    },
+    "tmp_1769362452317_856e36901f36f8": {
+      "x": -2308.208501445816,
+      "y": 552.0477257650814
+    },
+    "tmp_1769362475213_7f9ed55fdb0ae": {
+      "x": -2139.6935193428217,
+      "y": 550.4127329715891
+    },
+    "tmp_1769362500691_bdfe5c79e37fa8": {
+      "x": -1966.1999571493557,
+      "y": 550.3538584697394
+    },
+    "tmp_1769366311041_a34f328d60cf4": {
+      "x": -2211.714217826542,
+      "y": 343.4083638121006
+    },
+    "tmp_1769366724897_f78aeb7dda2cd8": {
+      "x": -1789.3885366141221,
+      "y": 549.9944605492874
+    },
+    "tmp_1769366728811_b1d5f542f1ab48": {
+      "x": -1619.3885366141221,
+      "y": 549.9944605492874
+    },
+    "tmp_1769366774720_d1f5968ed3a818": {
+      "x": -1445.3885366141221,
+      "y": 545.9944605492874
+    },
+    "tmp_1769366794676_ebe2d8778a4de8": {
+      "x": -1267.3885366141221,
+      "y": 543.9944605492874
+    },
+    "tmp_1769367566503_afce6033bcc9": {
+      "x": -1039.6647364353212,
+      "y": 550.0545547724041
+    },
+    "tmp_1769367572742_a68739b948401": {
+      "x": -889.4105996127013,
+      "y": 548.8254570527811
+    },
+    "tmp_1769367577587_cdfc4bad971118": {
+      "x": -723.7818764723436,
+      "y": 558.0545547724043
+    },
+    "tmp_1769368122592_0064264e1dea7": {
+      "x": -927.6572751036878,
+      "y": 346.2219327132564
+    }
+  },
+  "node_colors": {
+    "tmp_1769353798235_848c932623d8": "#e18e19",
+    "tmp_1769353843671_a970cffbea76f8": "#5330d5",
+    "tmp_1769353877691_1a3fb20f372a18": "#30c1d5",
+    "tmp_1769353941436_5704b03292ac5": "#30d569",
+    "tmp_1769353982393_b0ceef381c272": "#9bd530",
+    "tmp_1769354175436_3c4b04494480e8": "#d5b130",
+    "flow_1769354035891_d23f830f1a1e6": "#f02828",
+    "tmp_1769355299712_e110d93208cd28": "#53d530",
+    "tmp_1769355315282_1d0aa30fb6ccc": "#3043d5",
+    "tmp_1769356222605_0d9a7d457f68d8": "#4bd530",
+    "tmp_1769356231063_1a2204f82e50a8": "#4bd530",
+    "tmp_1769356234103_33e25850d2ae38": "#4330d5",
+    "tmp_1769356238146_edf20827237bc8": "#9330d5",
+    "tmp_1769356241896_3803b70bd7c8": "#9330d5",
+    "tmp_1769356763982_8512c25c561a": "#30d57f",
+    "tmp_1769356869890_2b5cb533273cb": "#30d57f",
+    "tmp_1769356898012_55310b5e3178c8": "#30d57f",
+    "tmp_1769358738372_4047acc7e44c08": "#30d5c1",
+    "tmp_1769360420405_435032ee2734b8": "#30d5c1",
+    "tmp_1769360454831_c1ba53875c29e8": "#30d5c1",
+    "tmp_1769360640489_6f4803e13b85d": "#d530a9",
+    "tmp_1769360666351_3aecbe9a41b7d8": "#d530a9",
+    "tmp_1769360715132_04297c6d09361": "#d530a9",
+    "tmp_1769361902134_25ff1556577ba": "#d530a9",
+    "tmp_1769361920448_0ebe59b62b9bf8": "#d530a9",
+    "tmp_1769361943422_1980919d7a8dd8": "#d530a9",
+    "tmp_1769362396186_56fa0587904d9": "#30b4d5",
+    "tmp_1769362452317_856e36901f36f8": "#30b4d5",
+    "tmp_1769362475213_7f9ed55fdb0ae": "#30b4d5",
+    "tmp_1769362500691_bdfe5c79e37fa8": "#30b4d5",
+    "tmp_1769366311041_a34f328d60cf4": "#30d57f",
+    "tmp_1769366724897_f78aeb7dda2cd8": "#30b4d5",
+    "tmp_1769366728811_b1d5f542f1ab48": "#30b4d5",
+    "tmp_1769366774720_d1f5968ed3a818": "#30b4d5",
+    "tmp_1769366794676_ebe2d8778a4de8": "#30b4d5",
+    "tmp_1769367566503_afce6033bcc9": "#30b4d5",
+    "tmp_1769367572742_a68739b948401": "#30b4d5",
+    "tmp_1769367577587_cdfc4bad971118": "#30b4d5",
+    "tmp_1769368122592_0064264e1dea7": "#30d57f"
+  },
+  "node_size": {},
+  "flowchart_nodes": [
+    {
+      "id": "flow_1769354035891_d23f830f1a1e6",
+      "type": "flowchart.roundRect",
+      "name": "Life",
+      "purpose": "",
+      "created_on": "2026-01-25T15:21:54.698Z",
+      "updated_on": "2026-01-25T15:21:54.698Z",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      }
+    }
+  ],
+  "flowchart_edges": [
+    {
+      "id": "e_flow_1769354035891_d23f830f1a1e6_tmp_1769353798235_848c932623d8_1769354042916",
+      "source": "flow_1769354035891_d23f830f1a1e6",
+      "target": "tmp_1769353798235_848c932623d8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    }
+  ],
+  "groups": [],
+  "child": [
+    {
+      "id": "tmp_1769353798235_848c932623d8",
+      "name": "2026 Ambitions  49",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\2026 Ambitions  49.md",
+      "created_on": "2026-01-25T15:10:26.651Z",
+      "updated_on": "2026-01-25T15:18:13.169Z",
+      "last_viewed_on": "2026-01-25T20:39:15.733Z",
+      "views": 14,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769353798235_848c932623d8_tmp_1769355299712_e110d93208cd28_1769355470444",
+          "target_id": "tmp_1769355299712_e110d93208cd28",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769353798235_848c932623d8_tmp_1769355315282_1d0aa30fb6ccc_1769355473077",
+          "target_id": "tmp_1769355315282_1d0aa30fb6ccc",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769358738372_4047acc7e44c08",
+      "name": "April 2026",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\April 2026.md",
+      "created_on": "2026-01-25T16:32:57.318Z",
+      "updated_on": "2026-01-25T16:32:57.318Z",
+      "last_viewed_on": "2026-01-25T17:23:25.835Z",
+      "views": 10,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769360666351_3aecbe9a41b7d8",
+      "name": "August Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\August Goals.md",
+      "created_on": "2026-01-25T17:05:07.203Z",
+      "updated_on": "2026-01-25T17:24:22.490Z",
+      "last_viewed_on": "2026-01-25T17:24:31.488Z",
+      "views": 3,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769361943422_1980919d7a8dd8",
+      "name": "December Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\December Goals.md",
+      "created_on": "2026-01-25T17:25:56.225Z",
+      "updated_on": "2026-01-25T17:25:56.225Z",
+      "last_viewed_on": "2026-01-25T20:05:19.552Z",
+      "views": 2,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769356869890_2b5cb533273cb",
+      "name": "February Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\February Goals.md",
+      "created_on": "2026-01-25T16:01:17.373Z",
+      "updated_on": "2026-01-25T17:22:33.250Z",
+      "last_viewed_on": "2026-01-25T20:27:27.437Z",
+      "views": 10,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769355299712_e110d93208cd28",
+      "name": "First-Half-Yearly-Objectives",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\First-Half-Yearly-Objectives.md",
+      "created_on": "2026-01-25T15:37:39.743Z",
+      "updated_on": "2026-01-25T17:29:55.438Z",
+      "last_viewed_on": "2026-01-25T20:39:11.372Z",
+      "views": 21,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769355299712_e110d93208cd28_tmp_1769356222605_0d9a7d457f68d8_1769356309117",
+          "target_id": "tmp_1769356222605_0d9a7d457f68d8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769355299712_e110d93208cd28_tmp_1769356231063_1a2204f82e50a8_1769356311652",
+          "target_id": "tmp_1769356231063_1a2204f82e50a8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769362396186_56fa0587904d9",
+      "name": "Jan Week1-Outcomes",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Jan Week1-Outcomes.md",
+      "created_on": "2026-01-25T17:33:45.249Z",
+      "updated_on": "2026-01-25T19:23:26.747Z",
+      "last_viewed_on": "2026-01-26T13:57:01.800Z",
+      "views": 20,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769362452317_856e36901f36f8",
+      "name": "Jan Week2-Outcomes",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Jan Week2-Outcomes.md",
+      "created_on": "2026-01-25T17:34:27.680Z",
+      "updated_on": "2026-01-25T19:23:35.007Z",
+      "last_viewed_on": "2026-01-25T20:57:34.853Z",
+      "views": 13,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769362475213_7f9ed55fdb0ae",
+      "name": "Jan Week3-Outcomes",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Jan Week3-Outcomes.md",
+      "created_on": "2026-01-25T17:34:47.611Z",
+      "updated_on": "2026-01-25T19:23:47.424Z",
+      "last_viewed_on": "2026-01-25T20:46:19.826Z",
+      "views": 14,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769362500691_bdfe5c79e37fa8",
+      "name": "Jan Week4-Outcomes",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Jan Week4-Outcomes.md",
+      "created_on": "2026-01-25T17:35:11.863Z",
+      "updated_on": "2026-01-25T19:23:58.932Z",
+      "last_viewed_on": "2026-01-26T13:57:12.813Z",
+      "views": 17,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769366311041_a34f328d60cf4",
+      "name": "January Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\January Goals.md",
+      "created_on": "2026-01-25T18:38:44.213Z",
+      "updated_on": "2026-01-25T18:38:44.213Z",
+      "last_viewed_on": "2026-01-27T00:59:01.654Z",
+      "views": 38,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769366311041_a34f328d60cf4_tmp_1769362452317_856e36901f36f8_1769366601188",
+          "target_id": "tmp_1769362452317_856e36901f36f8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769366311041_a34f328d60cf4_tmp_1769362475213_7f9ed55fdb0ae_1769366606187",
+          "target_id": "tmp_1769362475213_7f9ed55fdb0ae",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769366311041_a34f328d60cf4_tmp_1769362500691_bdfe5c79e37fa8_1769366609728",
+          "target_id": "tmp_1769362500691_bdfe5c79e37fa8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769366311041_a34f328d60cf4_tmp_1769362396186_56fa0587904d9_1769366616030",
+          "target_id": "tmp_1769362396186_56fa0587904d9",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769360640489_6f4803e13b85d",
+      "name": "July Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\July Goals.md",
+      "created_on": "2026-01-25T17:04:23.167Z",
+      "updated_on": "2026-01-25T17:23:49.242Z",
+      "last_viewed_on": "2026-01-25T17:37:00.870Z",
+      "views": 7,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769360454831_c1ba53875c29e8",
+      "name": "June Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\June Goals.md",
+      "created_on": "2026-01-25T17:23:21.582Z",
+      "updated_on": "2026-01-25T17:23:21.582Z",
+      "last_viewed_on": "2026-01-25T17:24:29.304Z",
+      "views": 3,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769368122592_0064264e1dea7",
+      "name": "MarchGoals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\MarchGoals.md",
+      "created_on": "2026-01-25T19:09:02.554Z",
+      "updated_on": "2026-01-25T19:09:02.554Z",
+      "last_viewed_on": "2026-01-25T19:09:24.924Z",
+      "views": 1,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769360420405_435032ee2734b8",
+      "name": "May Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\May Goals.md",
+      "created_on": "2026-01-25T17:00:39.099Z",
+      "updated_on": "2026-01-25T17:23:10.745Z",
+      "last_viewed_on": "2026-01-25T17:24:28.191Z",
+      "views": 6,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769361920448_0ebe59b62b9bf8",
+      "name": "November Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\November Goals.md",
+      "created_on": "2026-01-25T17:25:40.252Z",
+      "updated_on": "2026-01-25T17:25:40.252Z",
+      "last_viewed_on": "2026-01-25T17:37:24.428Z",
+      "views": 2,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769361902134_25ff1556577ba",
+      "name": "October Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\October Goals.md",
+      "created_on": "2026-01-25T17:25:14.411Z",
+      "updated_on": "2026-01-25T17:25:14.411Z",
+      "last_viewed_on": "2026-01-25T17:37:21.578Z",
+      "views": 2,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769356222605_0d9a7d457f68d8",
+      "name": "Quater-1MileStones",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Quater-1MileStones.md",
+      "created_on": "2026-01-25T15:53:13.222Z",
+      "updated_on": "2026-01-25T17:29:00.536Z",
+      "last_viewed_on": "2026-01-25T20:56:31.007Z",
+      "views": 26,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769356222605_0d9a7d457f68d8_tmp_1769356869890_2b5cb533273cb_1769356916940",
+          "target_id": "tmp_1769356869890_2b5cb533273cb",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769356222605_0d9a7d457f68d8_tmp_1769366311041_a34f328d60cf4_1769366327498",
+          "target_id": "tmp_1769366311041_a34f328d60cf4",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769356222605_0d9a7d457f68d8_tmp_1769368122592_0064264e1dea7_1769368126692",
+          "target_id": "tmp_1769368122592_0064264e1dea7",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769356231063_1a2204f82e50a8",
+      "name": "Quater-2MileStones",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Quater-2MileStones.md",
+      "created_on": "2026-01-25T15:53:33.360Z",
+      "updated_on": "2026-01-25T17:29:11.532Z",
+      "last_viewed_on": "2026-01-25T17:32:24.225Z",
+      "views": 18,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769356231063_1a2204f82e50a8_tmp_1769358738372_4047acc7e44c08_1769360416711",
+          "target_id": "tmp_1769358738372_4047acc7e44c08",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769356231063_1a2204f82e50a8_tmp_1769360420405_435032ee2734b8_1769360492856",
+          "target_id": "tmp_1769360420405_435032ee2734b8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769356231063_1a2204f82e50a8_tmp_1769360454831_c1ba53875c29e8_1769360494740",
+          "target_id": "tmp_1769360454831_c1ba53875c29e8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769356238146_edf20827237bc8",
+      "name": "Quater-3MileStones",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Quater-3MileStones.md",
+      "created_on": "2026-01-25T15:56:31.290Z",
+      "updated_on": "2026-01-25T17:31:59.802Z",
+      "last_viewed_on": "2026-01-25T17:32:25.600Z",
+      "views": 11,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769356238146_edf20827237bc8_tmp_1769360640489_6f4803e13b85d_1769361977750",
+          "target_id": "tmp_1769360640489_6f4803e13b85d",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769356238146_edf20827237bc8_tmp_1769360666351_3aecbe9a41b7d8_1769361980060",
+          "target_id": "tmp_1769360666351_3aecbe9a41b7d8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769356238146_edf20827237bc8_tmp_1769360715132_04297c6d09361_1769361986735",
+          "target_id": "tmp_1769360715132_04297c6d09361",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769356241896_3803b70bd7c8",
+      "name": "Quater-4MileStones",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Quater-4MileStones.md",
+      "created_on": "2026-01-25T15:56:45.620Z",
+      "updated_on": "2026-01-25T17:32:09.929Z",
+      "last_viewed_on": "2026-01-25T17:32:26.953Z",
+      "views": 7,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769356241896_3803b70bd7c8_tmp_1769361902134_25ff1556577ba_1769361991691",
+          "target_id": "tmp_1769361902134_25ff1556577ba",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769356241896_3803b70bd7c8_tmp_1769361920448_0ebe59b62b9bf8_1769361995623",
+          "target_id": "tmp_1769361920448_0ebe59b62b9bf8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769356241896_3803b70bd7c8_tmp_1769361943422_1980919d7a8dd8_1769361997862",
+          "target_id": "tmp_1769361943422_1980919d7a8dd8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769355315282_1d0aa30fb6ccc",
+      "name": "Second-Half-Yearly-Objectives",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\Second-Half-Yearly-Objectives.md",
+      "created_on": "2026-01-25T15:39:41.527Z",
+      "updated_on": "2026-01-25T17:30:59.412Z",
+      "last_viewed_on": "2026-01-25T21:12:52.647Z",
+      "views": 13,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769355315282_1d0aa30fb6ccc_tmp_1769356238146_edf20827237bc8_1769356329892",
+          "target_id": "tmp_1769356238146_edf20827237bc8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_1769355315282_1d0aa30fb6ccc_tmp_1769356241896_3803b70bd7c8_1769356332473",
+          "target_id": "tmp_1769356241896_3803b70bd7c8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769360715132_04297c6d09361",
+      "name": "September Goals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "D:\\2026\\KB\\Goals\\Life of MG\\September Goals.md",
+      "created_on": "2026-01-25T17:05:28.391Z",
+      "updated_on": "2026-01-25T17:24:53.294Z",
+      "last_viewed_on": "2026-01-25T17:24:32.585Z",
+      "views": 2,
+      "related_nodes": [],
+      "sort_index": null
+    }
+  ]
+}

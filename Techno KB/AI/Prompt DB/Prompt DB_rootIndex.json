@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0.0",
+  "id": "0ab03582-577c-4ee1-9aab-5cff86ef2259",
+  "name": "Prompt DB",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\Techno KB\\AI\\Prompt DB",
+  "created_on": "2026-01-23T21:50:59.123Z",
+  "updated_on": "2026-01-23T21:50:59.123Z",
+  "last_viewed_on": "2026-01-23T21:50:59.123Z",
+  "views": 0,
+  "notifications": [
+    "Root folder contained files before initialization"
+  ],
+  "recommendations": [],
+  "error_messages": [],
+  "node_positions": {},
+  "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "child": [
+    {
+      "id": "31561432-00f5-4592-af7b-e84bf63206c9",
+      "name": "prompt 4",
+      "extension": "png",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\prompt 4.png",
+      "created_on": "2026-01-23T21:50:59.123Z",
+      "updated_on": "2026-01-23T21:50:59.123Z",
+      "last_viewed_on": "2026-01-23T21:50:59.123Z",
+      "views": 0
+    },
+    {
+      "id": "1aee1382-4ac5-4471-928e-b272b4d7931b",
+      "name": "Prompt DB_cognitiveNotes",
+      "extension": "json",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\Prompt DB_cognitiveNotes.json",
+      "created_on": "2026-01-23T21:50:59.123Z",
+      "updated_on": "2026-01-23T21:50:59.123Z",
+      "last_viewed_on": "2026-01-23T21:50:59.123Z",
+      "views": 0
+    },
+    {
+      "id": "13d4ec29-07d3-4b4c-811b-86692176c250",
+      "name": "prompt2",
+      "extension": "png",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\prompt2.png",
+      "created_on": "2026-01-23T21:50:59.123Z",
+      "updated_on": "2026-01-23T21:50:59.123Z",
+      "last_viewed_on": "2026-01-23T21:50:59.123Z",
+      "views": 0
+    },
+    {
+      "id": "0312172c-1b61-48b3-a4e6-fb56d700618e",
+      "name": "prompt3",
+      "extension": "png",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\prompt3.png",
+      "created_on": "2026-01-23T21:50:59.123Z",
+      "updated_on": "2026-01-23T21:50:59.123Z",
+      "last_viewed_on": "2026-01-23T21:50:59.123Z",
+      "views": 0
+    },
+    {
+      "id": "c69dd7cd-b010-4868-a061-5adb90801ed8",
+      "name": "Veo prompt",
+      "extension": "png",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\Veo prompt.png",
+      "created_on": "2026-01-23T21:50:59.123Z",
+      "updated_on": "2026-01-23T21:50:59.123Z",
+      "last_viewed_on": "2026-01-23T21:50:59.123Z",
+      "views": 0
+    },
+    {
+      "id": "35e1e037-9041-4aa3-bfc4-8bf8b82b1de8",
+      "name": "Veo Prompts",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\Veo Prompts.md",
+      "created_on": "2026-01-23T21:50:59.123Z",
+      "updated_on": "2026-01-23T21:50:59.123Z",
+      "last_viewed_on": "2026-01-23T21:50:59.123Z",
+      "views": 0
+    }
+  ]
+}

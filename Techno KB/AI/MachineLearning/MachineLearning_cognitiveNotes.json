@@ -1,0 +1,630 @@
+{
+  "schema_version": "1.0.0",
+  "id": "36ddb62b-6579-4e19-91d6-bdc4e15d3946",
+  "name": "MachineLearning",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning",
+  "created_on": "2026-01-25T21:30:23.068Z",
+  "updated_on": "2026-01-29T12:11:09.085Z",
+  "last_viewed_on": "2026-01-25T21:30:23.068Z",
+  "views": 0,
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [],
+  "node_positions": {
+    "tmp_shield_1769493552274_fdd37b486b83e8": {
+      "x": -70.93588681739175,
+      "y": -413.2153381674924
+    },
+    "36ddb62b-6579-4e19-91d6-bdc4e15d3946": {
+      "x": 420,
+      "y": 0
+    },
+    "tmp_1769493689536_893279630e28c": {
+      "x": -137.1468010299316,
+      "y": -390.0149851210693
+    },
+    "tmp_output_1769493766209_f8978f1c70a2c": {
+      "x": -61.66057644079484,
+      "y": 68.94319916349815
+    },
+    "flow_1769494543571_be4d719dcc9838": {
+      "x": -253.10248771525525,
+      "y": -109.77378198552977
+    },
+    "tmp_shield_1769499367627_d460c76398e9e": {
+      "x": 172.36389157330274,
+      "y": -384.01315715417354
+    },
+    "tmp_shield_1769499670624_2be8c34c630ac8": {
+      "x": -50.48358929612175,
+      "y": -465.570740358963
+    },
+    "tmp_output_1769499876619_c3a06a98339748": {
+      "x": -180.22325182410512,
+      "y": -184.7995453352604
+    },
+    "67274e1d-fe4d-4234-a117-e7a9ee6aabf3": {
+      "x": 90,
+      "y": 210
+    },
+    "d71d05d4-a2e1-4d91-b497-da3199fe49bc": {
+      "x": 425.81849304522007,
+      "y": 196.44535057507784
+    },
+    "tmp_shield_1769499986502_6efaca16a93738": {
+      "x": -182.1640164102935,
+      "y": -613.1615721452989
+    },
+    "tmp_shield_1769500522883_797e5ad3c96d78": {
+      "x": 291.5260095140925,
+      "y": -1026.861753456465
+    },
+    "tmp_1769539154807_d3f4aae46bfa58": {
+      "x": 350.8677825704334,
+      "y": -336.1892755371211
+    },
+    "tmp_1769540519706_f790ba2d841bb": {
+      "x": 611.6494436226151,
+      "y": -453.3355577472151
+    },
+    "tmp_1769541359226_ae1a16eff3b888": {
+      "x": 334.65298399867044,
+      "y": -812.7249487242626
+    },
+    "tmp_1769541460431_08996e90079ec8": {
+      "x": 334.55983846784545,
+      "y": -645.3874732702685
+    },
+    "tmp_1769541589532_0960ee5da6ba6": {
+      "x": 334.5598384678456,
+      "y": -465.93439740515515
+    },
+    "tmp_1769541734207_0d8f1825d10e6": {
+      "x": 591.1908371660915,
+      "y": -649.7413965314697
+    },
+    "tmp_1769542610409_3460a5a46b075": {
+      "x": 592.175650695956,
+      "y": -484.2524114454211
+    },
+    "tmp_1769544424247_c3c2ce372d5e": {
+      "x": 590.668130082642,
+      "y": -294.869346169752
+    },
+    "tmp_1769544547199_ef53b68a36c9e": {
+      "x": 828.9080776754936,
+      "y": -299.84341061528244
+    },
+    "tmp_1769545175419_68a6f3fa777e8": {
+      "x": 828.8507638631065,
+      "y": -117.19236554628458
+    },
+    "tmp_1769545292615_36269bbef262b8": {
+      "x": 336.1119616308273,
+      "y": 892.4518706696745
+    },
+    "tmp_1769545962053_6dd68f8a186fe": {
+      "x": 358.2165659963604,
+      "y": 827.3827741373675
+    },
+    "tmp_1769546144060_d9efb5d3898fa": {
+      "x": 829.434791935146,
+      "y": 63.78409703468037
+    },
+    "tmp_1769665968681_ef5c18c03a6438": {
+      "x": 665.7842045991257,
+      "y": -837.8906596467629
+    },
+    "27f58ba8-6fe4-4292-8505-9c6b0fd691b7": {
+      "x": 720,
+      "y": 630
+    },
+    "tmp_1769669655986_de1bda3bacb63": {
+      "x": 965.6295144168844,
+      "y": -1024.1959326077272
+    },
+    "f72c697b-590a-4c0a-af61-c2e36c0fad22": {
+      "x": 1216.8688059208405,
+      "y": -820.9293019573099
+    }
+  },
+  "node_colors": {
+    "tmp_shield_1769493552274_fdd37b486b83e8": "#4330d5",
+    "tmp_1769493689536_893279630e28c": "#d5a930",
+    "tmp_output_1769499876619_c3a06a98339748": "#17ba2a",
+    "tmp_shield_1769499986502_6efaca16a93738": "#d53030",
+    "tmp_shield_1769500522883_797e5ad3c96d78": "#d53030",
+    "flow_1769540543257_ddb4a1e049b55": "#d4a011",
+    "tmp_1769541359226_ae1a16eff3b888": "#d26c19",
+    "tmp_1769541460431_08996e90079ec8": "#d26c19",
+    "tmp_1769541589532_0960ee5da6ba6": "#d26c19",
+    "tmp_1769541734207_0d8f1825d10e6": "#c28214",
+    "tmp_1769542610409_3460a5a46b075": "#c28214",
+    "tmp_1769544424247_c3c2ce372d5e": "#c28214",
+    "tmp_1769544547199_ef53b68a36c9e": "#bda21f",
+    "tmp_1769545175419_68a6f3fa777e8": "#bda21f",
+    "tmp_1769546144060_d9efb5d3898fa": "#bda21f",
+    "tmp_1769665968681_ef5c18c03a6438": "#4330d5",
+    "tmp_1769669655986_de1bda3bacb63": "#4330d5"
+  },
+  "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "groups": [
+    {
+      "id": "pm_group_1769543085820_f7f8d7f5853b2",
+      "name": "LifeCycleofMLPojects",
+      "purpose": "",
+      "node_ids": [
+        "tmp_shield_1769499986502_6efaca16a93738",
+        "tmp_1769493689536_893279630e28c",
+        "tmp_output_1769499876619_c3a06a98339748"
+      ],
+      "created_on": "2026-01-27T19:44:45.820Z",
+      "updated_on": "2026-01-27T19:47:51.764Z",
+      "scale": 1,
+      "base_sizes": {
+        "tmp_shield_1769499986502_6efaca16a93738": {
+          "nodeSize": 200
+        },
+        "tmp_1769493689536_893279630e28c": {
+          "nodeSize": 200
+        },
+        "tmp_output_1769499876619_c3a06a98339748": {
+          "nodeSize": 200
+        }
+      },
+      "base_positions": {
+        "tmp_shield_1769499986502_6efaca16a93738": {
+          "x": -123.85808856145167,
+          "y": -626.346609985708
+        },
+        "tmp_1769493689536_893279630e28c": {
+          "x": -80.20185735954402,
+          "y": -403.75608624766153
+        },
+        "tmp_output_1769499876619_c3a06a98339748": {
+          "x": -123.27830815371749,
+          "y": -216.54064646185265
+        }
+      }
+    },
+    {
+      "id": "pm_group_1769545616450_8ada94eb320b5",
+      "name": "SANITY",
+      "purpose": "Is this data trustworthy?",
+      "node_ids": [
+        "tmp_1769541359226_ae1a16eff3b888",
+        "tmp_1769541460431_08996e90079ec8",
+        "tmp_1769541589532_0960ee5da6ba6"
+      ],
+      "created_on": "2026-01-27T20:26:56.450Z",
+      "updated_on": "2026-01-27T20:45:34.653Z",
+      "scale": 1,
+      "base_sizes": {
+        "tmp_1769541359226_ae1a16eff3b888": {
+          "nodeSize": 200
+        },
+        "tmp_1769541460431_08996e90079ec8": {
+          "nodeSize": 200
+        },
+        "tmp_1769541589532_0960ee5da6ba6": {
+          "nodeSize": 200
+        }
+      },
+      "base_positions": {
+        "tmp_1769541359226_ae1a16eff3b888": {
+          "x": 336.65298399867044,
+          "y": -692.7249487242626
+        },
+        "tmp_1769541460431_08996e90079ec8": {
+          "x": 336.55983846784545,
+          "y": -525.3874732702685
+        },
+        "tmp_1769541589532_0960ee5da6ba6": {
+          "x": 336.5598384678456,
+          "y": -345.93439740515515
+        }
+      }
+    },
+    {
+      "id": "pm_group_1769545701489_ed4494f36193b8",
+      "name": "SHAPING",
+      "purpose": "Aim: Can a model learn from this?",
+      "node_ids": [
+        "tmp_1769541734207_0d8f1825d10e6",
+        "tmp_1769542610409_3460a5a46b075",
+        "tmp_1769544424247_c3c2ce372d5e"
+      ],
+      "created_on": "2026-01-27T20:28:21.489Z",
+      "updated_on": "2026-01-27T20:48:39.782Z",
+      "scale": 1,
+      "base_sizes": {
+        "tmp_1769541734207_0d8f1825d10e6": {
+          "nodeSize": 200
+        },
+        "tmp_1769542610409_3460a5a46b075": {
+          "nodeSize": 200
+        },
+        "tmp_1769544424247_c3c2ce372d5e": {
+          "nodeSize": 200
+        }
+      },
+      "base_positions": {
+        "tmp_1769541734207_0d8f1825d10e6": {
+          "x": 336.5518213445457,
+          "y": -170.40250501362212
+        },
+        "tmp_1769542610409_3460a5a46b075": {
+          "x": 337.5366348744103,
+          "y": -2.913519927573418
+        },
+        "tmp_1769544424247_c3c2ce372d5e": {
+          "x": 336.02911426109625,
+          "y": 184.46954534809555
+        }
+      }
+    },
+    {
+      "id": "pm_group_1769546271446_8b33dc5410a49",
+      "name": "SAFTY",
+      "purpose": "Will learning be correct?",
+      "node_ids": [
+        "tmp_1769544547199_ef53b68a36c9e",
+        "tmp_1769545175419_68a6f3fa777e8",
+        "tmp_1769546144060_d9efb5d3898fa"
+      ],
+      "created_on": "2026-01-27T20:37:51.446Z",
+      "updated_on": "2026-01-28T05:48:25.625Z",
+      "scale": 1,
+      "base_sizes": {
+        "tmp_1769544547199_ef53b68a36c9e": {
+          "nodeSize": 200
+        },
+        "tmp_1769545175419_68a6f3fa777e8": {
+          "nodeSize": 200
+        },
+        "tmp_1769546144060_d9efb5d3898fa": {
+          "nodeSize": 200
+        }
+      },
+      "base_positions": {
+        "tmp_1769544547199_ef53b68a36c9e": {
+          "x": 361.4521736404017,
+          "y": 398.47643220489306
+        },
+        "tmp_1769545175419_68a6f3fa777e8": {
+          "x": 359.87914326150417,
+          "y": 609.926092037588
+        },
+        "tmp_1769546144060_d9efb5d3898fa": {
+          "x": 358.94745476703326,
+          "y": 819.7011693822504
+        }
+      }
+    }
+  ],
+  "child": [
+    {
+      "id": "tmp_1769541460431_08996e90079ec8",
+      "name": "Data Cleaning",
+      "extension": "md",
+      "purpose": "Remove Noise & Errors\nGoal: Make data accurate and consistent.\nOutcome: Trustworthy data.",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Data Cleaning.md",
+      "created_on": "2026-01-27T19:18:50.687Z",
+      "updated_on": "2026-01-27T19:18:50.687Z",
+      "last_viewed_on": "2026-01-29T08:55:18.870Z",
+      "views": 7,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769541460431_08996e90079ec8_tmp_1769541589532_0960ee5da6ba6_1769541593432",
+          "target_id": "tmp_1769541589532_0960ee5da6ba6",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769541589532_0960ee5da6ba6",
+      "name": "Data Integration",
+      "extension": "md",
+      "purpose": "Unify Multiple Sources\nGoal: Combine data from different sources into one coherent dataset.\nOutcome: Single, consistent data view.\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Data Integration.md",
+      "created_on": "2026-01-27T19:20:57.238Z",
+      "updated_on": "2026-01-27T19:20:57.238Z",
+      "last_viewed_on": "2026-01-28T06:40:05.458Z",
+      "views": 6,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769541589532_0960ee5da6ba6_tmp_1769541734207_0d8f1825d10e6_1769541907369",
+          "target_id": "tmp_1769541734207_0d8f1825d10e6",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769669655986_de1bda3bacb63",
+      "name": "Data Preprocessing Templet",
+      "extension": "md",
+      "purpose": "This section will be helpful while coding or implementing.\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing Templet.md",
+      "created_on": "2026-01-29T06:54:52.395Z",
+      "updated_on": "2026-01-29T07:04:07.597Z",
+      "last_viewed_on": "2026-01-29T08:52:46.557Z",
+      "views": 8,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_shield_1769499986502_6efaca16a93738",
+      "name": "Data Preprocessing",
+      "extension": "md",
+      "purpose": "Import the data\nclean the data\nSplit into training and testing sets\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing.md",
+      "created_on": "2026-01-27T07:47:26.964Z",
+      "updated_on": "2026-01-27T07:47:26.964Z",
+      "last_viewed_on": "2026-01-29T09:03:42.436Z",
+      "views": 10,
+      "node_variant": "shieldFile",
+      "details_path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing.notes.md",
+      "details_opt_out": false,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_shield_1769499986502_6efaca16a93738_tmp_1769493689536_893279630e28c_1769500064874",
+          "target_id": "tmp_1769493689536_893279630e28c",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_shield_1769499986502_6efaca16a93738_tmp_shield_1769500522883_797e5ad3c96d78_1769500580064",
+          "target_id": "tmp_shield_1769500522883_797e5ad3c96d78",
+          "purpose": "After cleaning the ",
+          "source_handle": "source-right",
+          "target_handle": "target-left"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_shield_1769500522883_797e5ad3c96d78",
+      "name": "Data Set",
+      "extension": "md",
+      "purpose": "Data set for to train the model. If dataset is not there there is nothing to talk about ML project. Data means ML",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Data Set.md",
+      "created_on": "2026-01-27T07:58:17.769Z",
+      "updated_on": "2026-01-27T20:18:26.916Z",
+      "last_viewed_on": "2026-01-29T08:53:31.621Z",
+      "views": 23,
+      "node_variant": "shieldFile",
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_shield_1769500522883_797e5ad3c96d78_tmp_1769541359226_ae1a16eff3b888_1769541363582",
+          "target_id": "tmp_1769541359226_ae1a16eff3b888",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_shield_1769500522883_797e5ad3c96d78_tmp_1769669655986_de1bda3bacb63_1769669955920",
+          "target_id": "tmp_1769669655986_de1bda3bacb63",
+          "purpose": "In Practical development",
+          "source_handle": "source-right",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769545175419_68a6f3fa777e8",
+      "name": "Data Splitting",
+      "extension": "md",
+      "purpose": "Aim: Prevent Data Leakage\nGoal: Ensure honest evaluation.\nOutcome: Reliable performance metrics.\n\n\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Data Splitting.md",
+      "created_on": "2026-01-27T20:20:56.687Z",
+      "updated_on": "2026-01-27T20:20:56.687Z",
+      "last_viewed_on": "2026-01-28T06:41:32.567Z",
+      "views": 5,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769545175419_68a6f3fa777e8_tmp_1769546144060_d9efb5d3898fa_1769546147982",
+          "target_id": "tmp_1769546144060_d9efb5d3898fa",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769541359226_ae1a16eff3b888",
+      "name": "Data Understanding & Profiling",
+      "extension": "md",
+      "purpose": "Know What You’re Dealing With.\nGoal: Understand the nature, quality, and structure of data.\nOutcome: Awareness of problems before fixing them.\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Data Understanding & Profiling.md",
+      "created_on": "2026-01-27T19:16:57.732Z",
+      "updated_on": "2026-01-29T09:40:33.350Z",
+      "last_viewed_on": "2026-01-29T09:02:10.089Z",
+      "views": 12,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769541359226_ae1a16eff3b888_tmp_1769541460431_08996e90079ec8_1769541463897",
+          "target_id": "tmp_1769541460431_08996e90079ec8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769546144060_d9efb5d3898fa",
+      "name": "Data Validation",
+      "extension": "md",
+      "purpose": "Goal: Ensure preprocessing didn’t break data.\nOutcome: Safe to feed into model.\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Data Validation.md",
+      "created_on": "2026-01-27T20:38:22.020Z",
+      "updated_on": "2026-01-27T20:38:22.020Z",
+      "last_viewed_on": "2026-01-28T06:41:37.794Z",
+      "views": 6,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_output_1769499876619_c3a06a98339748",
+      "name": "Evolution of Model",
+      "extension": "md",
+      "purpose": "Calculate performance metrics\nMake a verdict \n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Evolution of Model.md",
+      "created_on": "2026-01-27T07:45:56.536Z",
+      "updated_on": "2026-01-27T07:45:56.536Z",
+      "last_viewed_on": "2026-01-29T12:11:09.085Z",
+      "views": 3,
+      "node_variant": "outputShield",
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769542610409_3460a5a46b075",
+      "name": "Feature Engineering",
+      "extension": "md",
+      "purpose": "Aim: Create Intelligence from Data\nGoal: Extract useful signals from raw data.\nOutcome: Higher information density.",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Feature Engineering.md",
+      "created_on": "2026-01-27T19:37:53.748Z",
+      "updated_on": "2026-01-27T19:37:53.748Z",
+      "last_viewed_on": "2026-01-29T09:15:38.164Z",
+      "views": 15,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769542610409_3460a5a46b075_tmp_1769544424247_c3c2ce372d5e_1769544427817",
+          "target_id": "tmp_1769544424247_c3c2ce372d5e",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769544424247_c3c2ce372d5e",
+      "name": "Feature Selection",
+      "extension": "md",
+      "purpose": "Aim: Remove Irrelevant Information\nGoal: Keep only what matters.\nOutcome: Reduced dimensionality, better generalization.\n\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Feature Selection.md",
+      "created_on": "2026-01-27T20:08:12.864Z",
+      "updated_on": "2026-01-27T20:08:12.864Z",
+      "last_viewed_on": "2026-01-28T06:40:52.935Z",
+      "views": 4,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769544424247_c3c2ce372d5e_tmp_1769544547199_ef53b68a36c9e_1769544551775",
+          "target_id": "tmp_1769544547199_ef53b68a36c9e",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769544547199_ef53b68a36c9e",
+      "name": "Handling Data Imbalance",
+      "extension": "md",
+      "purpose": "Aim: Fair Learning\nGoal: Prevent bias toward majority classes.\nOutcome: Balanced learning behavior.\n\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Handling Data Imbalance.md",
+      "created_on": "2026-01-27T20:10:18.085Z",
+      "updated_on": "2026-01-27T20:10:18.085Z",
+      "last_viewed_on": "2026-01-28T06:41:00.106Z",
+      "views": 10,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769544547199_ef53b68a36c9e_tmp_1769545175419_68a6f3fa777e8_1769545179701",
+          "target_id": "tmp_1769545175419_68a6f3fa777e8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769541734207_0d8f1825d10e6",
+      "name": "MakeDataLearnable",
+      "extension": "md",
+      "purpose": "Aim: Make Data Learnable (Data Transformation)\nGoal: Convert data into a form suitable for ML algorithms.\nOutcome: Numerical, well-scaled inputs.\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\MakeDataLearnable.md",
+      "created_on": "2026-01-27T19:24:25.990Z",
+      "updated_on": "2026-01-29T05:55:33.899Z",
+      "last_viewed_on": "2026-01-29T05:35:45.676Z",
+      "views": 11,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769541734207_0d8f1825d10e6_tmp_1769542610409_3460a5a46b075_1769542614016",
+          "target_id": "tmp_1769542610409_3460a5a46b075",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769493689536_893279630e28c",
+      "name": "Modelling",
+      "extension": "md",
+      "purpose": "Build the model\nTrain the model\nMake Prediction\n",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\MachineLearning\\Modelling.md",
+      "created_on": "2026-01-27T06:02:20.237Z",
+      "updated_on": "2026-01-27T06:02:20.237Z",
+      "last_viewed_on": "2026-01-27T19:02:41.007Z",
+      "views": 6,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_1769493689536_893279630e28c_tmp_output_1769499876619_c3a06a98339748_1769499881461",
+          "target_id": "tmp_output_1769499876619_c3a06a98339748",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    }
+  ]
+}

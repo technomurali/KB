@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0.0",
+  "id": "6dcea5fa-aa5f-43d1-bd9f-0ee1e444b826",
+  "name": "Techno KB",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\Techno KB",
+  "created_on": "2026-01-24T09:48:24.384Z",
+  "updated_on": "2026-01-24T09:48:24.384Z",
+  "last_viewed_on": "2026-01-24T09:48:24.384Z",
+  "views": 0,
+  "notifications": [
+    "Subfolder ignored at AI"
+  ],
+  "recommendations": [],
+  "error_messages": [],
+  "node_positions": {},
+  "node_colors": {},
+  "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "child": []
+}

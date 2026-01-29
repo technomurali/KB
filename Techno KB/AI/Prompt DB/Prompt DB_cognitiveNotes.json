@@ -1,0 +1,184 @@
+{
+  "schema_version": "1.0.0",
+  "id": "cc2eb538-d34c-4d5c-9397-226931902f31",
+  "name": "Prompt DB",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\Prompt DB",
+  "created_on": "2026-01-23T20:46:36.123Z",
+  "updated_on": "2026-01-29T12:01:37.295Z",
+  "last_viewed_on": "2026-01-23T20:46:36.123Z",
+  "views": 0,
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [
+    {
+      "id": "tmp_1769263786651_90393c74dd982",
+      "label": "Cursor AI Prompts.md"
+    },
+    {
+      "id": "tmp_1769327578287_cd18b3fcf5eee",
+      "label": "Prompt Technical Vocabulary.md"
+    }
+  ],
+  "node_positions": {
+    "tmp_image_1769201209049_3eb5556e2306a": {
+      "x": -642.6162895904694,
+      "y": -125.51195753415249
+    },
+    "tmp_1769201268158_77d54a5364515": {
+      "x": -399.9066671662901,
+      "y": -401.77795967489544
+    },
+    "tmp_image_1769201970614_ba40fafe41bd08": {
+      "x": -462.6819855850923,
+      "y": -94.23259874916431
+    },
+    "tmp_image_1769202171510_82219c7f93f94": {
+      "x": -298.1455354687256,
+      "y": -86.24523877282756
+    },
+    "tmp_image_1769202604193_70a6c2ae8c085": {
+      "x": -135.48587851062896,
+      "y": -72.57392466694799
+    },
+    "cc2eb538-d34c-4d5c-9397-226931902f31": {
+      "x": 180,
+      "y": 0
+    },
+    "tmp_1769263786651_90393c74dd982": {
+      "x": -397.7208817811857,
+      "y": -342.2768422690856
+    },
+    "tmp_1769327578287_cd18b3fcf5eee": {
+      "x": -607.8146453005513,
+      "y": -335.3683278575659
+    },
+    "flow_1769485517152_215f763009dc18": {
+      "x": 118.125012199129,
+      "y": -713.9720616901498
+    },
+    "flow_1769485524179_559effa557b6": {
+      "x": -63.28654201315604,
+      "y": -732.2485988682532
+    },
+    "tmp_image_1769485785231_56b4ebb9145898": {
+      "x": 107.41996508310297,
+      "y": -545.1949663923491
+    },
+    "ffd1fe12-f764-476c-82ac-b64bab62b3c2": {
+      "x": 178,
+      "y": -464
+    }
+  },
+  "node_colors": {
+    "tmp_1769201268158_77d54a5364515": "#4330d5",
+    "tmp_image_1769201970614_ba40fafe41bd08": "#4330d5",
+    "tmp_image_1769202171510_82219c7f93f94": "#4330d5",
+    "tmp_image_1769202604193_70a6c2ae8c085": "#4330d5",
+    "tmp_image_1769201209049_3eb5556e2306a": "#4330d5",
+    "tmp_1769263786651_90393c74dd982": "#30d5a3",
+    "tmp_1769327578287_cd18b3fcf5eee": "#4330d5",
+    "flow_1769484911478_ac54a0d4bc977": "#4330d5",
+    "tmp_image_1769485785231_56b4ebb9145898": "#4330d5",
+    "tmp_output_1769491497567_174e20928ff5a8": "#4330d5"
+  },
+  "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "groups": [],
+  "child": [
+    {
+      "id": "tmp_1769263786651_90393c74dd982",
+      "name": "Cursor AI Prompts",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\Prompt DB\\Cursor AI Prompts.md",
+      "created_on": "2026-01-24T14:10:22.333Z",
+      "updated_on": "2026-01-24T14:10:22.333Z",
+      "last_viewed_on": "2026-01-29T12:01:37.295Z",
+      "views": 39,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_image_1769202604193_70a6c2ae8c085",
+      "name": "prompt 4",
+      "extension": "png",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\Prompt DB\\prompt 4.png",
+      "created_on": "2026-01-23T21:11:00.464Z",
+      "updated_on": "2026-01-23T21:11:00.464Z",
+      "last_viewed_on": "2026-01-23T21:11:00.464Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769327578287_cd18b3fcf5eee",
+      "name": "Prompt Technical Vocabulary",
+      "extension": "md",
+      "purpose": "The purpose of this document is to collect technical vocabulary while developing a prompt. if we use this vocabulary the system can understand and executes the task more precisely. ",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\Prompt DB\\Prompt Technical Vocabulary.md",
+      "created_on": "2026-01-25T07:55:14.494Z",
+      "updated_on": "2026-01-25T07:55:14.495Z",
+      "last_viewed_on": "2026-01-27T01:49:21.996Z",
+      "views": 19,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_image_1769201970614_ba40fafe41bd08",
+      "name": "prompt2",
+      "extension": "png",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\Prompt DB\\prompt2.png",
+      "created_on": "2026-01-23T21:10:22.396Z",
+      "updated_on": "2026-01-23T21:10:22.396Z",
+      "last_viewed_on": "2026-01-23T21:10:22.396Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_image_1769202171510_82219c7f93f94",
+      "name": "prompt3",
+      "extension": "png",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\Prompt DB\\prompt3.png",
+      "created_on": "2026-01-23T21:10:33.419Z",
+      "updated_on": "2026-01-23T21:10:33.419Z",
+      "last_viewed_on": "2026-01-23T21:10:33.419Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_image_1769201209049_3eb5556e2306a",
+      "name": "Veo prompt",
+      "extension": "png",
+      "purpose": "Documentary style . A raccon manages a coffe shop.Dialogue",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\Techno KB\\AI\\Prompt DB\\Veo prompt.png",
+      "created_on": "2026-01-23T21:14:05.787Z",
+      "updated_on": "2026-01-23T21:14:05.787Z",
+      "last_viewed_on": "2026-01-23T21:14:05.787Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": null
+    }
+  ]
+}

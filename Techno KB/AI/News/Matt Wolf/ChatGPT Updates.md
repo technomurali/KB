@@ -1,0 +1,1 @@
+[ChatGPT Translate Over 50 Languages](https://chatgpt.com/translate/)

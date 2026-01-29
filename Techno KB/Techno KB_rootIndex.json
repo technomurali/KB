@@ -1,0 +1,277 @@
+{
+  "schema_version": "1.0.0",
+  "id": "5a4f8346-1728-4e35-aae8-8ec0a23720dd",
+  "name": "Techno KB",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\Techno KB",
+  "created_on": "2026-01-23T20:01:06.013Z",
+  "updated_on": "2026-01-23T20:01:44.348Z",
+  "last_viewed_on": "2026-01-23T20:01:06.013Z",
+  "views": 0,
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "node_positions": {
+    "5870f6de-689e-4f8e-9193-b35236fdc195": {
+      "x": -288.43856700380775,
+      "y": -908.3200460538553
+    },
+    "e05ac909-1667-4da6-b44f-3dbf87028008": {
+      "x": -1093.4385670038077,
+      "y": -628.3200460538553
+    },
+    "26150233-8f05-43e3-8f46-5b20bae80221": {
+      "x": -403.43856700380775,
+      "y": -68.32004605385532
+    },
+    "408285b4-127d-4ac0-a8d2-d96eb45dbd80": {
+      "x": -633.4385670038077,
+      "y": -68.32004605385532
+    }
+  },
+  "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "child": [
+    {
+      "id": "5870f6de-689e-4f8e-9193-b35236fdc195",
+      "name": "AI",
+      "purpose": "",
+      "type": "folder_A",
+      "level": 1,
+      "path": "E:\\2026\\Techno KB\\AI",
+      "created_on": "2026-01-23T20:01:06.013Z",
+      "updated_on": "2026-01-23T20:01:06.013Z",
+      "last_viewed_on": "2026-01-23T20:01:06.013Z",
+      "views": 0,
+      "child": [
+        {
+          "id": "e05ac909-1667-4da6-b44f-3dbf87028008",
+          "name": "News",
+          "purpose": "",
+          "type": "folder_B",
+          "level": 2,
+          "path": "E:\\2026\\Techno KB\\AI\\News",
+          "created_on": "2026-01-23T20:01:06.013Z",
+          "updated_on": "2026-01-23T20:01:06.013Z",
+          "last_viewed_on": "2026-01-23T20:01:06.013Z",
+          "views": 0,
+          "child": [
+            {
+              "id": "6b817544-a1bb-4b74-bb76-63b971653058",
+              "name": "Matt Wolfe",
+              "purpose": "",
+              "type": "folder_C",
+              "level": 3,
+              "path": "E:\\2026\\Techno KB\\AI\\News\\Matt Wolfe",
+              "created_on": "2026-01-23T20:01:06.013Z",
+              "updated_on": "2026-01-23T20:01:06.013Z",
+              "last_viewed_on": "2026-01-23T20:01:06.013Z",
+              "views": 0,
+              "child": [
+                {
+                  "id": "63143321-6f97-4749-ab65-c602aa2a8efb",
+                  "name": "ChatGPT Updates",
+                  "extension": "md",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\Techno KB\\AI\\News\\Matt Wolfe\\ChatGPT Updates.md",
+                  "created_on": "2026-01-24T09:44:12.711Z",
+                  "updated_on": "2026-01-24T09:44:12.711Z",
+                  "last_viewed_on": "2026-01-24T09:44:12.711Z",
+                  "views": 0
+                },
+                {
+                  "id": "99ae3925-8e7d-40ed-8420-857b6782d2a0",
+                  "name": "Claude Can Now Control Your Computer!",
+                  "extension": "png",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\Techno KB\\AI\\News\\Matt Wolfe\\Claude Can Now Control Your Computer!.png",
+                  "created_on": "2026-01-23T20:01:06.013Z",
+                  "updated_on": "2026-01-23T20:01:06.013Z",
+                  "last_viewed_on": "2026-01-23T20:01:06.013Z",
+                  "views": 0
+                },
+                {
+                  "id": "b717c57c-1a5e-4c0a-bf24-00910a80f128",
+                  "name": "Claude updates",
+                  "extension": "md",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\Techno KB\\AI\\News\\Matt Wolfe\\Claude updates.md",
+                  "created_on": "2026-01-24T09:44:12.711Z",
+                  "updated_on": "2026-01-24T09:44:12.711Z",
+                  "last_viewed_on": "2026-01-24T09:44:12.711Z",
+                  "views": 0
+                },
+                {
+                  "id": "960482b7-77f9-4078-a813-672c1399bf32",
+                  "name": "Google Gemini Updates",
+                  "extension": "md",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\Techno KB\\AI\\News\\Matt Wolfe\\Google Gemini Updates.md",
+                  "created_on": "2026-01-24T09:44:12.711Z",
+                  "updated_on": "2026-01-24T09:44:12.711Z",
+                  "last_viewed_on": "2026-01-24T09:44:12.711Z",
+                  "views": 0
+                },
+                {
+                  "id": "637c2e40-657c-40a2-9e11-5614d1cda9ff",
+                  "name": "Matt Wolfe_cognitiveNotes",
+                  "extension": "json",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\Techno KB\\AI\\News\\Matt Wolfe\\Matt Wolfe_cognitiveNotes.json",
+                  "created_on": "2026-01-23T20:01:06.013Z",
+                  "updated_on": "2026-01-23T20:01:06.013Z",
+                  "last_viewed_on": "2026-01-23T20:01:06.013Z",
+                  "views": 0
+                },
+                {
+                  "id": "408285b4-127d-4ac0-a8d2-d96eb45dbd80",
+                  "name": "Opensource",
+                  "extension": "md",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\Techno KB\\AI\\News\\Matt Wolfe\\Opensource.md",
+                  "created_on": "2026-01-24T09:44:12.711Z",
+                  "updated_on": "2026-01-24T09:44:12.711Z",
+                  "last_viewed_on": "2026-01-24T09:44:12.711Z",
+                  "views": 0
+                },
+                {
+                  "id": "26150233-8f05-43e3-8f46-5b20bae80221",
+                  "name": "Perplex",
+                  "extension": "md",
+                  "purpose": "",
+                  "type": "file_D",
+                  "level": 4,
+                  "path": "E:\\2026\\Techno KB\\AI\\News\\Matt Wolfe\\Perplex.md",
+                  "created_on": "2026-01-24T09:44:12.711Z",
+                  "updated_on": "2026-01-24T09:44:12.711Z",
+                  "last_viewed_on": "2026-01-24T09:44:12.711Z",
+                  "views": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "766eec07-bfb4-41bd-94a7-56ed6d62a5b1",
+          "name": "Prompt DB",
+          "purpose": "",
+          "type": "folder_B",
+          "level": 2,
+          "path": "E:\\2026\\Techno KB\\AI\\Prompt DB",
+          "created_on": "2026-01-23T20:01:06.013Z",
+          "updated_on": "2026-01-23T20:01:06.013Z",
+          "last_viewed_on": "2026-01-23T20:01:06.013Z",
+          "views": 0,
+          "child": [
+            {
+              "id": "c1ab0fd8-a701-4fc5-b764-888d2a5b4813",
+              "name": "prompt 4",
+              "extension": "png",
+              "purpose": "",
+              "type": "file_C",
+              "level": 3,
+              "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\prompt 4.png",
+              "created_on": "2026-01-24T09:44:12.711Z",
+              "updated_on": "2026-01-24T09:44:12.711Z",
+              "last_viewed_on": "2026-01-24T09:44:12.711Z",
+              "views": 0
+            },
+            {
+              "id": "53a232be-243a-462b-80c5-8574d7cab5a6",
+              "name": "Prompt DB_cognitiveNotes",
+              "extension": "json",
+              "purpose": "",
+              "type": "file_C",
+              "level": 3,
+              "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\Prompt DB_cognitiveNotes.json",
+              "created_on": "2026-01-24T09:44:12.711Z",
+              "updated_on": "2026-01-24T09:44:12.711Z",
+              "last_viewed_on": "2026-01-24T09:44:12.711Z",
+              "views": 0
+            },
+            {
+              "id": "b150f713-5b4b-48c4-a8d0-15d2fff5cb70",
+              "name": "Prompt DB_rootIndex",
+              "extension": "json",
+              "purpose": "",
+              "type": "file_C",
+              "level": 3,
+              "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\Prompt DB_rootIndex.json",
+              "created_on": "2026-01-24T09:44:12.711Z",
+              "updated_on": "2026-01-24T09:44:12.711Z",
+              "last_viewed_on": "2026-01-24T09:44:12.711Z",
+              "views": 0
+            },
+            {
+              "id": "5002341d-d2ee-48a5-b161-6be631d341f7",
+              "name": "prompt2",
+              "extension": "png",
+              "purpose": "",
+              "type": "file_C",
+              "level": 3,
+              "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\prompt2.png",
+              "created_on": "2026-01-24T09:44:12.711Z",
+              "updated_on": "2026-01-24T09:44:12.711Z",
+              "last_viewed_on": "2026-01-24T09:44:12.711Z",
+              "views": 0
+            },
+            {
+              "id": "bafb3647-ca43-4bae-9f7b-c86a6324a00b",
+              "name": "prompt3",
+              "extension": "png",
+              "purpose": "",
+              "type": "file_C",
+              "level": 3,
+              "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\prompt3.png",
+              "created_on": "2026-01-24T09:44:12.711Z",
+              "updated_on": "2026-01-24T09:44:12.711Z",
+              "last_viewed_on": "2026-01-24T09:44:12.711Z",
+              "views": 0
+            },
+            {
+              "id": "a7079925-a391-4d0d-8209-bc1e46755d7b",
+              "name": "Veo prompt",
+              "extension": "png",
+              "purpose": "",
+              "type": "file_C",
+              "level": 3,
+              "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\Veo prompt.png",
+              "created_on": "2026-01-24T09:44:12.711Z",
+              "updated_on": "2026-01-24T09:44:12.711Z",
+              "last_viewed_on": "2026-01-24T09:44:12.711Z",
+              "views": 0
+            },
+            {
+              "id": "53dea307-7e54-4f54-a132-feb38f861c97",
+              "name": "Veo Prompts",
+              "extension": "md",
+              "purpose": "",
+              "type": "file_C",
+              "level": 3,
+              "path": "E:\\2026\\Techno KB\\AI\\Prompt DB\\Veo Prompts.md",
+              "created_on": "2026-01-24T09:44:12.711Z",
+              "updated_on": "2026-01-24T09:44:12.711Z",
+              "last_viewed_on": "2026-01-24T09:44:12.711Z",
+              "views": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

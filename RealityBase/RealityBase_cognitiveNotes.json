@@ -1,0 +1,518 @@
+{
+  "schema_version": "1.0.0",
+  "id": "b197bf9e-4653-4c56-b1e5-054efa1f5469",
+  "name": "RealityBase",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB\\KB\\RealityBase",
+  "created_on": "2026-01-25T12:15:32.491Z",
+  "updated_on": "2026-01-29T09:14:43.364Z",
+  "last_viewed_on": "2026-01-25T12:15:32.491Z",
+  "views": 0,
+  "notifications": [
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances",
+    "Subfolder ignored at PromptCodingExperiances"
+  ],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [],
+  "node_positions": {
+    "tmp_1769343345104_19f621a4f388a": {
+      "x": -516.6226804118987,
+      "y": -387.95259416850604
+    },
+    "flow_1769478573019_38da9103a04e9": {
+      "x": -252.99795893992194,
+      "y": 83.2857362735912
+    },
+    "tmp_shield_1769478725910_baa5e36bc4c808": {
+      "x": -14.675491044858035,
+      "y": 213.45913304371507
+    },
+    "tmp_shield_1769479198544_49f4b7504e3bf": {
+      "x": -88.96526906426493,
+      "y": 203.81955932262372
+    },
+    "tmp_shield_1769479588089_721d8843a1f7b8": {
+      "x": -96.75796351008921,
+      "y": 94.67321645121118
+    },
+    "tmp_shield_1769481853780_335be431e53348": {
+      "x": -28.061792560110916,
+      "y": 107.44666854268215
+    },
+    "tmp_output_1769491970844_98a3da0188c598": {
+      "x": -287.52188600688777,
+      "y": -99.06643526016131
+    },
+    "tmp_output_1769493435296_a960ec0fd8dcb8": {
+      "x": -293.08177097825785,
+      "y": -14.172854784485708
+    },
+    "tmp_shield_1769493459649_c321f870ca3b88": {
+      "x": -300.5101035546352,
+      "y": 209.73068057742336
+    },
+    "flow_1769583247641_0f9dc469188b18": {
+      "x": -120.13968789003229,
+      "y": -267.42037879430904
+    },
+    "flow_1769583372157_6760258ca2f8c8": {
+      "x": -226.01157047000495,
+      "y": 45.42204512362724
+    },
+    "flow_1769583608633_bf1514b159ff5": {
+      "x": -119.48504354902019,
+      "y": -163.53288989906014
+    },
+    "flow_1769583631133_2a1231a744e7d8": {
+      "x": -141.69321174562953,
+      "y": -116.8191567958474
+    },
+    "flow_1769583732991_7531c813e8a5b8": {
+      "x": -228.51407168744336,
+      "y": 379.2924048724675
+    },
+    "flow_1769585065746_75838354c7d1f": {
+      "x": -134.98330814711824,
+      "y": 230.18699058559102
+    },
+    "flow_1769585163703_3c225778623838": {
+      "x": -79.56882559037246,
+      "y": 520.8101921960334
+    },
+    "flow_1769585235764_44eb46f368cfe": {
+      "x": -189.6894549746291,
+      "y": 706.373794208187
+    },
+    "b197bf9e-4653-4c56-b1e5-054efa1f5469": {
+      "x": 210,
+      "y": 0
+    },
+    "flow_1769585381954_12a40756877d98": {
+      "x": 7.4127803987212815,
+      "y": -28.212240863537573
+    },
+    "flow_1769585438347_a73a081330257": {
+      "x": 33.53544716913248,
+      "y": -174.7066148155532
+    },
+    "flow_1769585580315_795ea4cd3997d": {
+      "x": -122.05437568304939,
+      "y": 83.09714686967823
+    },
+    "flow_1769585641012_a56eb579ca1c88": {
+      "x": -92.14809924789236,
+      "y": 240.9703777464918
+    },
+    "flow_1769585778541_f8a98d2e6cb3d8": {
+      "x": -32.53201424416146,
+      "y": 523.623762736903
+    },
+    "decision_1769585931414_8d7f34b8450c78": {
+      "x": -92.82869399243066,
+      "y": 377.8768823302378
+    },
+    "flow_1769585999138_e2dbed5df3c068": {
+      "x": 30.181478321965187,
+      "y": 364.53418486604204
+    },
+    "flow_1769586076269_672ca1dcdfa93": {
+      "x": -31.680481631688394,
+      "y": 654.5254915143676
+    },
+    "flow_1769662502492_cf8b39fe496a1": {
+      "x": 72.78863277677709,
+      "y": 134.89595746050313
+    },
+    "decision_1769677929469_e4e19502874ff8": {
+      "x": 366.8894546577812,
+      "y": 175.10000788784345
+    }
+  },
+  "node_colors": {
+    "tmp_1769343345104_19f621a4f388a": "#4330d5",
+    "tmp_shield_1769478725910_baa5e36bc4c808": "#4330d5",
+    "tmp_shield_1769479198544_49f4b7504e3bf": "#4330d5",
+    "tmp_shield_1769479588089_721d8843a1f7b8": "#4330d5",
+    "tmp_shield_1769481853780_335be431e53348": "#4330d5",
+    "flow_1769583247641_0f9dc469188b18": "#df3030",
+    "flow_1769585381954_12a40756877d98": "#6da617",
+    "flow_1769585438347_a73a081330257": "#d59830",
+    "flow_1769585580315_795ea4cd3997d": "#19a31c",
+    "flow_1769585641012_a56eb579ca1c88": "#139a72",
+    "flow_1769585778541_f8a98d2e6cb3d8": "#4330d5",
+    "flow_1769585999138_e2dbed5df3c068": "#3095d5",
+    "flow_1769586076269_672ca1dcdfa93": "#a31ec8"
+  },
+  "node_size": {},
+  "flowchart_nodes": [
+    {
+      "id": "flow_1769583247641_0f9dc469188b18",
+      "type": "flowchart.roundRect",
+      "name": "1.Information",
+      "purpose": "Isolated facts, Data Points.\nNo internal linkage or context.",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-28T06:55:58.987Z",
+      "updated_on": "2026-01-29T04:50:59.716Z"
+    },
+    {
+      "id": "flow_1769585381954_12a40756877d98",
+      "type": "flowchart.rect",
+      "name": "3.Knowledge",
+      "purpose": "Organized information with relationships (cause, category, rule).\nDefault Structural Model.",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-28T07:29:58.236Z",
+      "updated_on": "2026-01-29T04:51:20.446Z"
+    },
+    {
+      "id": "flow_1769585438347_a73a081330257",
+      "type": "flowchart.circle",
+      "name": "2.Interpretation",
+      "purpose": "Assigns meaning\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-28T07:31:00.239Z",
+      "updated_on": "2026-01-29T04:51:11.932Z"
+    },
+    {
+      "id": "flow_1769585580315_795ea4cd3997d",
+      "type": "flowchart.circle",
+      "name": "4.Understanding",
+      "purpose": "Builds Mental\npossible simulated models.\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-28T07:33:33.825Z",
+      "updated_on": "2026-01-29T04:51:33.894Z"
+    },
+    {
+      "id": "flow_1769585641012_a56eb579ca1c88",
+      "type": "flowchart.rect",
+      "name": "5.Intelligence",
+      "purpose": "from above purified content it can generate new knowledge, it enables decision making, Creativity.",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-28T07:34:37.732Z",
+      "updated_on": "2026-01-29T04:56:55.544Z"
+    },
+    {
+      "id": "flow_1769585778541_f8a98d2e6cb3d8",
+      "type": "flowchart.decision",
+      "name": "7.Decision",
+      "purpose": "A resolved state where alternatives \ncollapse into one chosen path.\nTriggers action. This is the first layer \nthat changes reality.\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-28T07:38:42.954Z",
+      "updated_on": "2026-01-29T04:52:11.738Z"
+    },
+    {
+      "id": "flow_1769585999138_e2dbed5df3c068",
+      "type": "flowchart.circle",
+      "name": "6.Judgment",
+      "purpose": "Collapses ambiguity\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-28T07:40:37.396Z",
+      "updated_on": "2026-01-29T04:51:59.986Z"
+    },
+    {
+      "id": "flow_1769586076269_672ca1dcdfa93",
+      "type": "flowchart.triangle",
+      "name": "Action",
+      "purpose": "Execution\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-01-28T07:42:32.724Z",
+      "updated_on": "2026-01-28T07:42:32.724Z"
+    }
+  ],
+  "flowchart_edges": [
+    {
+      "id": "e_flow_1769583247641_0f9dc469188b18_flow_1769585438347_a73a081330257_1769585472494",
+      "source": "flow_1769583247641_0f9dc469188b18",
+      "target": "flow_1769585438347_a73a081330257",
+      "source_handle": "source-right",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769585438347_a73a081330257_flow_1769585381954_12a40756877d98_1769585502697",
+      "source": "flow_1769585438347_a73a081330257",
+      "target": "flow_1769585381954_12a40756877d98",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769585381954_12a40756877d98_flow_1769585580315_795ea4cd3997d_1769585584882",
+      "source": "flow_1769585381954_12a40756877d98",
+      "target": "flow_1769585580315_795ea4cd3997d",
+      "source_handle": "source-left",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769585580315_795ea4cd3997d_flow_1769585641012_a56eb579ca1c88_1769585646464",
+      "source": "flow_1769585580315_795ea4cd3997d",
+      "target": "flow_1769585641012_a56eb579ca1c88",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769585641012_a56eb579ca1c88_flow_1769585999138_e2dbed5df3c068_1769586040216",
+      "source": "flow_1769585641012_a56eb579ca1c88",
+      "target": "flow_1769585999138_e2dbed5df3c068",
+      "source_handle": "source-right",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769585999138_e2dbed5df3c068_flow_1769585778541_f8a98d2e6cb3d8_1769586043629",
+      "source": "flow_1769585999138_e2dbed5df3c068",
+      "target": "flow_1769585778541_f8a98d2e6cb3d8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769585778541_f8a98d2e6cb3d8_flow_1769586076269_672ca1dcdfa93_1769586476388",
+      "source": "flow_1769585778541_f8a98d2e6cb3d8",
+      "target": "flow_1769586076269_672ca1dcdfa93",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    }
+  ],
+  "groups": [
+    {
+      "id": "pm_group_1769586534543_4e7b75147e335",
+      "name": "Information to Action",
+      "purpose": "",
+      "node_ids": [
+        "flow_1769583247641_0f9dc469188b18",
+        "flow_1769585438347_a73a081330257",
+        "flow_1769585381954_12a40756877d98",
+        "flow_1769585580315_795ea4cd3997d",
+        "flow_1769585641012_a56eb579ca1c88",
+        "flow_1769585999138_e2dbed5df3c068",
+        "flow_1769585778541_f8a98d2e6cb3d8",
+        "flow_1769586076269_672ca1dcdfa93"
+      ],
+      "created_on": "2026-01-28T07:48:54.543Z",
+      "updated_on": "2026-01-29T04:54:38.207Z",
+      "scale": 1,
+      "base_sizes": {
+        "flow_1769583247641_0f9dc469188b18": {
+          "nodeSize": 200
+        },
+        "flow_1769585438347_a73a081330257": {
+          "nodeSize": 200
+        },
+        "flow_1769585381954_12a40756877d98": {
+          "nodeSize": 200
+        },
+        "flow_1769585580315_795ea4cd3997d": {
+          "nodeSize": 200
+        },
+        "flow_1769585641012_a56eb579ca1c88": {
+          "nodeSize": 200
+        },
+        "flow_1769585999138_e2dbed5df3c068": {
+          "nodeSize": 200
+        },
+        "flow_1769585778541_f8a98d2e6cb3d8": {
+          "nodeSize": 200
+        },
+        "flow_1769586076269_672ca1dcdfa93": {
+          "nodeSize": 200
+        }
+      },
+      "base_positions": {
+        "flow_1769583247641_0f9dc469188b18": {
+          "x": -137.444699378741,
+          "y": -272.59916001860745
+        },
+        "flow_1769585438347_a73a081330257": {
+          "x": -9.422308040186465,
+          "y": -176.885912133145
+        },
+        "flow_1769585381954_12a40756877d98": {
+          "x": -55.83575367122512,
+          "y": -19.788223850847643
+        },
+        "flow_1769585580315_795ea4cd3997d": {
+          "x": -196.95661669915313,
+          "y": 74.12907422910388
+        },
+        "flow_1769585641012_a56eb579ca1c88": {
+          "x": -68.34525433506377,
+          "y": 238.82302965521424
+        },
+        "flow_1769585999138_e2dbed5df3c068": {
+          "x": 72.99962136484396,
+          "y": 360.33734897514137
+        },
+        "flow_1769585778541_f8a98d2e6cb3d8": {
+          "x": -52.868458865891,
+          "y": 520.7185563623702
+        },
+        "flow_1769586076269_672ca1dcdfa93": {
+          "x": -52.28294422942133,
+          "y": 688.2724380790843
+        }
+      }
+    }
+  ],
+  "child": [
+    {
+      "id": "tmp_1769343345104_19f621a4f388a",
+      "name": "Higherlevel Understanding",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\RealityBase\\Higherlevel Understanding.md",
+      "created_on": "2026-01-25T12:16:05.099Z",
+      "updated_on": "2026-01-25T16:06:25.186Z",
+      "last_viewed_on": "2026-01-29T09:14:43.364Z",
+      "views": 20,
+      "related_nodes": [],
+      "sort_index": null
+    }
+  ]
+}

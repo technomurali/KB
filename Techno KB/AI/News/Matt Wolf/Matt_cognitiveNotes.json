@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0.0",
+  "id": "a2f3c7fa-fb8e-47b6-95b0-baf3dd28ed35",
+  "name": "Matt",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt",
+  "created_on": "2026-01-23T19:48:29.309Z",
+  "updated_on": "2026-01-24T19:29:56.813Z",
+  "last_viewed_on": "2026-01-23T19:48:29.309Z",
+  "views": 0,
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "node_positions": {
+    "flow_1769197756908_8a99e4739a23d8": {
+      "x": -850.4595243307076,
+      "y": -1138.9797900709118
+    },
+    "tmp_image_1769197802320_4e36fe9cf76b9": {
+      "x": -635.8037328087868,
+      "y": -999.7948925052401
+    },
+    "tmp_1769197890112_513ba73aa71a48": {
+      "x": -330.0925885896502,
+      "y": -812.4985779388479
+    },
+    "a2f3c7fa-fb8e-47b6-95b0-baf3dd28ed35": {
+      "x": 330,
+      "y": 0
+    },
+    "tmp_1769200766353_7d4fbec71a752": {
+      "x": -521.2972012312756,
+      "y": -817.4452497930536
+    },
+    "tmp_1769200961207_e9733de2ca831": {
+      "x": -703.1378240297324,
+      "y": -814.4621759472426
+    },
+    "tmp_1769201055079_1f9612e6dc9b5": {
+      "x": -143.2949675557552,
+      "y": -812.9461733332973
+    },
+    "tmp_1769204559068_6b2a53e13d09d8": {
+      "x": 56.329583437732936,
+      "y": -816.852477737595
+    },
+    "flow_1769231376962_a2be767db620d8": {
+      "x": -164.91407735246992,
+      "y": -364.49116072704646
+    },
+    "flow_1769231681375_26df59f19a34c": {
+      "x": -1312.4488983632414,
+      "y": 279.233185960917
+    },
+    "flow_1769231984856_86616ef6adfb88": {
+      "x": 437.28050811645096,
+      "y": 921.8666641359705
+    }
+  },
+  "node_colors": {
+    "flow_1769197756908_8a99e4739a23d8": "#4330d5",
+    "tmp_image_1769197802320_4e36fe9cf76b9": "#4330d5",
+    "tmp_1769197890112_513ba73aa71a48": "#8a30d5",
+    "tmp_1769200766353_7d4fbec71a752": "#d530a9",
+    "tmp_1769200961207_e9733de2ca831": "#f33535",
+    "tmp_1769201055079_1f9612e6dc9b5": "#4330d5",
+    "tmp_1769204559068_6b2a53e13d09d8": "#4330d5",
+    "flow_1769231281249_a511e38e370ff": "#4330d5",
+    "flow_1769231323958_a0863c447da6b": "#30d595",
+    "flow_1769231347577_81dfb575471b4": "#4330d5",
+    "flow_1769231412408_7915e54c6f283": "#4330d5",
+    "flow_1769231429568_33695cc1239c": "#4330d5",
+    "flow_1769231446577_a32502d01e128": "#4330d5",
+    "flow_1769231471386_dd3cb994f965f": "#4330d5",
+    "flow_1769231563797_83d3245576b0c8": "#4330d5",
+    "flow_1769231592905_69a88289abc7e": "#30d595",
+    "flow_1769231626905_8588d93e45af6": "#4330d5",
+    "flow_1769231666812_b34742a92dfbf8": "#30d595",
+    "flow_1769231681375_26df59f19a34c": "#30d595",
+    "flow_1769231736752_0a5eb8a96cc0a": "#4330d5",
+    "flow_1769231837716_ecf23f2d15d568": "#4330d5",
+    "flow_1769231850804_1209cb5d1586b": "#30d595",
+    "flow_1769231859783_74438c9a58634": "#4330d5",
+    "flow_1769231933638_70faa5918198d": "#4330d5",
+    "flow_1769231956400_72e516d25c0138": "#30d595",
+    "flow_1769232014759_b71db6a746b24": "#4330d5",
+    "flow_1769232036532_a4e9b8d79cafe8": "#30d595",
+    "flow_1769232054937_8fc3094469dfc8": "#30d595",
+    "flow_1769232068667_e59a2e0b81d988": "#30d595",
+    "flow_1769232079402_bb3d294ecb229": "#4330d5",
+    "flow_1769232092355_cf8f400b275d08": "#30d595",
+    "flow_1769232144370_12a9d6039091e": "#4330d5",
+    "flow_1769245807575_6853a79b23b1a8": "#4330d5"
+  },
+  "node_size": {},
+  "flowchart_nodes": [
+    {
+      "id": "flow_1769197756908_8a99e4739a23d8",
+      "type": "flowchart.circle",
+      "name": "Start",
+      "purpose": "",
+      "created_on": "2026-01-23T19:49:24.872Z",
+      "updated_on": "2026-01-23T19:49:24.872Z",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      }
+    }
+  ],
+  "flowchart_edges": [
+    {
+      "id": "e_flow_1769197756908_8a99e4739a23d8_tmp_image_1769197802320_4e36fe9cf76b9_1769197816625",
+      "source": "flow_1769197756908_8a99e4739a23d8",
+      "target": "tmp_image_1769197802320_4e36fe9cf76b9",
+      "source_handle": "source-right",
+      "target_handle": "target-left",
+      "purpose": ""
+    }
+  ],
+  "child": [
+    {
+      "id": "tmp_1769200961207_e9733de2ca831",
+      "name": "ChatGPT Updates",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt\\ChatGPT Updates.md",
+      "created_on": "2026-01-23T20:43:05.666Z",
+      "updated_on": "2026-01-23T20:43:05.666Z",
+      "last_viewed_on": "2026-01-23T20:43:05.666Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": 1
+    },
+    {
+      "id": "tmp_image_1769197802320_4e36fe9cf76b9",
+      "name": "Claude Can Now Control Your Computer!",
+      "extension": "png",
+      "purpose": "https://www.youtube.com/watch?v=a_T5fjA2ulY",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt\\Claude Can Now Control Your Computer!.png",
+      "created_on": "2026-01-23T19:51:17.208Z",
+      "updated_on": "2026-01-23T19:51:17.208Z",
+      "last_viewed_on": "2026-01-23T19:51:17.208Z",
+      "views": 0,
+      "related_nodes": [
+        {
+          "edge_id": "e_tmp_image_1769197802320_4e36fe9cf76b9_tmp_1769197890112_513ba73aa71a48_1769200938778",
+          "target_id": "tmp_1769197890112_513ba73aa71a48",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_image_1769197802320_4e36fe9cf76b9_tmp_1769200766353_7d4fbec71a752_1769200941910",
+          "target_id": "tmp_1769200766353_7d4fbec71a752",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_image_1769197802320_4e36fe9cf76b9_tmp_1769200961207_e9733de2ca831_1769200966522",
+          "target_id": "tmp_1769200961207_e9733de2ca831",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_image_1769197802320_4e36fe9cf76b9_tmp_1769201055079_1f9612e6dc9b5_1769204549996",
+          "target_id": "tmp_1769201055079_1f9612e6dc9b5",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        },
+        {
+          "edge_id": "e_tmp_image_1769197802320_4e36fe9cf76b9_tmp_1769204559068_6b2a53e13d09d8_1769245988773",
+          "target_id": "tmp_1769204559068_6b2a53e13d09d8",
+          "purpose": "",
+          "source_handle": "source-bottom",
+          "target_handle": "target-top"
+        }
+      ],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769197890112_513ba73aa71a48",
+      "name": "Claude updates",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt\\Claude updates.md",
+      "created_on": "2026-01-23T19:52:25.119Z",
+      "updated_on": "2026-01-23T20:41:29.211Z",
+      "last_viewed_on": "2026-01-23T19:52:25.119Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": 3
+    },
+    {
+      "id": "tmp_1769200766353_7d4fbec71a752",
+      "name": "Google Gemini Updates",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt\\Google Gemini Updates.md",
+      "created_on": "2026-01-23T20:39:48.471Z",
+      "updated_on": "2026-01-23T20:39:48.471Z",
+      "last_viewed_on": "2026-01-23T20:39:48.471Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": 2
+    },
+    {
+      "id": "tmp_1769204559068_6b2a53e13d09d8",
+      "name": "Opensource",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt\\Opensource.md",
+      "created_on": "2026-01-23T21:43:03.741Z",
+      "updated_on": "2026-01-23T21:43:03.741Z",
+      "last_viewed_on": "2026-01-23T21:43:03.741Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": 5
+    },
+    {
+      "id": "tmp_1769201055079_1f9612e6dc9b5",
+      "name": "Perplex",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\News\\Matt\\Perplex.md",
+      "created_on": "2026-01-23T20:44:42.567Z",
+      "updated_on": "2026-01-23T20:44:42.567Z",
+      "last_viewed_on": "2026-01-23T20:44:42.567Z",
+      "views": 0,
+      "related_nodes": [],
+      "sort_index": 4
+    }
+  ]
+}

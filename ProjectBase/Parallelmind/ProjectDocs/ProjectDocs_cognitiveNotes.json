@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.0.0",
+  "id": "ac1f41cf-0bd5-415e-8440-859c4f15fd28",
+  "name": "ProjectDocs",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB\\KB\\ProjectBase\\Parallelmind\\ProjectDocs",
+  "created_on": "2026-01-24T14:56:23.870Z",
+  "updated_on": "2026-01-29T13:54:53.713Z",
+  "last_viewed_on": "2026-01-24T14:56:23.870Z",
+  "views": 0,
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [
+    {
+      "id": "e1124952-e7dc-4e58-9da0-7f2862941765",
+      "label": "OneLineBacklogs.md"
+    }
+  ],
+  "node_positions": {
+    "2d72b291-5fd4-4cee-b0a2-b869e3d93919": {
+      "x": 26.782941476040264,
+      "y": 227.51380199509106
+    },
+    "baf30535-2f04-45d3-9944-2c1dc89d6eac": {
+      "x": 225.2779411167445,
+      "y": 226.58116894756745
+    },
+    "ac1f41cf-0bd5-415e-8440-859c4f15fd28": {
+      "x": 180,
+      "y": 0
+    },
+    "flow_1769320407923_a0c9a89885896": {
+      "x": 204.78460903750693,
+      "y": 40.373829630156536
+    },
+    "e1124952-e7dc-4e58-9da0-7f2862941765": {
+      "x": 416.45171681230636,
+      "y": 222.58244218280333
+    },
+    "tmp_1769341391187_a90d17245554b8": {
+      "x": 619.2772656717603,
+      "y": 220.79713853329542
+    }
+  },
+  "node_colors": {
+    "2d72b291-5fd4-4cee-b0a2-b869e3d93919": "#235daf",
+    "baf30535-2f04-45d3-9944-2c1dc89d6eac": "#235daf",
+    "flow_1769320407923_a0c9a89885896": "#4330d5",
+    "e1124952-e7dc-4e58-9da0-7f2862941765": "#ccd54d",
+    "tmp_1769341391187_a90d17245554b8": "#4330d5"
+  },
+  "node_size": {},
+  "flowchart_nodes": [
+    {
+      "id": "flow_1769320407923_a0c9a89885896",
+      "type": "flowchart.roundRect",
+      "name": "Parallelmind",
+      "purpose": "",
+      "created_on": "2026-01-25T05:53:47.101Z",
+      "updated_on": "2026-01-25T05:53:47.101Z",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      }
+    }
+  ],
+  "flowchart_edges": [
+    {
+      "id": "e_flow_1769320407923_a0c9a89885896_2d72b291-5fd4-4cee-b0a2-b869e3d93919_1769320415389",
+      "source": "flow_1769320407923_a0c9a89885896",
+      "target": "2d72b291-5fd4-4cee-b0a2-b869e3d93919",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769320407923_a0c9a89885896_baf30535-2f04-45d3-9944-2c1dc89d6eac_1769320417472",
+      "source": "flow_1769320407923_a0c9a89885896",
+      "target": "baf30535-2f04-45d3-9944-2c1dc89d6eac",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1769320407923_a0c9a89885896_e1124952-e7dc-4e58-9da0-7f2862941765_1769320864210",
+      "source": "flow_1769320407923_a0c9a89885896",
+      "target": "e1124952-e7dc-4e58-9da0-7f2862941765",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    }
+  ],
+  "groups": [],
+  "child": [
+    {
+      "id": "2d72b291-5fd4-4cee-b0a2-b869e3d93919",
+      "name": "BasicIdea",
+      "extension": "docx",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\BasicIdea.docx",
+      "created_on": "2026-01-24T14:56:23.870Z",
+      "updated_on": "2026-01-24T14:56:23.870Z",
+      "last_viewed_on": "2026-01-25T16:04:16.266Z",
+      "views": 3,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "e1124952-e7dc-4e58-9da0-7f2862941765",
+      "name": "OneLineBacklogs",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\OneLineBacklogs.md",
+      "created_on": "2026-01-25T06:00:39.259Z",
+      "updated_on": "2026-01-25T07:47:32.243Z",
+      "last_viewed_on": "2026-01-29T13:54:53.713Z",
+      "views": 10,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "tmp_1769341391187_a90d17245554b8",
+      "name": "ParallelmindDesignPrincipals",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ParallelmindDesignPrincipals.md",
+      "created_on": "2026-01-25T11:43:51.523Z",
+      "updated_on": "2026-01-25T11:43:51.523Z",
+      "last_viewed_on": "2026-01-25T16:04:20.657Z",
+      "views": 3,
+      "related_nodes": [],
+      "sort_index": null
+    },
+    {
+      "id": "baf30535-2f04-45d3-9944-2c1dc89d6eac",
+      "name": "ProductCapabilitiesRegister-1st30days",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProductCapabilitiesRegister-1st30days.md",
+      "created_on": "2026-01-24T14:56:23.870Z",
+      "updated_on": "2026-01-24T14:56:23.870Z",
+      "last_viewed_on": "2026-01-25T16:04:00.838Z",
+      "views": 3,
+      "related_nodes": [],
+      "sort_index": null
+    }
+  ]
+}
