@@ -22,19 +22,6 @@
   "flowchart_edges": [],
   "child": [
     {
-      "id": "bc0e61f3-c0dc-498a-88e8-a43fdf7c3b04",
-      "name": "PromptCodingExperiances",
-      "purpose": "",
-      "type": "folder_A",
-      "level": 1,
-      "path": "D:\\2026\\KB\\RealityBase\\PromptCodingExperiances",
-      "created_on": "2026-01-28T06:53:21.667Z",
-      "updated_on": "2026-01-28T06:53:21.667Z",
-      "last_viewed_on": "2026-01-28T06:53:21.667Z",
-      "views": 0,
-      "child": []
-    },
-    {
       "id": "e5b5864b-57a1-4a65-9271-486aa03de712",
       "name": "Higherlevel Understanding",
       "extension": "md",

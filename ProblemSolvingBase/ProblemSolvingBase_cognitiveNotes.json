@@ -7,24 +7,59 @@
   "level": 0,
   "path": "D:\\2026\\KB\\ProblemSolvingBase",
   "created_on": "2026-01-30T06:00:00.000Z",
-  "updated_on": "2026-01-30T06:00:00.000Z",
+  "updated_on": "2026-01-30T06:22:15.660Z",
+  "last_viewed_on": "2026-01-30T06:00:00.000Z",
   "views": 0,
-
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [],
   "node_positions": {
-    "ps_1_signal": { "x": 0, "y": -300 },
-    "ps_2_problem_framing": { "x": 0, "y": -200 },
-    "ps_3_constraints": { "x": 0, "y": -100 },
-    "ps_4_hypotheses": { "x": 0, "y": 0 },
-    "ps_5_evaluation": { "x": 0, "y": 100 },
-    "ps_6_judgment": { "x": 0, "y": 200 },
-    "ps_7_decision": { "x": 0, "y": 300 },
-    "ps_8_execution": { "x": 0, "y": 420 },
-    "ps_9_outcome": { "x": 0, "y": 540 },
-    "ps_10_learning": { "x": 0, "y": 660 },
-
-    "ps_root_001": { "x": 260, "y": -300 }
+    "ps_1_signal": {
+      "x": 2.3417313460021205,
+      "y": -361.66980796899907
+    },
+    "ps_2_problem_framing": {
+      "x": 2.605863192182426,
+      "y": -220.3257328990228
+    },
+    "ps_3_constraints": {
+      "x": 2.7507656771812776,
+      "y": -79.36925742114042
+    },
+    "ps_4_hypotheses": {
+      "x": -191.83210076556384,
+      "y": 84.12300261416152
+    },
+    "ps_5_evaluation": {
+      "x": -1.8148285358618068,
+      "y": 230.6676545820372
+    },
+    "ps_6_judgment": {
+      "x": 284.92808013027536,
+      "y": 379.668025050301
+    },
+    "ps_7_decision": {
+      "x": 1.1368683772161603e-13,
+      "y": 541.3721952695963
+    },
+    "ps_8_execution": {
+      "x": 0,
+      "y": 699.4835945226904
+    },
+    "ps_9_outcome": {
+      "x": 9.074142679308125,
+      "y": 863.0394793833693
+    },
+    "ps_10_learning": {
+      "x": 1.8148285358616931,
+      "y": 1004.8174218137093
+    },
+    "ps_root_001": {
+      "x": 260,
+      "y": -300
+    }
   },
-
   "node_colors": {
     "ps_1_signal": "#d9534f",
     "ps_2_problem_framing": "#f0ad4e",
@@ -37,70 +72,125 @@
     "ps_9_outcome": "#607d8b",
     "ps_10_learning": "#009688"
   },
-
+  "node_size": {},
   "flowchart_nodes": [
     {
       "id": "ps_1_signal",
       "type": "flowchart.circle",
       "name": "1.Signal",
-      "purpose": "A felt anomaly or discomfort indicating something is wrong."
+      "purpose": "A felt anomaly or discomfort\nindicating something is wrong.",
+      "created_on": "",
+      "updated_on": "2026-01-30T06:19:35.030Z",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      }
     },
     {
       "id": "ps_2_problem_framing",
       "type": "flowchart.roundRect",
       "name": "2.Problem Framing",
-      "purpose": "Convert vague signal into a clear problem statement."
+      "purpose": "Convert vague signal into a clear problem statement.",
+      "created_on": "",
+      "updated_on": ""
     },
     {
       "id": "ps_3_constraints",
       "type": "flowchart.rect",
       "name": "3.Constraints",
-      "purpose": "Identify limits: time, resources, risks, rules."
+      "purpose": "Identify limits: time, resources, risks, rules.",
+      "created_on": "",
+      "updated_on": ""
     },
     {
       "id": "ps_4_hypotheses",
       "type": "flowchart.circle",
       "name": "4.Hypotheses",
-      "purpose": "Generate possible explanations or solution paths."
+      "purpose": "Generate possible \nexplanations or solution paths.",
+      "created_on": "",
+      "updated_on": "2026-01-30T06:21:00.562Z",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      }
     },
     {
       "id": "ps_5_evaluation",
       "type": "flowchart.rect",
       "name": "5.Evaluation",
-      "purpose": "Test hypotheses logically or experimentally."
+      "purpose": "Test hypotheses logically or experimentally.",
+      "created_on": "",
+      "updated_on": ""
     },
     {
       "id": "ps_6_judgment",
       "type": "flowchart.circle",
       "name": "6.Judgment",
-      "purpose": "Collapse ambiguity by eliminating weak options."
+      "purpose": "Collapse ambiguity by \neliminating weak options.",
+      "created_on": "",
+      "updated_on": "2026-01-30T06:20:52.927Z",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      }
     },
     {
       "id": "ps_7_decision",
       "type": "flowchart.decision",
       "name": "7.Decision",
-      "purpose": "Consciously select one path."
+      "purpose": "Consciously select one path.",
+      "created_on": "",
+      "updated_on": ""
     },
     {
       "id": "ps_8_execution",
       "type": "flowchart.triangle",
       "name": "8.Execution",
-      "purpose": "Implement the chosen solution in reality."
+      "purpose": "Implement the \nchosen solution in reality.",
+      "created_on": "",
+      "updated_on": "2026-01-30T06:22:15.660Z",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      }
     },
     {
       "id": "ps_9_outcome",
       "type": "flowchart.roundRect",
       "name": "9.Outcome",
-      "purpose": "Observe real-world results."
+      "purpose": "Observe real-world results.",
+      "created_on": "",
+      "updated_on": ""
     },
     {
       "id": "ps_10_learning",
       "type": "flowchart.rect",
       "name": "10.Learning",
-      "purpose": "Extract reusable insight independent of success or failure."
+      "purpose": "Extract reusable insight independent of success or failure.",
+      "created_on": "",
+      "updated_on": ""
     }
   ],
-
   "flowchart_edges": [
     {
       "id": "e_ps_1_2",
@@ -166,55 +256,6 @@
       "target_handle": "target-top"
     }
   ],
-
-  "groups": [
-    {
-      "id": "pm_group_problem_solving",
-      "name": "Signal → Learning",
-      "purpose": "Ensure every problem produces reusable intelligence.",
-      "node_ids": [
-        "ps_1_signal",
-        "ps_2_problem_framing",
-        "ps_3_constraints",
-        "ps_4_hypotheses",
-        "ps_5_evaluation",
-        "ps_6_judgment",
-        "ps_7_decision",
-        "ps_8_execution",
-        "ps_9_outcome",
-        "ps_10_learning"
-      ],
-      "scale": 1
-    }
-  ],
-
-  "child": [
-    {
-      "id": "ps_problem_statement_md",
-      "name": "ProblemStatement",
-      "extension": "md",
-      "type": "file_A",
-      "level": 1,
-      "path": "D:\\2026\\KB\\ProblemSolvingBase\\ProblemStatement.md",
-      "purpose": "Formal articulation of the problem."
-    },
-    {
-      "id": "ps_decision_log_md",
-      "name": "DecisionLog",
-      "extension": "md",
-      "type": "file_A",
-      "level": 1,
-      "path": "D:\\2026\\KB\\ProblemSolvingBase\\DecisionLog.md",
-      "purpose": "Why this decision was chosen."
-    },
-    {
-      "id": "ps_learning_md",
-      "name": "ExtractedLearning",
-      "extension": "md",
-      "type": "file_A",
-      "level": 1,
-      "path": "D:\\2026\\KB\\ProblemSolvingBase\\ExtractedLearning.md",
-      "purpose": "Reusable insight for future problems."
-    }
-  ]
+  "groups": [],
+  "child": []
 }
