@@ -1,4 +1,13 @@
 {
   "schema_version": "1.1.0",
-  "bookmarks": []
+  "bookmarks": [
+    {
+      "path": "D:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProjectDocs_cognitiveNotes.json",
+      "name": "ProjectDocs",
+      "moduleType": "cognitiveNotes",
+      "indexType": "cognitiveNotes",
+      "views": 1,
+      "lastOpened": "2026-01-30T07:25:10.517Z"
+    }
+  ]
 }
