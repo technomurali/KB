@@ -7,13 +7,18 @@
   "level": 0,
   "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning",
   "created_on": "2026-01-25T21:30:23.068Z",
-  "updated_on": "2026-01-30T07:28:26.364Z",
+  "updated_on": "2026-02-03T07:28:54.067Z",
   "last_viewed_on": "2026-01-25T21:30:23.068Z",
   "views": 0,
   "notifications": [],
   "recommendations": [],
   "error_messages": [],
-  "recent_searches": [],
+  "recent_searches": [
+    {
+      "id": "tmp_1769541734207_0d8f1825d10e6",
+      "label": "MakeDataLearnable.md"
+    }
+  ],
   "node_positions": {
     "tmp_shield_1769493552274_fdd37b486b83e8": {
       "x": -70.93588681739175,
@@ -342,12 +347,13 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Cleaning.md",
       "created_on": "2026-01-27T19:18:50.687Z",
       "updated_on": "2026-01-27T19:18:50.687Z",
-      "last_viewed_on": "2026-01-29T08:55:18.870Z",
-      "views": 7,
+      "last_viewed_on": "2026-02-03T05:19:41.858Z",
+      "views": 8,
       "related_nodes": [
         {
           "edge_id": "e_tmp_1769541460431_08996e90079ec8_tmp_1769541589532_0960ee5da6ba6_1769541593432",
           "target_id": "tmp_1769541589532_0960ee5da6ba6",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -371,6 +377,7 @@
         {
           "edge_id": "e_tmp_1769541589532_0960ee5da6ba6_tmp_1769541734207_0d8f1825d10e6_1769541907369",
           "target_id": "tmp_1769541734207_0d8f1825d10e6",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -388,8 +395,8 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing Templet.md",
       "created_on": "2026-01-29T06:54:52.395Z",
       "updated_on": "2026-01-29T07:04:07.597Z",
-      "last_viewed_on": "2026-01-30T07:26:11.701Z",
-      "views": 10,
+      "last_viewed_on": "2026-02-03T05:12:10.808Z",
+      "views": 12,
       "related_nodes": [],
       "sort_index": null
     },
@@ -403,8 +410,8 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing.md",
       "created_on": "2026-01-27T07:47:26.964Z",
       "updated_on": "2026-01-27T07:47:26.964Z",
-      "last_viewed_on": "2026-01-29T09:03:42.436Z",
-      "views": 10,
+      "last_viewed_on": "2026-01-31T15:49:31.007Z",
+      "views": 11,
       "node_variant": "shieldFile",
       "details_path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing.notes.md",
       "details_opt_out": false,
@@ -412,6 +419,7 @@
         {
           "edge_id": "e_tmp_shield_1769499986502_6efaca16a93738_tmp_1769493689536_893279630e28c_1769500064874",
           "target_id": "tmp_1769493689536_893279630e28c",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -419,6 +427,7 @@
         {
           "edge_id": "e_tmp_shield_1769499986502_6efaca16a93738_tmp_shield_1769500522883_797e5ad3c96d78_1769500580064",
           "target_id": "tmp_shield_1769500522883_797e5ad3c96d78",
+          "name": "",
           "purpose": "After cleaning the ",
           "source_handle": "source-right",
           "target_handle": "target-left"
@@ -436,13 +445,14 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Set.md",
       "created_on": "2026-01-27T07:58:17.769Z",
       "updated_on": "2026-01-27T20:18:26.916Z",
-      "last_viewed_on": "2026-01-29T08:53:31.621Z",
-      "views": 23,
+      "last_viewed_on": "2026-02-03T05:19:19.366Z",
+      "views": 26,
       "node_variant": "shieldFile",
       "related_nodes": [
         {
           "edge_id": "e_tmp_shield_1769500522883_797e5ad3c96d78_tmp_1769541359226_ae1a16eff3b888_1769541363582",
           "target_id": "tmp_1769541359226_ae1a16eff3b888",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -450,6 +460,7 @@
         {
           "edge_id": "e_tmp_shield_1769500522883_797e5ad3c96d78_tmp_1769669655986_de1bda3bacb63_1769669955920",
           "target_id": "tmp_1769669655986_de1bda3bacb63",
+          "name": "",
           "purpose": "In Practical development",
           "source_handle": "source-right",
           "target_handle": "target-top"
@@ -467,12 +478,13 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Splitting.md",
       "created_on": "2026-01-27T20:20:56.687Z",
       "updated_on": "2026-01-27T20:20:56.687Z",
-      "last_viewed_on": "2026-01-28T06:41:32.567Z",
-      "views": 5,
+      "last_viewed_on": "2026-02-02T01:04:44.275Z",
+      "views": 6,
       "related_nodes": [
         {
           "edge_id": "e_tmp_1769545175419_68a6f3fa777e8_tmp_1769546144060_d9efb5d3898fa_1769546147982",
           "target_id": "tmp_1769546144060_d9efb5d3898fa",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -490,12 +502,13 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Understanding & Profiling.md",
       "created_on": "2026-01-27T19:16:57.732Z",
       "updated_on": "2026-01-29T09:40:33.350Z",
-      "last_viewed_on": "2026-01-29T09:02:10.089Z",
-      "views": 12,
+      "last_viewed_on": "2026-02-03T05:19:33.979Z",
+      "views": 15,
       "related_nodes": [
         {
           "edge_id": "e_tmp_1769541359226_ae1a16eff3b888_tmp_1769541460431_08996e90079ec8_1769541463897",
           "target_id": "tmp_1769541460431_08996e90079ec8",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -513,8 +526,8 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Validation.md",
       "created_on": "2026-01-27T20:38:22.020Z",
       "updated_on": "2026-01-27T20:38:22.020Z",
-      "last_viewed_on": "2026-01-28T06:41:37.794Z",
-      "views": 6,
+      "last_viewed_on": "2026-02-02T01:04:50.587Z",
+      "views": 7,
       "related_nodes": [],
       "sort_index": null
     },
@@ -544,12 +557,13 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Feature Engineering.md",
       "created_on": "2026-01-27T19:37:53.748Z",
       "updated_on": "2026-01-27T19:37:53.748Z",
-      "last_viewed_on": "2026-01-29T09:15:38.164Z",
-      "views": 15,
+      "last_viewed_on": "2026-02-03T05:19:03.280Z",
+      "views": 26,
       "related_nodes": [
         {
           "edge_id": "e_tmp_1769542610409_3460a5a46b075_tmp_1769544424247_c3c2ce372d5e_1769544427817",
           "target_id": "tmp_1769544424247_c3c2ce372d5e",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -573,6 +587,7 @@
         {
           "edge_id": "e_tmp_1769544424247_c3c2ce372d5e_tmp_1769544547199_ef53b68a36c9e_1769544551775",
           "target_id": "tmp_1769544547199_ef53b68a36c9e",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -596,6 +611,7 @@
         {
           "edge_id": "e_tmp_1769544547199_ef53b68a36c9e_tmp_1769545175419_68a6f3fa777e8_1769545179701",
           "target_id": "tmp_1769545175419_68a6f3fa777e8",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -613,12 +629,13 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\MakeDataLearnable.md",
       "created_on": "2026-01-27T19:24:25.990Z",
       "updated_on": "2026-01-29T05:55:33.899Z",
-      "last_viewed_on": "2026-01-29T05:35:45.676Z",
-      "views": 11,
+      "last_viewed_on": "2026-02-03T07:28:54.067Z",
+      "views": 19,
       "related_nodes": [
         {
           "edge_id": "e_tmp_1769541734207_0d8f1825d10e6_tmp_1769542610409_3460a5a46b075_1769542614016",
           "target_id": "tmp_1769542610409_3460a5a46b075",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"
@@ -636,12 +653,13 @@
       "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Modelling.md",
       "created_on": "2026-01-27T06:02:20.237Z",
       "updated_on": "2026-01-27T06:02:20.237Z",
-      "last_viewed_on": "2026-01-27T19:02:41.007Z",
-      "views": 6,
+      "last_viewed_on": "2026-01-31T15:49:32.650Z",
+      "views": 7,
       "related_nodes": [
         {
           "edge_id": "e_tmp_1769493689536_893279630e28c_tmp_output_1769499876619_c3a06a98339748_1769499881461",
           "target_id": "tmp_output_1769499876619_c3a06a98339748",
+          "name": "",
           "purpose": "",
           "source_handle": "source-bottom",
           "target_handle": "target-top"

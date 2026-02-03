@@ -1,259 +1,37 @@
 {
   "schema_version": "1.0.0",
-  "id": "ps_root_001",
+  "id": "36b06aba-7d48-4d35-81cf-79518540d4cc",
   "name": "RealityBase",
-  "purpose": "Transform vague signals into validated solutions through structured cognition.",
+  "purpose": "",
   "type": "root_folder",
   "level": 0,
   "path": "D:\\2026\\KB\\RealityBase",
-  "created_on": "2026-01-30T06:00:00.000Z",
-  "updated_on": "2026-01-30T08:04:04.524Z",
-  "last_viewed_on": "2026-01-30T06:00:00.000Z",
+  "created_on": "2026-02-02T01:10:34.498Z",
+  "updated_on": "2026-02-02T01:10:34.498Z",
+  "last_viewed_on": "2026-02-02T01:10:34.498Z",
   "views": 0,
   "notifications": [],
   "recommendations": [],
   "error_messages": [],
   "recent_searches": [],
-  "node_positions": {
-    "ps_1_signal": {
-      "x": 0,
-      "y": -300
-    },
-    "ps_2_problem_framing": {
-      "x": 0,
-      "y": -200
-    },
-    "ps_3_constraints": {
-      "x": 0,
-      "y": -100
-    },
-    "ps_4_hypotheses": {
-      "x": 0,
-      "y": 0
-    },
-    "ps_5_evaluation": {
-      "x": 0,
-      "y": 100
-    },
-    "ps_6_judgment": {
-      "x": 0,
-      "y": 200
-    },
-    "ps_7_decision": {
-      "x": 0,
-      "y": 300
-    },
-    "ps_8_execution": {
-      "x": 0,
-      "y": 420
-    },
-    "ps_9_outcome": {
-      "x": 0,
-      "y": 540
-    },
-    "ps_10_learning": {
-      "x": 0,
-      "y": 660
-    },
-    "ps_root_001": {
-      "x": 260,
-      "y": -300
-    }
-  },
-  "node_colors": {
-    "ps_1_signal": "#d9534f",
-    "ps_2_problem_framing": "#f0ad4e",
-    "ps_3_constraints": "#5bc0de",
-    "ps_4_hypotheses": "#9370db",
-    "ps_5_evaluation": "#5cb85c",
-    "ps_6_judgment": "#0275d8",
-    "ps_7_decision": "#292b2c",
-    "ps_8_execution": "#ff5722",
-    "ps_9_outcome": "#607d8b",
-    "ps_10_learning": "#009688"
-  },
+  "node_positions": {},
+  "node_colors": {},
   "node_size": {},
-  "flowchart_nodes": [
-    {
-      "id": "ps_1_signal",
-      "type": "flowchart.circle",
-      "name": "1.Signal",
-      "purpose": "A felt anomaly or discomfort indicating something is wrong.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_2_problem_framing",
-      "type": "flowchart.roundRect",
-      "name": "2.Problem Framing",
-      "purpose": "Convert vague signal into a clear problem statement.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_3_constraints",
-      "type": "flowchart.rect",
-      "name": "3.Constraints",
-      "purpose": "Identify limits: time, resources, risks, rules.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_4_hypotheses",
-      "type": "flowchart.circle",
-      "name": "4.Hypotheses",
-      "purpose": "Generate possible explanations or solution paths.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_5_evaluation",
-      "type": "flowchart.rect",
-      "name": "5.Evaluation",
-      "purpose": "Test hypotheses logically or experimentally.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_6_judgment",
-      "type": "flowchart.circle",
-      "name": "6.Judgment",
-      "purpose": "Collapse ambiguity by eliminating weak options.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_7_decision",
-      "type": "flowchart.decision",
-      "name": "7.Decision",
-      "purpose": "Consciously select one path.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_8_execution",
-      "type": "flowchart.triangle",
-      "name": "8.Execution",
-      "purpose": "Implement the chosen solution in reality.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_9_outcome",
-      "type": "flowchart.roundRect",
-      "name": "9.Outcome",
-      "purpose": "Observe real-world results.",
-      "created_on": "",
-      "updated_on": ""
-    },
-    {
-      "id": "ps_10_learning",
-      "type": "flowchart.rect",
-      "name": "10.Learning",
-      "purpose": "Extract reusable insight independent of success or failure.",
-      "created_on": "",
-      "updated_on": ""
-    }
-  ],
-  "flowchart_edges": [
-    {
-      "id": "e_ps_1_2",
-      "source": "ps_1_signal",
-      "target": "ps_2_problem_framing",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    },
-    {
-      "id": "e_ps_2_3",
-      "source": "ps_2_problem_framing",
-      "target": "ps_3_constraints",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    },
-    {
-      "id": "e_ps_3_4",
-      "source": "ps_3_constraints",
-      "target": "ps_4_hypotheses",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    },
-    {
-      "id": "e_ps_4_5",
-      "source": "ps_4_hypotheses",
-      "target": "ps_5_evaluation",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    },
-    {
-      "id": "e_ps_5_6",
-      "source": "ps_5_evaluation",
-      "target": "ps_6_judgment",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    },
-    {
-      "id": "e_ps_6_7",
-      "source": "ps_6_judgment",
-      "target": "ps_7_decision",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    },
-    {
-      "id": "e_ps_7_8",
-      "source": "ps_7_decision",
-      "target": "ps_8_execution",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    },
-    {
-      "id": "e_ps_8_9",
-      "source": "ps_8_execution",
-      "target": "ps_9_outcome",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    },
-    {
-      "id": "e_ps_9_10",
-      "source": "ps_9_outcome",
-      "target": "ps_10_learning",
-      "source_handle": "source-bottom",
-      "target_handle": "target-top"
-    }
-  ],
-  "groups": [
-    {
-      "id": "pm_group_problem_solving",
-      "name": "Signal → Learning",
-      "purpose": "Ensure every problem produces reusable intelligence.",
-      "node_ids": [
-        "ps_1_signal",
-        "ps_2_problem_framing",
-        "ps_3_constraints",
-        "ps_4_hypotheses",
-        "ps_5_evaluation",
-        "ps_6_judgment",
-        "ps_7_decision",
-        "ps_8_execution",
-        "ps_9_outcome",
-        "ps_10_learning"
-      ],
-      "created_on": "",
-      "updated_on": "",
-      "scale": 1
-    }
-  ],
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
+  "groups": [],
   "child": [
     {
-      "id": "0f3afc58-51a6-4f03-adc9-384eac6ffc10",
+      "id": "16accdac-2c9a-4da1-898a-6e5ac860f14e",
       "name": "Higherlevel Understanding",
       "extension": "md",
       "purpose": "",
       "type": "file_A",
       "level": 1,
       "path": "D:\\2026\\KB\\RealityBase\\Higherlevel Understanding.md",
-      "created_on": "2026-01-30T08:04:04.524Z",
-      "updated_on": "2026-01-30T08:04:04.524Z",
-      "last_viewed_on": "2026-01-30T08:04:04.524Z",
+      "created_on": "2026-02-02T01:10:34.498Z",
+      "updated_on": "2026-02-02T01:10:34.498Z",
+      "last_viewed_on": "2026-02-02T01:10:34.498Z",
       "views": 0,
       "related_nodes": [],
       "sort_index": null

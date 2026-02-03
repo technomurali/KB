@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.1.0",
+  "schema_version": "1.2.0",
   "bookmarks": [
     {
       "path": "D:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProjectDocs_cognitiveNotes.json",
@@ -8,6 +8,52 @@
       "indexType": "cognitiveNotes",
       "views": 1,
       "lastOpened": "2026-01-30T07:25:10.517Z"
+    },
+    {
+      "path": "D:\\2026\\KB\\Techno KB\\cloud\\AWS\\AWS_cognitiveNotes.json",
+      "name": "AWS",
+      "moduleType": "cognitiveNotes",
+      "indexType": "cognitiveNotes",
+      "views": 13,
+      "lastOpened": "2026-02-03T08:08:27.251Z"
+    }
+  ],
+  "time_spent": [
+    {
+      "tabName": "AWS",
+      "relativePath": "AWS_cognitiveNotes.json",
+      "timeSpent": "00:42:15",
+      "lastUpdated": "2026-02-03T08:11:50.433Z"
+    },
+    {
+      "tabName": "Prompt DB",
+      "relativePath": "Prompt DB_cognitiveNotes.json",
+      "timeSpent": "00:08:59",
+      "lastUpdated": "2026-02-03T08:07:34.820Z"
+    },
+    {
+      "tabName": "ProblemSolvingBase",
+      "relativePath": "ProblemSolvingBase_cognitiveNotes.json",
+      "timeSpent": "00:00:32",
+      "lastUpdated": "2026-02-03T05:08:28.901Z"
+    },
+    {
+      "tabName": "ProjectDocs",
+      "relativePath": "ProjectDocs_cognitiveNotes.json",
+      "timeSpent": "00:00:02",
+      "lastUpdated": "2026-02-02T04:25:25.857Z"
+    },
+    {
+      "tabName": "MachineLearning",
+      "relativePath": "MachineLearning_cognitiveNotes.json",
+      "timeSpent": "00:05:44",
+      "lastUpdated": "2026-02-03T08:07:35.956Z"
+    },
+    {
+      "tabName": "Life of MG",
+      "relativePath": "Life of MG_cognitiveNotes.json",
+      "timeSpent": "00:12:27",
+      "lastUpdated": "2026-02-03T08:21:50.725Z"
     }
   ]
 }
