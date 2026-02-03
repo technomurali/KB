@@ -5,9 +5,9 @@
   "purpose": "",
   "type": "root_folder",
   "level": 0,
-  "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning",
+  "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning",
   "created_on": "2026-01-25T21:30:23.068Z",
-  "updated_on": "2026-02-03T07:28:54.067Z",
+  "updated_on": "2026-02-03T15:37:52.084Z",
   "last_viewed_on": "2026-01-25T21:30:23.068Z",
   "views": 0,
   "notifications": [],
@@ -344,7 +344,7 @@
       "purpose": "Remove Noise & Errors\nGoal: Make data accurate and consistent.\nOutcome: Trustworthy data.",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Cleaning.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Cleaning.md",
       "created_on": "2026-01-27T19:18:50.687Z",
       "updated_on": "2026-01-27T19:18:50.687Z",
       "last_viewed_on": "2026-02-03T05:19:41.858Z",
@@ -358,8 +358,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769541589532_0960ee5da6ba6",
@@ -368,7 +367,7 @@
       "purpose": "Unify Multiple Sources\nGoal: Combine data from different sources into one coherent dataset.\nOutcome: Single, consistent data view.\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Integration.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Integration.md",
       "created_on": "2026-01-27T19:20:57.238Z",
       "updated_on": "2026-01-27T19:20:57.238Z",
       "last_viewed_on": "2026-01-28T06:40:05.458Z",
@@ -382,8 +381,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769669655986_de1bda3bacb63",
@@ -392,13 +390,12 @@
       "purpose": "This section will be helpful while coding or implementing.\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing Templet.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing Templet.md",
       "created_on": "2026-01-29T06:54:52.395Z",
       "updated_on": "2026-01-29T07:04:07.597Z",
       "last_viewed_on": "2026-02-03T05:12:10.808Z",
       "views": 12,
-      "related_nodes": [],
-      "sort_index": null
+      "related_nodes": []
     },
     {
       "id": "tmp_shield_1769499986502_6efaca16a93738",
@@ -407,7 +404,7 @@
       "purpose": "Import the data\nclean the data\nSplit into training and testing sets\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Preprocessing.md",
       "created_on": "2026-01-27T07:47:26.964Z",
       "updated_on": "2026-01-27T07:47:26.964Z",
       "last_viewed_on": "2026-01-31T15:49:31.007Z",
@@ -432,8 +429,7 @@
           "source_handle": "source-right",
           "target_handle": "target-left"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_shield_1769500522883_797e5ad3c96d78",
@@ -442,7 +438,7 @@
       "purpose": "Data set for to train the model. If dataset is not there there is nothing to talk about ML project. Data means ML",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Set.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Set.md",
       "created_on": "2026-01-27T07:58:17.769Z",
       "updated_on": "2026-01-27T20:18:26.916Z",
       "last_viewed_on": "2026-02-03T05:19:19.366Z",
@@ -465,8 +461,7 @@
           "source_handle": "source-right",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769545175419_68a6f3fa777e8",
@@ -475,7 +470,7 @@
       "purpose": "Aim: Prevent Data Leakage\nGoal: Ensure honest evaluation.\nOutcome: Reliable performance metrics.\n\n\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Splitting.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Splitting.md",
       "created_on": "2026-01-27T20:20:56.687Z",
       "updated_on": "2026-01-27T20:20:56.687Z",
       "last_viewed_on": "2026-02-02T01:04:44.275Z",
@@ -489,8 +484,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769541359226_ae1a16eff3b888",
@@ -499,7 +493,7 @@
       "purpose": "Know What You’re Dealing With.\nGoal: Understand the nature, quality, and structure of data.\nOutcome: Awareness of problems before fixing them.\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Understanding & Profiling.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Understanding & Profiling.md",
       "created_on": "2026-01-27T19:16:57.732Z",
       "updated_on": "2026-01-29T09:40:33.350Z",
       "last_viewed_on": "2026-02-03T05:19:33.979Z",
@@ -513,8 +507,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769546144060_d9efb5d3898fa",
@@ -523,13 +516,12 @@
       "purpose": "Goal: Ensure preprocessing didn’t break data.\nOutcome: Safe to feed into model.\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Validation.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Data Validation.md",
       "created_on": "2026-01-27T20:38:22.020Z",
       "updated_on": "2026-01-27T20:38:22.020Z",
       "last_viewed_on": "2026-02-02T01:04:50.587Z",
       "views": 7,
-      "related_nodes": [],
-      "sort_index": null
+      "related_nodes": []
     },
     {
       "id": "tmp_output_1769499876619_c3a06a98339748",
@@ -538,14 +530,13 @@
       "purpose": "Calculate performance metrics\nMake a verdict \n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Evolution of Model.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Evolution of Model.md",
       "created_on": "2026-01-27T07:45:56.536Z",
       "updated_on": "2026-01-27T07:45:56.536Z",
       "last_viewed_on": "2026-01-29T12:11:09.085Z",
       "views": 3,
       "node_variant": "outputShield",
-      "related_nodes": [],
-      "sort_index": null
+      "related_nodes": []
     },
     {
       "id": "tmp_1769542610409_3460a5a46b075",
@@ -554,11 +545,11 @@
       "purpose": "Aim: Create Intelligence from Data\nGoal: Extract useful signals from raw data.\nOutcome: Higher information density.",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Feature Engineering.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Feature Engineering.md",
       "created_on": "2026-01-27T19:37:53.748Z",
       "updated_on": "2026-01-27T19:37:53.748Z",
-      "last_viewed_on": "2026-02-03T05:19:03.280Z",
-      "views": 26,
+      "last_viewed_on": "2026-02-03T15:37:52.084Z",
+      "views": 29,
       "related_nodes": [
         {
           "edge_id": "e_tmp_1769542610409_3460a5a46b075_tmp_1769544424247_c3c2ce372d5e_1769544427817",
@@ -568,8 +559,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769544424247_c3c2ce372d5e",
@@ -578,7 +568,7 @@
       "purpose": "Aim: Remove Irrelevant Information\nGoal: Keep only what matters.\nOutcome: Reduced dimensionality, better generalization.\n\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Feature Selection.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Feature Selection.md",
       "created_on": "2026-01-27T20:08:12.864Z",
       "updated_on": "2026-01-27T20:08:12.864Z",
       "last_viewed_on": "2026-01-28T06:40:52.935Z",
@@ -592,8 +582,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769544547199_ef53b68a36c9e",
@@ -602,7 +591,7 @@
       "purpose": "Aim: Fair Learning\nGoal: Prevent bias toward majority classes.\nOutcome: Balanced learning behavior.\n\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Handling Data Imbalance.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Handling Data Imbalance.md",
       "created_on": "2026-01-27T20:10:18.085Z",
       "updated_on": "2026-01-27T20:10:18.085Z",
       "last_viewed_on": "2026-01-28T06:41:00.106Z",
@@ -616,8 +605,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769541734207_0d8f1825d10e6",
@@ -626,7 +614,7 @@
       "purpose": "Aim: Make Data Learnable (Data Transformation)\nGoal: Convert data into a form suitable for ML algorithms.\nOutcome: Numerical, well-scaled inputs.\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\MakeDataLearnable.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\MakeDataLearnable.md",
       "created_on": "2026-01-27T19:24:25.990Z",
       "updated_on": "2026-01-29T05:55:33.899Z",
       "last_viewed_on": "2026-02-03T07:28:54.067Z",
@@ -640,8 +628,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     },
     {
       "id": "tmp_1769493689536_893279630e28c",
@@ -650,7 +637,7 @@
       "purpose": "Build the model\nTrain the model\nMake Prediction\n",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Modelling.md",
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\MachineLearning\\Modelling.md",
       "created_on": "2026-01-27T06:02:20.237Z",
       "updated_on": "2026-01-27T06:02:20.237Z",
       "last_viewed_on": "2026-01-31T15:49:32.650Z",
@@ -664,8 +651,7 @@
           "source_handle": "source-bottom",
           "target_handle": "target-top"
         }
-      ],
-      "sort_index": null
+      ]
     }
   ]
 }

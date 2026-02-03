@@ -5,9 +5,9 @@
   "purpose": "",
   "type": "root_folder",
   "level": 0,
-  "path": "D:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs",
+  "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs",
   "created_on": "2026-01-24T14:56:23.870Z",
-  "updated_on": "2026-02-01T06:23:19.204Z",
+  "updated_on": "2026-02-03T13:09:52.245Z",
   "last_viewed_on": "2026-01-24T14:56:23.870Z",
   "views": 0,
   "notifications": [],
@@ -107,13 +107,12 @@
       "purpose": "",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\BasicIdea.docx",
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\BasicIdea.docx",
       "created_on": "2026-01-24T14:56:23.870Z",
       "updated_on": "2026-01-24T14:56:23.870Z",
-      "last_viewed_on": "2026-02-01T05:54:15.046Z",
-      "views": 4,
-      "related_nodes": [],
-      "sort_index": null
+      "last_viewed_on": "2026-01-25T16:04:16.266Z",
+      "views": 3,
+      "related_nodes": []
     },
     {
       "id": "e1124952-e7dc-4e58-9da0-7f2862941765",
@@ -122,13 +121,12 @@
       "purpose": "",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\OneLineBacklogs.md",
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\OneLineBacklogs.md",
       "created_on": "2026-01-25T06:00:39.259Z",
       "updated_on": "2026-01-25T07:47:32.243Z",
-      "last_viewed_on": "2026-02-01T06:23:19.204Z",
-      "views": 17,
-      "related_nodes": [],
-      "sort_index": null
+      "last_viewed_on": "2026-02-03T13:02:34.075Z",
+      "views": 13,
+      "related_nodes": []
     },
     {
       "id": "tmp_1769341391187_a90d17245554b8",
@@ -137,13 +135,12 @@
       "purpose": "",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ParallelmindDesignPrincipals.md",
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ParallelmindDesignPrincipals.md",
       "created_on": "2026-01-25T11:43:51.523Z",
       "updated_on": "2026-01-25T11:43:51.523Z",
-      "last_viewed_on": "2026-02-01T05:54:13.147Z",
+      "last_viewed_on": "2026-02-03T13:02:30.337Z",
       "views": 4,
-      "related_nodes": [],
-      "sort_index": null
+      "related_nodes": []
     },
     {
       "id": "baf30535-2f04-45d3-9944-2c1dc89d6eac",
@@ -152,13 +149,12 @@
       "purpose": "",
       "type": "file_A",
       "level": 1,
-      "path": "D:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProductCapabilitiesRegister-1st30days.md",
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProductCapabilitiesRegister-1st30days.md",
       "created_on": "2026-01-24T14:56:23.870Z",
       "updated_on": "2026-01-24T14:56:23.870Z",
-      "last_viewed_on": "2026-02-01T05:54:14.154Z",
-      "views": 4,
-      "related_nodes": [],
-      "sort_index": null
+      "last_viewed_on": "2026-02-03T13:09:52.245Z",
+      "views": 5,
+      "related_nodes": []
     }
   ]
 }

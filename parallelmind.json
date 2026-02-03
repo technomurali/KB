@@ -2,34 +2,26 @@
   "schema_version": "1.2.0",
   "bookmarks": [
     {
-      "path": "D:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProjectDocs_cognitiveNotes.json",
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProjectDocs_cognitiveNotes.json",
       "name": "ProjectDocs",
       "moduleType": "cognitiveNotes",
       "indexType": "cognitiveNotes",
       "views": 1,
-      "lastOpened": "2026-01-30T07:25:10.517Z"
-    },
-    {
-      "path": "D:\\2026\\KB\\Techno KB\\cloud\\AWS\\AWS_cognitiveNotes.json",
-      "name": "AWS",
-      "moduleType": "cognitiveNotes",
-      "indexType": "cognitiveNotes",
-      "views": 13,
-      "lastOpened": "2026-02-03T08:08:27.251Z"
+      "lastOpened": "2026-02-03T09:19:14.479Z"
     }
   ],
   "time_spent": [
     {
       "tabName": "AWS",
       "relativePath": "AWS_cognitiveNotes.json",
-      "timeSpent": "00:42:15",
-      "lastUpdated": "2026-02-03T08:11:50.433Z"
+      "timeSpent": "01:02:03",
+      "lastUpdated": "2026-02-03T16:15:06.061Z"
     },
     {
       "tabName": "Prompt DB",
       "relativePath": "Prompt DB_cognitiveNotes.json",
-      "timeSpent": "00:08:59",
-      "lastUpdated": "2026-02-03T08:07:34.820Z"
+      "timeSpent": "00:12:13",
+      "lastUpdated": "2026-02-03T16:01:00.209Z"
     },
     {
       "tabName": "ProblemSolvingBase",
@@ -40,20 +32,38 @@
     {
       "tabName": "ProjectDocs",
       "relativePath": "ProjectDocs_cognitiveNotes.json",
-      "timeSpent": "00:00:02",
-      "lastUpdated": "2026-02-02T04:25:25.857Z"
+      "timeSpent": "00:00:15",
+      "lastUpdated": "2026-02-03T15:38:27.032Z"
     },
     {
       "tabName": "MachineLearning",
       "relativePath": "MachineLearning_cognitiveNotes.json",
-      "timeSpent": "00:05:44",
-      "lastUpdated": "2026-02-03T08:07:35.956Z"
+      "timeSpent": "00:06:13",
+      "lastUpdated": "2026-02-03T15:38:20.616Z"
     },
     {
       "tabName": "Life of MG",
       "relativePath": "Life of MG_cognitiveNotes.json",
       "timeSpent": "00:12:27",
       "lastUpdated": "2026-02-03T08:21:50.725Z"
+    },
+    {
+      "tabName": "Parallelimind_Application",
+      "relativePath": "Parallelimind_Application_cognitiveNotes.json",
+      "timeSpent": "00:11:33",
+      "lastUpdated": "2026-02-03T15:38:30.494Z"
+    },
+    {
+      "tabName": "KB",
+      "relativePath": "KB_rootIndex.json",
+      "timeSpent": "00:06:09",
+      "lastUpdated": "2026-02-03T10:01:04.725Z"
+    },
+    {
+      "tabName": "DeepAgents",
+      "relativePath": "DeepAgents_cognitiveNotes.json",
+      "timeSpent": "00:05:49",
+      "lastUpdated": "2026-02-03T17:16:21.311Z"
     }
   ]
 }
