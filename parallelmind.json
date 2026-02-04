@@ -8,20 +8,28 @@
       "indexType": "cognitiveNotes",
       "views": 1,
       "lastOpened": "2026-02-03T09:19:14.479Z"
+    },
+    {
+      "path": "E:\\2026\\KB\\Techno KB\\AI\\DeepAgents\\DeepAgents_cognitiveNotes.json",
+      "name": "DeepAgents",
+      "moduleType": "cognitiveNotes",
+      "indexType": "cognitiveNotes",
+      "views": 3,
+      "lastOpened": "2026-02-04T09:23:59.121Z"
     }
   ],
   "time_spent": [
     {
       "tabName": "AWS",
       "relativePath": "AWS_cognitiveNotes.json",
-      "timeSpent": "01:02:03",
-      "lastUpdated": "2026-02-03T16:15:06.061Z"
+      "timeSpent": "01:09:52",
+      "lastUpdated": "2026-02-04T12:26:03.829Z"
     },
     {
       "tabName": "Prompt DB",
       "relativePath": "Prompt DB_cognitiveNotes.json",
-      "timeSpent": "00:12:13",
-      "lastUpdated": "2026-02-03T16:01:00.209Z"
+      "timeSpent": "00:14:21",
+      "lastUpdated": "2026-02-04T11:56:08.226Z"
     },
     {
       "tabName": "ProblemSolvingBase",
@@ -32,14 +40,14 @@
     {
       "tabName": "ProjectDocs",
       "relativePath": "ProjectDocs_cognitiveNotes.json",
-      "timeSpent": "00:00:15",
-      "lastUpdated": "2026-02-03T15:38:27.032Z"
+      "timeSpent": "00:00:22",
+      "lastUpdated": "2026-02-04T09:21:30.916Z"
     },
     {
       "tabName": "MachineLearning",
       "relativePath": "MachineLearning_cognitiveNotes.json",
-      "timeSpent": "00:06:13",
-      "lastUpdated": "2026-02-03T15:38:20.616Z"
+      "timeSpent": "00:07:09",
+      "lastUpdated": "2026-02-04T08:56:15.983Z"
     },
     {
       "tabName": "Life of MG",
@@ -50,8 +58,8 @@
     {
       "tabName": "Parallelimind_Application",
       "relativePath": "Parallelimind_Application_cognitiveNotes.json",
-      "timeSpent": "00:11:33",
-      "lastUpdated": "2026-02-03T15:38:30.494Z"
+      "timeSpent": "00:11:41",
+      "lastUpdated": "2026-02-04T09:21:28.717Z"
     },
     {
       "tabName": "KB",
@@ -62,8 +70,8 @@
     {
       "tabName": "DeepAgents",
       "relativePath": "DeepAgents_cognitiveNotes.json",
-      "timeSpent": "00:05:49",
-      "lastUpdated": "2026-02-03T17:16:21.311Z"
+      "timeSpent": "00:40:35",
+      "lastUpdated": "2026-02-04T16:44:22.747Z"
     }
   ]
 }
