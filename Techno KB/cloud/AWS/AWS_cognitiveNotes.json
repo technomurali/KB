@@ -7,7 +7,7 @@
   "level": 0,
   "path": "D:\\2026\\KB\\Techno KB\\cloud\\AWS",
   "created_on": "2026-01-30T18:09:24.649Z",
-  "updated_on": "2026-02-03T16:02:44.298Z",
+  "updated_on": "2026-02-05T08:13:22.277Z",
   "last_viewed_on": "2026-01-30T18:09:24.649Z",
   "views": 0,
   "notifications": [],
@@ -37,8 +37,8 @@
       "y": 128.0944529899621
     },
     "tmp_image_1769800345025_3fcf53ddf1e5d": {
-      "x": -1681.1152714810255,
-      "y": 178.3770630973474
+      "x": -1457.1152714810255,
+      "y": 208.3770630973474
     },
     "tmp_image_1769800495596_e32a7438aaeb78": {
       "x": -915.1244447055849,
@@ -49,7 +49,7 @@
       "y": 185.43425875190064
     },
     "8f8e9c8d-c0ed-4331-8c13-f9ff09f9e7a5": {
-      "x": 1440,
+      "x": 1470,
       "y": 0
     },
     "tmp_image_1769848434901_75d6c3d63a5118": {
@@ -274,6 +274,10 @@
     },
     "6922f7dc-227a-4f89-933c-c8cd0226cf10": {
       "x": 1650,
+      "y": 210
+    },
+    "ab76c076-a39d-4f9f-9026-6767ab3866fc": {
+      "x": 1890,
       "y": 210
     }
   },
@@ -559,8 +563,8 @@
         "controls": true
       },
       "created_on": "2026-01-31T17:16:47.907Z",
-      "updated_on": "2026-02-03T16:01:33.966Z",
-      "details_path": "E:\\2026\\KB\\Techno KB\\Cloud\\AWS\\Tips Best Practices.md",
+      "updated_on": "2026-02-05T08:12:31.321Z",
+      "details_path": "D:\\2026\\KB\\Techno KB\\cloud\\AWS\\Tips Best Practices.md",
       "details_opt_out": false
     },
     {
@@ -1450,7 +1454,6 @@
       "target": "tmp_image_1770009103453_bb32edb7b5f6",
       "source_handle": "source-bottom",
       "target_handle": "target-top",
-      "name": "",
       "purpose": ""
     },
     {
@@ -1459,7 +1462,6 @@
       "target": "flow_1770004014386_3ac14f7212c4e",
       "source_handle": "source-bottom",
       "target_handle": "target-top",
-      "name": "",
       "purpose": ""
     }
   ],
