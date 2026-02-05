@@ -1,84 +1,24 @@
 {
   "schema_version": "1.2.0",
-  "bookmarks": [
-    {
-      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProjectDocs_cognitiveNotes.json",
-      "name": "ProjectDocs",
-      "moduleType": "cognitiveNotes",
-      "indexType": "cognitiveNotes",
-      "views": 1,
-      "lastOpened": "2026-02-03T09:19:14.479Z"
-    },
-    {
-      "path": "E:\\2026\\KB\\Techno KB\\AI\\DeepAgents\\DeepAgents_cognitiveNotes.json",
-      "name": "DeepAgents",
-      "moduleType": "cognitiveNotes",
-      "indexType": "cognitiveNotes",
-      "views": 3,
-      "lastOpened": "2026-02-04T09:23:59.121Z"
-    }
-  ],
+  "bookmarks": [],
   "time_spent": [
+    {
+      "tabName": "RealityBase",
+      "relativePath": "RealityBase_cognitiveNotes.json",
+      "timeSpent": "00:00:13",
+      "lastUpdated": "2026-02-05T06:30:08.108Z"
+    },
     {
       "tabName": "AWS",
       "relativePath": "AWS_cognitiveNotes.json",
-      "timeSpent": "01:09:52",
-      "lastUpdated": "2026-02-05T06:07:47.315Z"
-    },
-    {
-      "tabName": "Prompt DB",
-      "relativePath": "Prompt DB_cognitiveNotes.json",
-      "timeSpent": "00:14:21",
-      "lastUpdated": "2026-02-05T06:06:23.567Z"
-    },
-    {
-      "tabName": "ProblemSolvingBase",
-      "relativePath": "ProblemSolvingBase_cognitiveNotes.json",
-      "timeSpent": "00:00:32",
-      "lastUpdated": "2026-02-03T05:08:28.901Z"
-    },
-    {
-      "tabName": "ProjectDocs",
-      "relativePath": "ProjectDocs_cognitiveNotes.json",
-      "timeSpent": "00:00:22",
-      "lastUpdated": "2026-02-04T09:21:30.916Z"
-    },
-    {
-      "tabName": "MachineLearning",
-      "relativePath": "MachineLearning_cognitiveNotes.json",
-      "timeSpent": "00:07:09",
-      "lastUpdated": "2026-02-04T08:56:15.983Z"
+      "timeSpent": "00:00:05",
+      "lastUpdated": "2026-02-05T06:28:55.335Z"
     },
     {
       "tabName": "Life of MG",
       "relativePath": "Life of MG_cognitiveNotes.json",
-      "timeSpent": "00:12:33",
-      "lastUpdated": "2026-02-04T08:34:09.628Z"
-    },
-    {
-      "tabName": "Parallelimind_Application",
-      "relativePath": "Parallelimind_Application_cognitiveNotes.json",
-      "timeSpent": "00:11:41",
-      "lastUpdated": "2026-02-04T09:21:28.717Z"
-    },
-    {
-      "tabName": "KB",
-      "relativePath": "KB_rootIndex.json",
-      "timeSpent": "00:06:09",
-      "lastUpdated": "2026-02-03T10:01:04.725Z"
-    },
-    {
-      "tabName": "DeepAgents",
-      "relativePath": "DeepAgents_cognitiveNotes.json",
-      "timeSpent": "00:40:35",
-      "lastUpdated": "2026-02-05T05:12:55.993Z"
-    },
-    {
-      "tabName": "career",
-      "relativePath": "career_cognitiveNotes.json",
-      "timeSpent": "00:06:19",
-      "lastUpdated": "2026-02-05T06:03:56.274Z"
-    }
+      "timeSpent": "00:00:03",
+      "lastUpdated": "2026-02-05T06:29:05.680Z"
     }
   ]
 }
