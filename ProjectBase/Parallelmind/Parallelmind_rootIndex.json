@@ -5,45 +5,56 @@
   "purpose": "",
   "type": "root_folder",
   "level": 0,
-  "path": "E:\\2026\\Parallelmind",
+  "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind",
   "created_on": "2026-01-22T09:10:38.727Z",
   "updated_on": "2026-01-22T09:11:10.827Z",
   "last_viewed_on": "2026-01-22T09:10:38.727Z",
   "views": 0,
-  "notifications": [],
+  "notifications": [
+    "Root folder contained files before initialization"
+  ],
   "recommendations": [],
   "error_messages": [],
-  "node_positions": {
-    "06434fbf-7c9e-45c2-ac4b-ee41ce3b869d": {
-      "x": 637.2203082043632,
-      "y": 198.25606006013177
-    },
-    "tmp_1769073063808_96de622435ef7": {
-      "x": 954.5996086325426,
-      "y": 339.5387771462321
-    },
-    "0a96dd49-320b-4085-8730-ad5ba7d587ac": {
-      "x": 309.62352495490654,
-      "y": 193.5186957394435
-    },
-    "ef2006b9-8a25-46c1-96a5-c37c33d32cd1": {
-      "x": 222.57536631467985,
-      "y": 407.93937562612916
-    },
-    "14fd1b29-37f1-4f90-a93b-aad89a87c7c7": {
-      "x": 442.89972892091225,
-      "y": 419.7651546629563
-    }
-  },
+  "recent_searches": [],
+  "node_positions": {},
   "node_size": {},
+  "flowchart_nodes": [],
+  "flowchart_edges": [],
   "child": [
+    {
+      "id": "83c4829c-fb85-46fd-809a-48d37d43fcfe",
+      "name": "Parallelimind_Application",
+      "purpose": "",
+      "type": "folder_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\Parallelimind_Application",
+      "created_on": "2026-02-05T10:32:54.136Z",
+      "updated_on": "2026-02-05T10:32:54.136Z",
+      "last_viewed_on": "2026-02-05T10:32:54.136Z",
+      "views": 0,
+      "child": [
+        {
+          "id": "f9c7ae06-3a9f-4e44-894a-3c3c6bde4dcb",
+          "name": "Parallelimind_Application_cognitiveNotes",
+          "extension": "json",
+          "purpose": "",
+          "type": "file_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\Parallelimind_Application\\Parallelimind_Application_cognitiveNotes.json",
+          "created_on": "2026-02-05T10:32:54.136Z",
+          "updated_on": "2026-02-05T10:32:54.136Z",
+          "last_viewed_on": "2026-02-05T10:32:54.136Z",
+          "views": 0
+        }
+      ]
+    },
     {
       "id": "0a96dd49-320b-4085-8730-ad5ba7d587ac",
       "name": "ProjectDocs",
       "purpose": "",
       "type": "folder_A",
       "level": 1,
-      "path": "E:\\2026\\Parallelmind\\ProjectDocs",
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs",
       "created_on": "2026-01-22T09:10:38.727Z",
       "updated_on": "2026-01-22T09:10:38.727Z",
       "last_viewed_on": "2026-01-22T09:10:38.727Z",
@@ -56,10 +67,36 @@
           "purpose": "",
           "type": "file_B",
           "level": 2,
-          "path": "E:\\2026\\Parallelmind\\ProjectDocs\\BasicIdea.docx",
+          "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\BasicIdea.docx",
           "created_on": "2026-01-22T09:10:38.727Z",
           "updated_on": "2026-01-22T09:10:38.727Z",
           "last_viewed_on": "2026-01-22T09:10:38.727Z",
+          "views": 0
+        },
+        {
+          "id": "5d59219b-9bf8-4214-971e-be5f117df863",
+          "name": "OneLineBacklogs",
+          "extension": "md",
+          "purpose": "",
+          "type": "file_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\OneLineBacklogs.md",
+          "created_on": "2026-02-05T10:32:54.136Z",
+          "updated_on": "2026-02-05T10:32:54.136Z",
+          "last_viewed_on": "2026-02-05T10:32:54.136Z",
+          "views": 0
+        },
+        {
+          "id": "0aef2199-b438-4bde-9efc-276f85c79d57",
+          "name": "ParallelmindDesignPrincipals",
+          "extension": "md",
+          "purpose": "",
+          "type": "file_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ParallelmindDesignPrincipals.md",
+          "created_on": "2026-02-05T10:32:54.136Z",
+          "updated_on": "2026-02-05T10:32:54.136Z",
+          "last_viewed_on": "2026-02-05T10:32:54.136Z",
           "views": 0
         },
         {
@@ -69,10 +106,23 @@
           "purpose": "",
           "type": "file_B",
           "level": 2,
-          "path": "E:\\2026\\Parallelmind\\ProjectDocs\\ProductCapabilitiesRegister-1st30days.md",
+          "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProductCapabilitiesRegister-1st30days.md",
           "created_on": "2026-01-22T09:10:38.727Z",
           "updated_on": "2026-01-22T09:10:38.727Z",
           "last_viewed_on": "2026-01-22T09:10:38.727Z",
+          "views": 0
+        },
+        {
+          "id": "b0b5e75c-0414-4482-ae5a-0b343f51f84c",
+          "name": "ProjectDocs_cognitiveNotes",
+          "extension": "json",
+          "purpose": "",
+          "type": "file_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectDocs\\ProjectDocs_cognitiveNotes.json",
+          "created_on": "2026-02-05T10:32:54.136Z",
+          "updated_on": "2026-02-05T10:32:54.136Z",
+          "last_viewed_on": "2026-02-05T10:32:54.136Z",
           "views": 0
         }
       ]
@@ -83,12 +133,39 @@
       "purpose": "",
       "type": "folder_A",
       "level": 1,
-      "path": "E:\\2026\\Parallelmind\\ProjectManagement",
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectManagement",
       "created_on": "2026-01-22T09:10:38.727Z",
       "updated_on": "2026-01-22T09:11:10.827Z",
       "last_viewed_on": "2026-01-22T09:10:38.727Z",
       "views": 0,
-      "child": []
+      "child": [
+        {
+          "id": "d489bd97-5ed4-4c4f-8d0f-de6937e3e64e",
+          "name": "ProjectManagement_cognitiveNotes",
+          "extension": "json",
+          "purpose": "",
+          "type": "file_B",
+          "level": 2,
+          "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\ProjectManagement\\ProjectManagement_cognitiveNotes.json",
+          "created_on": "2026-02-05T10:32:54.136Z",
+          "updated_on": "2026-02-05T10:32:54.136Z",
+          "last_viewed_on": "2026-02-05T10:32:54.136Z",
+          "views": 0
+        }
+      ]
+    },
+    {
+      "id": "861d4902-2a16-4e44-a817-59cad5247126",
+      "name": "Parallelmind_cognitiveNotes",
+      "extension": "json",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\ProjectBase\\Parallelmind\\Parallelmind_cognitiveNotes.json",
+      "created_on": "2026-02-05T10:32:54.136Z",
+      "updated_on": "2026-02-05T10:32:54.136Z",
+      "last_viewed_on": "2026-02-05T10:32:54.136Z",
+      "views": 0
     }
   ]
 }

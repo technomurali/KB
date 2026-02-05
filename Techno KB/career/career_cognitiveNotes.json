@@ -5,20 +5,1428 @@
   "purpose": "",
   "type": "root_folder",
   "level": 0,
-  "path": "D:\\2026\\KB\\Techno KB\\career",
+  "path": "E:\\2026\\KB\\Techno KB\\career",
   "created_on": "2026-02-05T05:12:55.868Z",
-  "updated_on": "2026-02-05T05:12:55.868Z",
+  "updated_on": "2026-02-05T17:48:43.865Z",
   "last_viewed_on": "2026-02-05T05:12:55.868Z",
   "views": 0,
   "notifications": [],
   "recommendations": [],
   "error_messages": [],
   "recent_searches": [],
-  "node_positions": {},
-  "node_colors": {},
+  "node_positions": {
+    "flow_1770290947794_113af2e1a0a178": {
+      "x": -1028.89476497821,
+      "y": -661.0169270322797
+    },
+    "flow_1770291052138_dab6a1e3b2951": {
+      "x": -352.9693110681985,
+      "y": -240.0186292913985
+    },
+    "flow_1770291074388_dd69dc1587fb9": {
+      "x": -67.7913336000434,
+      "y": -245.1319027176187
+    },
+    "flow_1770291129917_f7107607bda8c": {
+      "x": -1015.3220729956695,
+      "y": -213.80613606050272
+    },
+    "19c00591-4640-4a69-8699-61353d0b8a8d": {
+      "x": 270,
+      "y": 0
+    },
+    "flow_1770291329518_20a00fe2ad41": {
+      "x": 460.9129717600223,
+      "y": -285.83833269331467
+    },
+    "flow_1770291344312_ac463a83569ac": {
+      "x": 1106.4907298447981,
+      "y": -262.0126783155909
+    },
+    "flow_1770291391168_992bddd714158": {
+      "x": 589.3737090965982,
+      "y": -672.6166115093165
+    },
+    "flow_1770291785984_0c21a7be86f2c": {
+      "x": -207.463820657293,
+      "y": 14.403859072230944
+    },
+    "flow_1770291881335_15434cccdc8d": {
+      "x": 18.98278610226032,
+      "y": 10.083499629551852
+    },
+    "flow_1770292086734_f5dde7a978fa2": {
+      "x": -1418.5558253715963,
+      "y": 132.72458874895608
+    },
+    "flow_1770292107508_f31d6bb2ea7fd8": {
+      "x": -1206.5558253715963,
+      "y": 130.72458874895608
+    },
+    "flow_1770292128194_b06fa4a5a0bbf8": {
+      "x": -972.5558253715969,
+      "y": 132.72458874895608
+    },
+    "flow_1770292286787_72df499322762": {
+      "x": 1051.9356018708272,
+      "y": 36.88198042565986
+    },
+    "flow_1770292452062_5ec68ab7cd9268": {
+      "x": -480.67779511522565,
+      "y": 24.805298724441002
+    },
+    "flow_1770294791762_86f8149623f398": {
+      "x": 1114.3292199449138,
+      "y": -278.0064631378639
+    },
+    "flow_1770296228804_ede6e0064246f8": {
+      "x": 727.4949135386773,
+      "y": -296.84533159348484
+    },
+    "flow_1770307979469_15d2c8fe38d67": {
+      "x": 85.88752610184815,
+      "y": 111.42202910161902
+    },
+    "flow_1770308032859_3dc34e46a49af": {
+      "x": -280.73057285470645,
+      "y": 339.031034671474
+    },
+    "flow_1770308059244_9650471a4451d8": {
+      "x": -31.989347669611902,
+      "y": 340.1604841081778
+    },
+    "flow_1770308099932_c1a956d207abb": {
+      "x": 197.38939428101128,
+      "y": 343.2219446774491
+    },
+    "flow_1770308131477_bdc0ede1111f78": {
+      "x": 402.2520261990038,
+      "y": 345.740135890385
+    },
+    "flow_1770308296980_15a68ab2e5a9a8": {
+      "x": 1292.6298668334566,
+      "y": -687.6799999237719
+    },
+    "flow_1770308339404_46e903e205b268": {
+      "x": -632.4753353732752,
+      "y": -1379.057818859032
+    },
+    "flow_1770308592963_76d43b74bcc71": {
+      "x": 1123.8504517990013,
+      "y": -497.5122375175644
+    },
+    "flow_1770308606307_dcbf9882e6d1e8": {
+      "x": 1470.258385003596,
+      "y": -495.9135183654962
+    },
+    "flow_1770308770340_00aa1de6362a78": {
+      "x": 628.5336320835237,
+      "y": 331.49010351468957
+    },
+    "flow_1770308883869_791bae61908c38": {
+      "x": -1649.6076762211342,
+      "y": 136.6759717710062
+    },
+    "flow_1770308982955_4202bed3a7b74": {
+      "x": -614.1405839786385,
+      "y": -243.83082867067122
+    },
+    "flow_1770309060123_4f516aeb240a18": {
+      "x": -1651.3578520478752,
+      "y": -228.1125618795367
+    },
+    "flow_1770309079636_049905d16ee118": {
+      "x": -1346.3443959825538,
+      "y": -226.54617439559576
+    },
+    "flow_1770311995410_9e4fa0655d42c": {
+      "x": -1922.4362498095734,
+      "y": -222.1575781971649
+    },
+    "flow_1770312035786_39f94587806f78": {
+      "x": -2191.9495273063612,
+      "y": -214.37438445519444
+    },
+    "flow_1770312166617_84757b11a7487": {
+      "x": -2838.978759977229,
+      "y": -517.6124764474546
+    },
+    "flow_1770312240049_1b1b1a1f3a6d78": {
+      "x": -3117.5277415582214,
+      "y": -194.9211536871544
+    },
+    "flow_1770312249074_a9a09d4606a67": {
+      "x": -2857.5277415582214,
+      "y": -194.9211536871544
+    },
+    "flow_1770312261138_350aeceaf2c588": {
+      "x": -2611.5277415582214,
+      "y": -206.9211536871544
+    },
+    "flow_1770312860506_77f65628f77078": {
+      "x": -3568.896903329052,
+      "y": -500.4355381045469
+    },
+    "flow_1770313022170_7f8c998659e198": {
+      "x": -3820.57059161291,
+      "y": -221.9133917171372
+    },
+    "flow_1770313040098_2efc8bb2ad6ed": {
+      "x": -3482.796973054014,
+      "y": -220.17229059054495
+    },
+    "flow_1770313124474_daf6a168ed5f18": {
+      "x": -4377.493356752648,
+      "y": -479.431568114367
+    },
+    "flow_1770313152330_89fdf7c41777f8": {
+      "x": -4400.231131700908,
+      "y": -213.94936586118254
+    },
+    "flow_1770313183954_57d4716e5d872": {
+      "x": -4139.758659865714,
+      "y": -213.1726692409593
+    },
+    "flow_1770313300706_c9bf7e7bc5df5": {
+      "x": -4639.507373215301,
+      "y": -208.1410437375081
+    },
+    "flow_1770313371651_81bd0f30fe291": {
+      "x": -5239.343017334663,
+      "y": -441.52811297489006
+    },
+    "flow_1770313405946_0bf3db581b9d28": {
+      "x": -5598.265353350556,
+      "y": -212.89827952175
+    },
+    "flow_1770313472523_172ad095e7965": {
+      "x": -5395.40565267487,
+      "y": -212.54791735366234
+    },
+    "flow_1770313525562_a9839524693458": {
+      "x": -5186.210057452598,
+      "y": -208.69393350469767
+    },
+    "flow_1770313576586_1a21431071aea8": {
+      "x": -4962.967846365284,
+      "y": -218.6898126248926
+    }
+  },
+  "node_colors": {
+    "flow_1770290892588_812a2bfd8be748": "#23cbd7",
+    "flow_1770290909057_0395acbda54a6": "#23cbd7",
+    "flow_1770290947794_113af2e1a0a178": "#23cbd7",
+    "flow_1770291038056_ea18bbb8e8f9f": "#23cbd7",
+    "flow_1770291052138_dab6a1e3b2951": "#23cbd7",
+    "flow_1770291074388_dd69dc1587fb9": "#23cbd7",
+    "flow_1770291129917_f7107607bda8c": "#2371d7",
+    "flow_1770291329518_20a00fe2ad41": "#23d79b",
+    "flow_1770291391168_992bddd714158": "#23d79b",
+    "flow_1770291344312_ac463a83569ac": "#23d79b",
+    "flow_1770291785984_0c21a7be86f2c": "#23cbd7",
+    "flow_1770292086734_f5dde7a978fa2": "#2371d7",
+    "flow_1770292107508_f31d6bb2ea7fd8": "#2371d7",
+    "flow_1770292128194_b06fa4a5a0bbf8": "#d72323",
+    "flow_1770292286787_72df499322762": "#23d79b",
+    "flow_1770292452062_5ec68ab7cd9268": "#23cbd7",
+    "flow_1770296228804_ede6e0064246f8": "#23d79b",
+    "flow_1770298425014_ad367f97e85dc": "#23cbd7",
+    "flow_1770307979469_15d2c8fe38d67": "#23cbd7",
+    "flow_1770308032859_3dc34e46a49af": "#23cbd7",
+    "flow_1770308059244_9650471a4451d8": "#23cbd7",
+    "flow_1770308099932_c1a956d207abb": "#23cbd7",
+    "flow_1770308131477_bdc0ede1111f78": "#23cbd7",
+    "flow_1770308296980_15a68ab2e5a9a8": "#23d747",
+    "flow_1770308339404_46e903e205b268": "#23cbd7",
+    "flow_1770308592963_76d43b74bcc71": "#23d747",
+    "flow_1770308606307_dcbf9882e6d1e8": "#23d747",
+    "flow_1770308770340_00aa1de6362a78": "#23cbd7",
+    "flow_1770308883869_791bae61908c38": "#2371d7",
+    "flow_1770308982955_4202bed3a7b74": "#23cbd7",
+    "flow_1770309060123_4f516aeb240a18": "#23cbd7",
+    "flow_1770309079636_049905d16ee118": "#23cbd7",
+    "flow_1770311995410_9e4fa0655d42c": "#23cbd7",
+    "flow_1770312035786_39f94587806f78": "#23cbd7",
+    "flow_1770312166617_84757b11a7487": "#3823d7",
+    "flow_1770312240049_1b1b1a1f3a6d78": "#3823d7",
+    "flow_1770312249074_a9a09d4606a67": "#3823d7",
+    "flow_1770312261138_350aeceaf2c588": "#3823d7",
+    "flow_1770312860506_77f65628f77078": "#6b23d7",
+    "flow_1770313022170_7f8c998659e198": "#6b23d7",
+    "flow_1770313040098_2efc8bb2ad6ed": "#6b23d7",
+    "flow_1770313124474_daf6a168ed5f18": "#8623d7",
+    "flow_1770313152330_89fdf7c41777f8": "#8623d7",
+    "flow_1770313183954_57d4716e5d872": "#8623d7",
+    "flow_1770313300706_c9bf7e7bc5df5": "#8623d7",
+    "flow_1770313371651_81bd0f30fe291": "#d7239e",
+    "flow_1770313405946_0bf3db581b9d28": "#d7239e",
+    "flow_1770313472523_172ad095e7965": "#d7239e",
+    "flow_1770313525562_a9839524693458": "#d7239e",
+    "flow_1770313576586_1a21431071aea8": "#d7239e"
+  },
   "node_size": {},
-  "flowchart_nodes": [],
-  "flowchart_edges": [],
+  "flowchart_nodes": [
+    {
+      "id": "flow_1770290947794_113af2e1a0a178",
+      "type": "flowchart.roundRect",
+      "name": "AI/ML",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:30:24.042Z",
+      "updated_on": "2026-02-05T11:30:24.042Z"
+    },
+    {
+      "id": "flow_1770291052138_dab6a1e3b2951",
+      "type": "flowchart.roundRect",
+      "name": "Architecture",
+      "purpose": "Architectural Design\nEnterprise Grade Architecture \nBest practices.",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:31:03.537Z",
+      "updated_on": "2026-02-05T11:54:51.316Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770291074388_dd69dc1587fb9",
+      "type": "flowchart.rect",
+      "name": "Development",
+      "purpose": "Development and Implementation, Lead the end-to-end development, testing, and deployment of generative AI systems, acting as a technical guide for teams.\nAPI Use cases.",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:31:21.641Z",
+      "updated_on": "2026-02-05T11:56:03.308Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770291129917_f7107607bda8c",
+      "type": "flowchart.roundRect",
+      "name": "Generative AI",
+      "purpose": "Deep Understanding of Generative AI Technologies and their application tailored to our business requirements. \nCurrent updates.\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:32:43.743Z",
+      "updated_on": "2026-02-05T11:50:50.017Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770291329518_20a00fe2ad41",
+      "type": "flowchart.roundRect",
+      "name": "Innovation",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:35:36.336Z",
+      "updated_on": "2026-02-05T11:35:36.336Z"
+    },
+    {
+      "id": "flow_1770291391168_992bddd714158",
+      "type": "flowchart.roundRect",
+      "name": "Business Alignment",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:36:43.825Z",
+      "updated_on": "2026-02-05T11:36:43.825Z"
+    },
+    {
+      "id": "flow_1770291785984_0c21a7be86f2c",
+      "type": "flowchart.roundRect",
+      "name": "Frameworks",
+      "purpose": "Frame works and solutions tailored to business needs",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:43:24.418Z",
+      "updated_on": "2026-02-05T11:44:18.904Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770292086734_f5dde7a978fa2",
+      "type": "flowchart.roundRect",
+      "name": "GPT",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:48:20.657Z",
+      "updated_on": "2026-02-05T11:48:20.657Z"
+    },
+    {
+      "id": "flow_1770292107508_f31d6bb2ea7fd8",
+      "type": "flowchart.roundRect",
+      "name": "DALL-E",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:48:40.054Z",
+      "updated_on": "2026-02-05T11:48:40.054Z"
+    },
+    {
+      "id": "flow_1770292128194_b06fa4a5a0bbf8",
+      "type": "flowchart.roundRect",
+      "name": "Stable Diffusion",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:49:07.622Z",
+      "updated_on": "2026-02-05T11:49:07.622Z"
+    },
+    {
+      "id": "flow_1770292286787_72df499322762",
+      "type": "flowchart.roundRect",
+      "name": "Stakeholders",
+      "purpose": "\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:52:04.589Z",
+      "updated_on": "2026-02-05T11:52:04.589Z"
+    },
+    {
+      "id": "flow_1770292452062_5ec68ab7cd9268",
+      "type": "flowchart.roundRect",
+      "name": "Tools",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:54:35.425Z",
+      "updated_on": "2026-02-05T11:54:35.425Z"
+    },
+    {
+      "id": "flow_1770296228804_ede6e0064246f8",
+      "type": "flowchart.roundRect",
+      "name": "Business requirements",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T12:57:29.786Z",
+      "updated_on": "2026-02-05T12:57:29.786Z"
+    },
+    {
+      "id": "flow_1770307979469_15d2c8fe38d67",
+      "type": "flowchart.circle",
+      "name": "Teams",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:13:10.620Z",
+      "updated_on": "2026-02-05T16:13:10.620Z"
+    },
+    {
+      "id": "flow_1770308032859_3dc34e46a49af",
+      "type": "flowchart.rect",
+      "name": "DataEngineers",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:14:02.932Z",
+      "updated_on": "2026-02-05T16:14:02.932Z"
+    },
+    {
+      "id": "flow_1770308059244_9650471a4451d8",
+      "type": "flowchart.rect",
+      "name": "Data Scientist",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:14:44.092Z",
+      "updated_on": "2026-02-05T16:14:44.092Z"
+    },
+    {
+      "id": "flow_1770308099932_c1a956d207abb",
+      "type": "flowchart.rect",
+      "name": "MLOps",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:15:22.868Z",
+      "updated_on": "2026-02-05T16:15:22.868Z"
+    },
+    {
+      "id": "flow_1770308131477_bdc0ede1111f78",
+      "type": "flowchart.rect",
+      "name": "Cloud Engineers",
+      "purpose": "AWS, Azure, GCP\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:15:56.931Z",
+      "updated_on": "2026-02-05T16:15:56.931Z"
+    },
+    {
+      "id": "flow_1770308296980_15a68ab2e5a9a8",
+      "type": "flowchart.roundRect",
+      "name": "Mentor",
+      "purpose": "Act as a mentor for junior AI developers and other cross-functional team members in understanding generative AI technologies",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:18:45.228Z",
+      "updated_on": "2026-02-05T16:18:45.228Z"
+    },
+    {
+      "id": "flow_1770308339404_46e903e205b268",
+      "type": "flowchart.roundRect",
+      "name": "My Career Position",
+      "purpose": "Senior Solution Architect - Gen AI - EPAM Systems\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:20:01.116Z",
+      "updated_on": "2026-02-05T16:21:13.907Z",
+      "details_path": "E:\\2026\\KB\\Techno KB\\career\\My Career Position.md",
+      "details_opt_out": false
+    },
+    {
+      "id": "flow_1770308592963_76d43b74bcc71",
+      "type": "flowchart.rect",
+      "name": "Juniors",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:23:21.931Z",
+      "updated_on": "2026-02-05T16:23:21.931Z"
+    },
+    {
+      "id": "flow_1770308606307_dcbf9882e6d1e8",
+      "type": "flowchart.rect",
+      "name": "Functional Teams",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:23:39.365Z",
+      "updated_on": "2026-02-05T16:23:39.365Z"
+    },
+    {
+      "id": "flow_1770308770340_00aa1de6362a78",
+      "type": "flowchart.rect",
+      "name": "Product Managers",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:26:27.099Z",
+      "updated_on": "2026-02-05T16:26:27.099Z"
+    },
+    {
+      "id": "flow_1770308883869_791bae61908c38",
+      "type": "flowchart.roundRect",
+      "name": "Hugging Faces",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:28:31.101Z",
+      "updated_on": "2026-02-05T16:28:31.101Z"
+    },
+    {
+      "id": "flow_1770308982955_4202bed3a7b74",
+      "type": "flowchart.roundRect",
+      "name": "Health Check",
+      "purpose": "Conduct periodic evaluations of deployed AI systems, recommending adjustments and enhancements for improved operational efficiency\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:29:59.220Z",
+      "updated_on": "2026-02-05T16:30:12.611Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770309060123_4f516aeb240a18",
+      "type": "flowchart.roundRect",
+      "name": "NLP",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:31:14.581Z",
+      "updated_on": "2026-02-05T16:31:14.581Z"
+    },
+    {
+      "id": "flow_1770309079636_049905d16ee118",
+      "type": "flowchart.roundRect",
+      "name": "Computer Vision",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:31:30.211Z",
+      "updated_on": "2026-02-05T16:31:30.211Z"
+    },
+    {
+      "id": "flow_1770311995410_9e4fa0655d42c",
+      "type": "flowchart.roundRect",
+      "name": "TensorFlow",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:20:13.971Z",
+      "updated_on": "2026-02-05T17:20:13.971Z"
+    },
+    {
+      "id": "flow_1770312035786_39f94587806f78",
+      "type": "flowchart.roundRect",
+      "name": "PyTorch",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:20:48.073Z",
+      "updated_on": "2026-02-05T17:20:48.073Z"
+    },
+    {
+      "id": "flow_1770312166617_84757b11a7487",
+      "type": "flowchart.roundRect",
+      "name": "Cloud",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:23:00.345Z",
+      "updated_on": "2026-02-05T17:23:00.345Z"
+    },
+    {
+      "id": "flow_1770312240049_1b1b1a1f3a6d78",
+      "type": "flowchart.roundRect",
+      "name": "AWS",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:24:04.850Z",
+      "updated_on": "2026-02-05T17:24:04.850Z"
+    },
+    {
+      "id": "flow_1770312249074_a9a09d4606a67",
+      "type": "flowchart.roundRect",
+      "name": "Azure",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:24:14.633Z",
+      "updated_on": "2026-02-05T17:24:14.633Z"
+    },
+    {
+      "id": "flow_1770312261138_350aeceaf2c588",
+      "type": "flowchart.roundRect",
+      "name": "GCP",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:24:27.449Z",
+      "updated_on": "2026-02-05T17:24:27.449Z"
+    },
+    {
+      "id": "flow_1770312860506_77f65628f77078",
+      "type": "flowchart.roundRect",
+      "name": "Container Platforms",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:34:49.060Z",
+      "updated_on": "2026-02-05T17:34:49.060Z"
+    },
+    {
+      "id": "flow_1770313022170_7f8c998659e198",
+      "type": "flowchart.roundRect",
+      "name": "Docker",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:37:14.742Z",
+      "updated_on": "2026-02-05T17:37:14.742Z"
+    },
+    {
+      "id": "flow_1770313040098_2efc8bb2ad6ed",
+      "type": "flowchart.roundRect",
+      "name": "Kubernetes",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:37:48.611Z",
+      "updated_on": "2026-02-05T17:37:48.611Z"
+    },
+    {
+      "id": "flow_1770313124474_daf6a168ed5f18",
+      "type": "flowchart.roundRect",
+      "name": "MLops",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:39:03.308Z",
+      "updated_on": "2026-02-05T17:39:03.308Z"
+    },
+    {
+      "id": "flow_1770313152330_89fdf7c41777f8",
+      "type": "flowchart.roundRect",
+      "name": "Kubeflow",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:39:28.427Z",
+      "updated_on": "2026-02-05T17:39:28.427Z"
+    },
+    {
+      "id": "flow_1770313183954_57d4716e5d872",
+      "type": "flowchart.roundRect",
+      "name": "Airflow",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:39:55.691Z",
+      "updated_on": "2026-02-05T17:39:55.691Z"
+    },
+    {
+      "id": "flow_1770313300706_c9bf7e7bc5df5",
+      "type": "flowchart.roundRect",
+      "name": "CI/CD Practices",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:41:54.235Z",
+      "updated_on": "2026-02-05T17:41:54.235Z"
+    },
+    {
+      "id": "flow_1770313371651_81bd0f30fe291",
+      "type": "flowchart.roundRect",
+      "name": "Data Regulations",
+      "purpose": "\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:43:16.090Z",
+      "updated_on": "2026-02-05T17:43:16.090Z"
+    },
+    {
+      "id": "flow_1770313405946_0bf3db581b9d28",
+      "type": "flowchart.roundRect",
+      "name": "AI Governance",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:44:21.418Z",
+      "updated_on": "2026-02-05T17:44:21.418Z"
+    },
+    {
+      "id": "flow_1770313472523_172ad095e7965",
+      "type": "flowchart.roundRect",
+      "name": "Ethical frameworks,",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:44:54.129Z",
+      "updated_on": "2026-02-05T17:44:54.129Z"
+    },
+    {
+      "id": "flow_1770313525562_a9839524693458",
+      "type": "flowchart.roundRect",
+      "name": "Compliance",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:45:42.008Z",
+      "updated_on": "2026-02-05T17:45:42.008Z"
+    },
+    {
+      "id": "flow_1770313576586_1a21431071aea8",
+      "type": "flowchart.roundRect",
+      "name": "Data Privacy",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:46:44.242Z",
+      "updated_on": "2026-02-05T17:46:44.242Z"
+    }
+  ],
+  "flowchart_edges": [
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770291052138_dab6a1e3b2951_1770291285154",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770291052138_dab6a1e3b2951",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770291074388_dd69dc1587fb9_1770291287643",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770291074388_dd69dc1587fb9",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770291129917_f7107607bda8c_1770291290275",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770291129917_f7107607bda8c",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291391168_992bddd714158_flow_1770291329518_20a00fe2ad41_1770291409428",
+      "source": "flow_1770291391168_992bddd714158",
+      "target": "flow_1770291329518_20a00fe2ad41",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770291391168_992bddd714158_1770291609577",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770291391168_992bddd714158",
+      "source_handle": "source-right",
+      "target_handle": "target-left",
+      "name": "Align AI/ML to business needs",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291052138_dab6a1e3b2951_flow_1770291785984_0c21a7be86f2c_1770291810800",
+      "source": "flow_1770291052138_dab6a1e3b2951",
+      "target": "flow_1770291785984_0c21a7be86f2c",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770292086734_f5dde7a978fa2_1770292163137",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770292086734_f5dde7a978fa2",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770292107508_f31d6bb2ea7fd8_1770292169097",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770292107508_f31d6bb2ea7fd8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770292128194_b06fa4a5a0bbf8_1770292173192",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770292128194_b06fa4a5a0bbf8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291052138_dab6a1e3b2951_flow_1770292452062_5ec68ab7cd9268_1770292513122",
+      "source": "flow_1770291052138_dab6a1e3b2951",
+      "target": "flow_1770292452062_5ec68ab7cd9268",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291391168_992bddd714158_flow_1770296228804_ede6e0064246f8_1770296234285",
+      "source": "flow_1770291391168_992bddd714158",
+      "target": "flow_1770296228804_ede6e0064246f8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770296228804_ede6e0064246f8_flow_1770292286787_72df499322762_1770296257943",
+      "source": "flow_1770296228804_ede6e0064246f8",
+      "target": "flow_1770292286787_72df499322762",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "Collaboration ",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291074388_dd69dc1587fb9_flow_1770307979469_15d2c8fe38d67_1770307994790",
+      "source": "flow_1770291074388_dd69dc1587fb9",
+      "target": "flow_1770307979469_15d2c8fe38d67",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308032859_3dc34e46a49af_1770308045899",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308032859_3dc34e46a49af",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308059244_9650471a4451d8_1770308090388",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308059244_9650471a4451d8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308099932_c1a956d207abb_1770308112044",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308099932_c1a956d207abb",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308131477_bdc0ede1111f78_1770308167235",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308131477_bdc0ede1111f78",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308339404_46e903e205b268_flow_1770290947794_113af2e1a0a178_1770308485166",
+      "source": "flow_1770308339404_46e903e205b268",
+      "target": "flow_1770290947794_113af2e1a0a178",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "Responsibilities",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308339404_46e903e205b268_flow_1770308296980_15a68ab2e5a9a8_1770308501763",
+      "source": "flow_1770308339404_46e903e205b268",
+      "target": "flow_1770308296980_15a68ab2e5a9a8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "Responsibilities",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308339404_46e903e205b268_flow_1770291391168_992bddd714158_1770308511940",
+      "source": "flow_1770308339404_46e903e205b268",
+      "target": "flow_1770291391168_992bddd714158",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "Responsibilities",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308296980_15a68ab2e5a9a8_flow_1770308592963_76d43b74bcc71_1770308627981",
+      "source": "flow_1770308296980_15a68ab2e5a9a8",
+      "target": "flow_1770308592963_76d43b74bcc71",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308296980_15a68ab2e5a9a8_flow_1770308606307_dcbf9882e6d1e8_1770308631300",
+      "source": "flow_1770308296980_15a68ab2e5a9a8",
+      "target": "flow_1770308606307_dcbf9882e6d1e8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308770340_00aa1de6362a78_1770308800236",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308770340_00aa1de6362a78",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770308883869_791bae61908c38_1770308914523",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770308883869_791bae61908c38",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770308982955_4202bed3a7b74_1770309018924",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770308982955_4202bed3a7b74",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770309079636_049905d16ee118_1770309131284",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770309079636_049905d16ee118",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770309060123_4f516aeb240a18_1770309137268",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770309060123_4f516aeb240a18",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770311995410_9e4fa0655d42c_1770312061539",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770311995410_9e4fa0655d42c",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770290947794_113af2e1a0a178_flow_1770312035786_39f94587806f78_1770312065769",
+      "source": "flow_1770290947794_113af2e1a0a178",
+      "target": "flow_1770312035786_39f94587806f78",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308339404_46e903e205b268_flow_1770312166617_84757b11a7487_1770312195330",
+      "source": "flow_1770308339404_46e903e205b268",
+      "target": "flow_1770312166617_84757b11a7487",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312166617_84757b11a7487_flow_1770312240049_1b1b1a1f3a6d78_1770312293570",
+      "source": "flow_1770312166617_84757b11a7487",
+      "target": "flow_1770312240049_1b1b1a1f3a6d78",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312166617_84757b11a7487_flow_1770312249074_a9a09d4606a67_1770312299746",
+      "source": "flow_1770312166617_84757b11a7487",
+      "target": "flow_1770312249074_a9a09d4606a67",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312166617_84757b11a7487_flow_1770312261138_350aeceaf2c588_1770312304243",
+      "source": "flow_1770312166617_84757b11a7487",
+      "target": "flow_1770312261138_350aeceaf2c588",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308339404_46e903e205b268_flow_1770312860506_77f65628f77078_1770312972644",
+      "source": "flow_1770308339404_46e903e205b268",
+      "target": "flow_1770312860506_77f65628f77078",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312860506_77f65628f77078_flow_1770313022170_7f8c998659e198_1770313073586",
+      "source": "flow_1770312860506_77f65628f77078",
+      "target": "flow_1770313022170_7f8c998659e198",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312860506_77f65628f77078_flow_1770313040098_2efc8bb2ad6ed_1770313076041",
+      "source": "flow_1770312860506_77f65628f77078",
+      "target": "flow_1770313040098_2efc8bb2ad6ed",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313124474_daf6a168ed5f18_flow_1770313152330_89fdf7c41777f8_1770313202930",
+      "source": "flow_1770313124474_daf6a168ed5f18",
+      "target": "flow_1770313152330_89fdf7c41777f8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313124474_daf6a168ed5f18_flow_1770313183954_57d4716e5d872_1770313205186",
+      "source": "flow_1770313124474_daf6a168ed5f18",
+      "target": "flow_1770313183954_57d4716e5d872",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308339404_46e903e205b268_flow_1770313124474_daf6a168ed5f18_1770313266026",
+      "source": "flow_1770308339404_46e903e205b268",
+      "target": "flow_1770313124474_daf6a168ed5f18",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313124474_daf6a168ed5f18_flow_1770313300706_c9bf7e7bc5df5_1770313321064",
+      "source": "flow_1770313124474_daf6a168ed5f18",
+      "target": "flow_1770313300706_c9bf7e7bc5df5",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770313405946_0bf3db581b9d28_1770313465936",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770313405946_0bf3db581b9d28",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770313472523_172ad095e7965_1770313505712",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770313472523_172ad095e7965",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770313525562_a9839524693458_1770313548890",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770313525562_a9839524693458",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770313576586_1a21431071aea8_1770313582138",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770313576586_1a21431071aea8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770308339404_46e903e205b268_flow_1770313371651_81bd0f30fe291_1770313643868",
+      "source": "flow_1770308339404_46e903e205b268",
+      "target": "flow_1770313371651_81bd0f30fe291",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "name": "",
+      "purpose": ""
+    }
+  ],
   "groups": [],
-  "child": []
+  "child": [
+    {
+      "id": "ae2f9883-3ef4-4c44-8770-cceaaf7c1dfb",
+      "name": "My Career Position",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\Techno KB\\career\\My Career Position.md",
+      "created_on": "2026-02-05T16:24:10.136Z",
+      "updated_on": "2026-02-05T16:24:10.136Z",
+      "last_viewed_on": "2026-02-05T16:24:10.136Z",
+      "views": 0,
+      "related_nodes": []
+    }
+  ]
 }

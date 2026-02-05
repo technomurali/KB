@@ -14,15 +14,24 @@
     "Subfolder ignored at Goals",
     "Subfolder ignored at ProjectBase",
     "Subfolder ignored at RealityBase",
+    "Subfolder ignored at Techno KB",
+    "Subfolder ignored at .git",
+    "Subfolder ignored at FuturePredictionBase",
+    "Subfolder ignored at Goals",
+    "Subfolder ignored at ProblemSolvingBase",
+    "Subfolder ignored at ProjectBase",
+    "Subfolder ignored at RealityBase",
     "Subfolder ignored at Techno KB"
   ],
   "recommendations": [],
   "error_messages": [],
+  "recent_searches": [],
   "node_positions": {},
   "node_colors": {},
   "node_size": {},
   "flowchart_nodes": [],
   "flowchart_edges": [],
+  "groups": [],
   "child": [
     {
       "id": "f498d19e-b10b-4c24-bf77-d2d847716c94",
@@ -36,8 +45,21 @@
       "updated_on": "2026-01-25T05:41:26.081Z",
       "last_viewed_on": "2026-01-25T05:41:26.081Z",
       "views": 0,
-      "related_nodes": [],
-      "sort_index": null
+      "related_nodes": []
+    },
+    {
+      "id": "58172ff2-e779-4a04-ac7c-1e66e5b00ff6",
+      "name": "README",
+      "extension": "md",
+      "purpose": "",
+      "type": "file_A",
+      "level": 1,
+      "path": "E:\\2026\\KB\\README.md",
+      "created_on": "2026-02-05T11:06:55.089Z",
+      "updated_on": "2026-02-05T11:06:55.089Z",
+      "last_viewed_on": "2026-02-05T11:06:55.089Z",
+      "views": 0,
+      "related_nodes": []
     }
   ]
 }

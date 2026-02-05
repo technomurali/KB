@@ -1,0 +1,1 @@
+Senior Solution Architect - Gen AI --> EPAM Systems (Bangaluru)
