@@ -23,13 +23,13 @@
       "tabName": "AWS",
       "relativePath": "AWS_cognitiveNotes.json",
       "timeSpent": "01:09:52",
-      "lastUpdated": "2026-02-04T12:26:03.829Z"
+      "lastUpdated": "2026-02-05T06:07:47.315Z"
     },
     {
       "tabName": "Prompt DB",
       "relativePath": "Prompt DB_cognitiveNotes.json",
       "timeSpent": "00:14:21",
-      "lastUpdated": "2026-02-04T11:56:08.226Z"
+      "lastUpdated": "2026-02-05T06:06:23.567Z"
     },
     {
       "tabName": "ProblemSolvingBase",
@@ -52,8 +52,8 @@
     {
       "tabName": "Life of MG",
       "relativePath": "Life of MG_cognitiveNotes.json",
-      "timeSpent": "00:12:27",
-      "lastUpdated": "2026-02-03T08:21:50.725Z"
+      "timeSpent": "00:12:33",
+      "lastUpdated": "2026-02-04T08:34:09.628Z"
     },
     {
       "tabName": "Parallelimind_Application",
@@ -71,7 +71,14 @@
       "tabName": "DeepAgents",
       "relativePath": "DeepAgents_cognitiveNotes.json",
       "timeSpent": "00:40:35",
-      "lastUpdated": "2026-02-04T16:44:22.747Z"
+      "lastUpdated": "2026-02-05T05:12:55.993Z"
+    },
+    {
+      "tabName": "career",
+      "relativePath": "career_cognitiveNotes.json",
+      "timeSpent": "00:06:19",
+      "lastUpdated": "2026-02-05T06:03:56.274Z"
+    }
     }
   ]
 }
