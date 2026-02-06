@@ -7,7 +7,7 @@
   "level": 0,
   "path": "E:\\2026\\KB\\Techno KB\\ai_solution_architect",
   "created_on": "2026-02-06T09:15:26.030Z",
-  "updated_on": "2026-02-06T17:17:34.768Z",
+  "updated_on": "2026-02-06T13:59:05.846Z",
   "last_viewed_on": "2026-02-06T09:15:26.030Z",
   "views": 0,
   "notifications": [],
@@ -705,7 +705,7 @@
     },
     {
       "id": "flow_1770375275978_7088ccd2d65fa",
-      "type": "flowchart.heart",
+      "type": "flowchart.roundRect",
       "name": "Python",
       "purpose": "Essential expertise in python libraries\n",
       "youtube_url": "",
@@ -718,7 +718,7 @@
         "controls": true
       },
       "created_on": "2026-02-06T10:55:10.224Z",
-      "updated_on": "2026-02-06T17:17:34.768Z"
+      "updated_on": "2026-02-06T10:55:10.224Z"
     },
     {
       "id": "flow_1770375338368_763921bb9702b8",
