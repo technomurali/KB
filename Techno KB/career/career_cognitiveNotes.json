@@ -5,9 +5,9 @@
   "purpose": "",
   "type": "root_folder",
   "level": 0,
-  "path": "E:\\2026\\KB\\Techno KB\\career",
+  "path": "D:\\2026\\KB\\Techno KB\\career",
   "created_on": "2026-02-05T05:12:55.868Z",
-  "updated_on": "2026-02-05T17:48:43.865Z",
+  "updated_on": "2026-02-06T04:50:56.894Z",
   "last_viewed_on": "2026-02-05T05:12:55.868Z",
   "views": 0,
   "notifications": [],
@@ -32,7 +32,7 @@
       "y": -213.80613606050272
     },
     "19c00591-4640-4a69-8699-61353d0b8a8d": {
-      "x": 270,
+      "x": 300,
       "y": 0
     },
     "flow_1770291329518_20a00fe2ad41": {
@@ -101,7 +101,7 @@
     },
     "flow_1770308131477_bdc0ede1111f78": {
       "x": 402.2520261990038,
-      "y": 345.740135890385
+      "y": 343.740135890385
     },
     "flow_1770308296980_15a68ab2e5a9a8": {
       "x": 1292.6298668334566,
@@ -210,43 +210,51 @@
     "flow_1770313576586_1a21431071aea8": {
       "x": -4962.967846365284,
       "y": -218.6898126248926
+    },
+    "ae2f9883-3ef4-4c44-8770-cceaaf7c1dfb": {
+      "x": -28,
+      "y": -1334
+    },
+    "flow_1770353394086_27def1f531a848": {
+      "x": -1898.00348417348,
+      "y": 142.3411585156764
     }
   },
   "node_colors": {
     "flow_1770290892588_812a2bfd8be748": "#23cbd7",
     "flow_1770290909057_0395acbda54a6": "#23cbd7",
-    "flow_1770290947794_113af2e1a0a178": "#23cbd7",
+    "flow_1770290947794_113af2e1a0a178": "#1f25c7",
     "flow_1770291038056_ea18bbb8e8f9f": "#23cbd7",
-    "flow_1770291052138_dab6a1e3b2951": "#23cbd7",
-    "flow_1770291074388_dd69dc1587fb9": "#23cbd7",
+    "flow_1770291052138_dab6a1e3b2951": "#1f25c7",
+    "flow_1770291074388_dd69dc1587fb9": "#1f25c7",
     "flow_1770291129917_f7107607bda8c": "#2371d7",
     "flow_1770291329518_20a00fe2ad41": "#23d79b",
     "flow_1770291391168_992bddd714158": "#23d79b",
     "flow_1770291344312_ac463a83569ac": "#23d79b",
-    "flow_1770291785984_0c21a7be86f2c": "#23cbd7",
+    "flow_1770291785984_0c21a7be86f2c": "#1f25c7",
     "flow_1770292086734_f5dde7a978fa2": "#2371d7",
     "flow_1770292107508_f31d6bb2ea7fd8": "#2371d7",
     "flow_1770292128194_b06fa4a5a0bbf8": "#d72323",
     "flow_1770292286787_72df499322762": "#23d79b",
-    "flow_1770292452062_5ec68ab7cd9268": "#23cbd7",
+    "flow_1770292452062_5ec68ab7cd9268": "#1f25c7",
     "flow_1770296228804_ede6e0064246f8": "#23d79b",
     "flow_1770298425014_ad367f97e85dc": "#23cbd7",
-    "flow_1770307979469_15d2c8fe38d67": "#23cbd7",
-    "flow_1770308032859_3dc34e46a49af": "#23cbd7",
-    "flow_1770308059244_9650471a4451d8": "#23cbd7",
-    "flow_1770308099932_c1a956d207abb": "#23cbd7",
-    "flow_1770308131477_bdc0ede1111f78": "#23cbd7",
+    "flow_1770307979469_15d2c8fe38d67": "#1f25c7",
+    "flow_1770308032859_3dc34e46a49af": "#1f25c7",
+    "flow_1770308059244_9650471a4451d8": "#1f25c7",
+    "flow_1770308099932_c1a956d207abb": "#1f25c7",
+    "flow_1770308131477_bdc0ede1111f78": "#1f25c7",
     "flow_1770308296980_15a68ab2e5a9a8": "#23d747",
     "flow_1770308339404_46e903e205b268": "#23cbd7",
     "flow_1770308592963_76d43b74bcc71": "#23d747",
     "flow_1770308606307_dcbf9882e6d1e8": "#23d747",
-    "flow_1770308770340_00aa1de6362a78": "#23cbd7",
+    "flow_1770308770340_00aa1de6362a78": "#1f25c7",
     "flow_1770308883869_791bae61908c38": "#2371d7",
-    "flow_1770308982955_4202bed3a7b74": "#23cbd7",
-    "flow_1770309060123_4f516aeb240a18": "#23cbd7",
-    "flow_1770309079636_049905d16ee118": "#23cbd7",
-    "flow_1770311995410_9e4fa0655d42c": "#23cbd7",
-    "flow_1770312035786_39f94587806f78": "#23cbd7",
+    "flow_1770308982955_4202bed3a7b74": "#1f25c7",
+    "flow_1770309060123_4f516aeb240a18": "#1f25c7",
+    "flow_1770309079636_049905d16ee118": "#1f25c7",
+    "flow_1770311995410_9e4fa0655d42c": "#1f25c7",
+    "flow_1770312035786_39f94587806f78": "#1f25c7",
     "flow_1770312166617_84757b11a7487": "#3823d7",
     "flow_1770312240049_1b1b1a1f3a6d78": "#3823d7",
     "flow_1770312249074_a9a09d4606a67": "#3823d7",
@@ -262,7 +270,8 @@
     "flow_1770313405946_0bf3db581b9d28": "#d7239e",
     "flow_1770313472523_172ad095e7965": "#d7239e",
     "flow_1770313525562_a9839524693458": "#d7239e",
-    "flow_1770313576586_1a21431071aea8": "#d7239e"
+    "flow_1770313576586_1a21431071aea8": "#d7239e",
+    "flow_1770353394086_27def1f531a848": "#4330d5"
   },
   "node_size": {},
   "flowchart_nodes": [
@@ -287,7 +296,7 @@
       "id": "flow_1770291052138_dab6a1e3b2951",
       "type": "flowchart.roundRect",
       "name": "Architecture",
-      "purpose": "Architectural Design\nEnterprise Grade Architecture \nBest practices.",
+      "purpose": "Architectural Design\nEnterprise Grade Architecture \nBest practices.\nScalability, Security & Performance.",
       "youtube_url": "",
       "youtube_video_id": "",
       "yt_settings": {
@@ -298,7 +307,7 @@
         "controls": true
       },
       "created_on": "2026-02-05T11:31:03.537Z",
-      "updated_on": "2026-02-05T11:54:51.316Z",
+      "updated_on": "2026-02-06T04:49:22.365Z",
       "related_links": []
     },
     {
@@ -608,8 +617,8 @@
         "controls": true
       },
       "created_on": "2026-02-05T16:20:01.116Z",
-      "updated_on": "2026-02-05T16:21:13.907Z",
-      "details_path": "E:\\2026\\KB\\Techno KB\\career\\My Career Position.md",
+      "updated_on": "2026-02-06T04:41:10.541Z",
+      "details_path": "D:\\2026\\KB\\Techno KB\\career\\My Career Position.md",
       "details_opt_out": false
     },
     {
@@ -1037,6 +1046,24 @@
       },
       "created_on": "2026-02-05T17:46:44.242Z",
       "updated_on": "2026-02-05T17:46:44.242Z"
+    },
+    {
+      "id": "flow_1770353394086_27def1f531a848",
+      "type": "flowchart.roundRect",
+      "name": "Chatbots",
+      "purpose": "conversational agents, chatbots, and personalized user experiences.\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T04:50:37.795Z",
+      "updated_on": "2026-02-06T04:50:56.894Z",
+      "related_links": []
     }
   ],
   "flowchart_edges": [
@@ -1363,7 +1390,6 @@
       "target": "flow_1770313300706_c9bf7e7bc5df5",
       "source_handle": "source-bottom",
       "target_handle": "target-top",
-      "name": "",
       "purpose": ""
     },
     {
@@ -1372,7 +1398,6 @@
       "target": "flow_1770313405946_0bf3db581b9d28",
       "source_handle": "source-bottom",
       "target_handle": "target-top",
-      "name": "",
       "purpose": ""
     },
     {
@@ -1381,7 +1406,6 @@
       "target": "flow_1770313472523_172ad095e7965",
       "source_handle": "source-bottom",
       "target_handle": "target-top",
-      "name": "",
       "purpose": ""
     },
     {
@@ -1390,7 +1414,6 @@
       "target": "flow_1770313525562_a9839524693458",
       "source_handle": "source-bottom",
       "target_handle": "target-top",
-      "name": "",
       "purpose": ""
     },
     {
@@ -1399,7 +1422,6 @@
       "target": "flow_1770313576586_1a21431071aea8",
       "source_handle": "source-bottom",
       "target_handle": "target-top",
-      "name": "",
       "purpose": ""
     },
     {
@@ -1408,7 +1430,6 @@
       "target": "flow_1770313371651_81bd0f30fe291",
       "source_handle": "source-bottom",
       "target_handle": "target-top",
-      "name": "",
       "purpose": ""
     }
   ],
@@ -1421,11 +1442,11 @@
       "purpose": "",
       "type": "file_A",
       "level": 1,
-      "path": "E:\\2026\\KB\\Techno KB\\career\\My Career Position.md",
+      "path": "D:\\2026\\KB\\Techno KB\\career\\My Career Position.md",
       "created_on": "2026-02-05T16:24:10.136Z",
       "updated_on": "2026-02-05T16:24:10.136Z",
-      "last_viewed_on": "2026-02-05T16:24:10.136Z",
-      "views": 0,
+      "last_viewed_on": "2026-02-06T04:40:45.168Z",
+      "views": 1,
       "related_nodes": []
     }
   ]

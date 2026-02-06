@@ -1,35 +1,18 @@
 {
   "schema_version": "1.2.0",
-  "bookmarks": [
-    {
-      "path": "E:\\2026\\KB\\Techno KB\\Cloud\\AWS\\AWS_cognitiveNotes.json",
-      "name": "AWS",
-      "moduleType": "cognitiveNotes",
-      "indexType": "cognitiveNotes",
-      "views": 1,
-      "lastOpened": "2026-02-05T09:17:44.838Z"
-    },
-    {
-      "path": "E:\\2026\\KB\\Techno KB\\career\\career_cognitiveNotes.json",
-      "name": "career",
-      "moduleType": "cognitiveNotes",
-      "indexType": "cognitiveNotes",
-      "views": 2,
-      "lastOpened": "2026-02-05T12:59:38.069Z"
-    }
-  ],
+  "bookmarks": [],
   "time_spent": [
     {
       "tabName": "RealityBase",
       "relativePath": "RealityBase_cognitiveNotes.json",
-      "timeSpent": "00:08:28",
-      "lastUpdated": "2026-02-05T08:22:48.284Z"
+      "timeSpent": "00:09:59",
+      "lastUpdated": "2026-02-06T05:53:59.077Z"
     },
     {
       "tabName": "AWS",
       "relativePath": "AWS_cognitiveNotes.json",
-      "timeSpent": "01:02:28",
-      "lastUpdated": "2026-02-05T17:50:06.384Z"
+      "timeSpent": "01:33:16",
+      "lastUpdated": "2026-02-06T08:08:39.627Z"
     },
     {
       "tabName": "Life of MG",
@@ -40,8 +23,8 @@
     {
       "tabName": "Prompt DB",
       "relativePath": "Prompt DB_cognitiveNotes.json",
-      "timeSpent": "00:22:42",
-      "lastUpdated": "2026-02-05T11:06:55.052Z"
+      "timeSpent": "00:25:57",
+      "lastUpdated": "2026-02-06T06:03:36.804Z"
     },
     {
       "tabName": "DeepAgents",
@@ -52,8 +35,8 @@
     {
       "tabName": "career",
       "relativePath": "career_cognitiveNotes.json",
-      "timeSpent": "01:57:26",
-      "lastUpdated": "2026-02-05T17:50:17.410Z"
+      "timeSpent": "02:18:38",
+      "lastUpdated": "2026-02-06T05:53:18.671Z"
     },
     {
       "tabName": "Goals",
