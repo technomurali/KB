@@ -1,0 +1,1636 @@
+{
+  "schema_version": "1.0.0",
+  "id": "1a62a6e7-2869-4778-91e4-b8da2fae3b46",
+  "name": "ai_solution_architect",
+  "purpose": "",
+  "type": "root_folder",
+  "level": 0,
+  "path": "E:\\2026\\KB\\Techno KB\\ai_solution_architect",
+  "created_on": "2026-02-06T09:15:26.030Z",
+  "updated_on": "2026-02-06T17:17:34.768Z",
+  "last_viewed_on": "2026-02-06T09:15:26.030Z",
+  "views": 0,
+  "notifications": [],
+  "recommendations": [],
+  "error_messages": [],
+  "recent_searches": [
+    {
+      "id": "flow_1770376052587_8e89ed692e5788",
+      "label": "Frame Works"
+    }
+  ],
+  "node_positions": {
+    "flow_1770313124474_daf6a168ed5f18": {
+      "x": -4311.517961214004,
+      "y": -462.27796527431934
+    },
+    "flow_1770313152330_89fdf7c41777f8": {
+      "x": -4392.31408423627,
+      "y": -174.3641285379957
+    },
+    "flow_1770313183954_57d4716e5d872": {
+      "x": -4129.202596579531,
+      "y": -168.30940027468088
+    },
+    "flow_1770313300706_c9bf7e7bc5df5": {
+      "x": -4639.507373215301,
+      "y": -171.1948222358671
+    },
+    "flow_1770312860506_77f65628f77078": {
+      "x": -3622.896903329052,
+      "y": -478.4355381045468
+    },
+    "flow_1770313022170_7f8c998659e198": {
+      "x": -3834.529115345229,
+      "y": -197.39880469863536
+    },
+    "flow_1770313040098_2efc8bb2ad6ed": {
+      "x": -3492.796973054014,
+      "y": -210.17229059054495
+    },
+    "flow_1770312166617_84757b11a7487": {
+      "x": -2838.978759977229,
+      "y": -517.6124764474546
+    },
+    "flow_1770312240049_1b1b1a1f3a6d78": {
+      "x": -3117.5277415582214,
+      "y": -194.9211536871544
+    },
+    "flow_1770312249074_a9a09d4606a67": {
+      "x": -2857.5277415582214,
+      "y": -194.9211536871544
+    },
+    "flow_1770312261138_350aeceaf2c588": {
+      "x": -2611.5277415582214,
+      "y": -206.9211536871544
+    },
+    "flow_1770372638811_0f879661cabad8": {
+      "x": -2856.921834260578,
+      "y": -1135.9589618882633
+    },
+    "1a62a6e7-2869-4778-91e4-b8da2fae3b46": {
+      "x": 270,
+      "y": 0
+    },
+    "flow_1770291129917_f7107607bda8c": {
+      "x": -1911.3220729956695,
+      "y": -139.8061360605027
+    },
+    "flow_1770292086734_f5dde7a978fa2": {
+      "x": -2038.5558253715963,
+      "y": 198.72458874895608
+    },
+    "flow_1770292107508_f31d6bb2ea7fd8": {
+      "x": -1826.5558253715963,
+      "y": 196.72458874895608
+    },
+    "flow_1770292128194_b06fa4a5a0bbf8": {
+      "x": -1592.555825371597,
+      "y": 198.72458874895608
+    },
+    "flow_1770308883869_791bae61908c38": {
+      "x": -2269.607676221134,
+      "y": 202.67597177100618
+    },
+    "flow_1770313371651_81bd0f30fe291": {
+      "x": 1605.9067431817455,
+      "y": -481.65384550697325
+    },
+    "flow_1770313405946_0bf3db581b9d28": {
+      "x": 1398.1346466494442,
+      "y": -240.89827952175
+    },
+    "flow_1770313472523_172ad095e7965": {
+      "x": 1600.9943473251305,
+      "y": -240.54791735366234
+    },
+    "flow_1770313525562_a9839524693458": {
+      "x": 1810.189942547402,
+      "y": -236.69393350469767
+    },
+    "flow_1770313576586_1a21431071aea8": {
+      "x": 2033.432153634717,
+      "y": -246.68981262489262
+    },
+    "flow_1770374105011_4a741c5b7def": {
+      "x": -1822.4105893610767,
+      "y": -1254.3106083510052
+    },
+    "flow_1770374152346_11b7ce95840388": {
+      "x": 343.52305868419717,
+      "y": -2209.419318471331
+    },
+    "flow_1770374344362_189be723afe158": {
+      "x": -2364.7831152664994,
+      "y": -1588.6729322134422
+    },
+    "flow_1770375275978_7088ccd2d65fa": {
+      "x": 159.79665830565818,
+      "y": -523.5729749768741
+    },
+    "flow_1770375338368_763921bb9702b8": {
+      "x": -114.10731481229391,
+      "y": -222.39286814555953
+    },
+    "flow_1770375403459_fb1b23ed559ee": {
+      "x": 158.20331421239445,
+      "y": -221.73268842422
+    },
+    "flow_1770375441377_a9c38babca9a48": {
+      "x": 459.76820252050766,
+      "y": -214.79129120800872
+    },
+    "flow_1770376052587_8e89ed692e5788": {
+      "x": -943.6275030959573,
+      "y": 395.27365647091165
+    },
+    "flow_1770376194339_62882d8fa61aa": {
+      "x": -1011.7405840281497,
+      "y": 681.0321584492567
+    },
+    "flow_1770376216553_eb8bae4f053848": {
+      "x": -774.2291600890289,
+      "y": 679.7126505384838
+    },
+    "flow_1770376256666_01b48eed5e23a": {
+      "x": -548.5933073468639,
+      "y": 682.3516663600296
+    },
+    "flow_1770376288784_5c560d6c61c648": {
+      "x": -297.49257521585196,
+      "y": 681.8266462087975
+    },
+    "flow_1770381814982_731d87ed56f6f8": {
+      "x": 2798.5372492940187,
+      "y": -1111.2453959316176
+    },
+    "flow_1770308982955_4202bed3a7b74": {
+      "x": 2458.081562496135,
+      "y": -525.2009520004221
+    },
+    "flow_1770291052138_dab6a1e3b2951": {
+      "x": 2968.6056428199427,
+      "y": -507.47288366090197
+    },
+    "flow_1770382195494_555fa1eda0a12": {
+      "x": -2531.554421050929,
+      "y": 202.208100735831
+    },
+    "flow_1770382387117_b5027e4e52fea": {
+      "x": -5194.598363225606,
+      "y": -437.9753912555209
+    },
+    "flow_1770382600494_762f742ed5edd8": {
+      "x": 2757.7698278751486,
+      "y": -274.70381191297855
+    },
+    "flow_1770382760326_bce0fde7d7d098": {
+      "x": 4448.01623165788,
+      "y": -1122.9980924577294
+    },
+    "flow_1770382850638_055560833c9138": {
+      "x": 3576.0194151828923,
+      "y": -841.3170170054356
+    },
+    "flow_1770307979469_15d2c8fe38d67": {
+      "x": 4411.77706667678,
+      "y": -863.2529183454544
+    },
+    "flow_1770308032859_3dc34e46a49af": {
+      "x": 3878.677876715352,
+      "y": -622.6324712281973
+    },
+    "flow_1770308059244_9650471a4451d8": {
+      "x": 4127.419101900447,
+      "y": -621.5030217914936
+    },
+    "flow_1770308099932_c1a956d207abb": {
+      "x": 4356.79784385107,
+      "y": -618.4415612222223
+    },
+    "flow_1770308131477_bdc0ede1111f78": {
+      "x": 4561.660475769062,
+      "y": -617.9233700092864
+    },
+    "flow_1770308770340_00aa1de6362a78": {
+      "x": 4787.942081653582,
+      "y": -630.1734023849817
+    },
+    "flow_1770383201158_e2b128da7a1c7": {
+      "x": 5347.349896580782,
+      "y": -780.3703472439194
+    },
+    "flow_1770383391862_2633e76c8fdf28": {
+      "x": 5065.291514072838,
+      "y": -627.1534481038016
+    },
+    "flow_1770383583134_c925d4f54a1778": {
+      "x": -1285.6275030959573,
+      "y": 687.2736564709116
+    },
+    "flow_1770383648333_c50a5abbef476": {
+      "x": -1593.6275030959573,
+      "y": 677.2736564709116
+    },
+    "flow_1770384279326_a18399b4be23f8": {
+      "x": -1350.4222731090495,
+      "y": 194.20198744831032
+    },
+    "flow_1770384693798_aa865b7bf61988": {
+      "x": 1168.1223013483125,
+      "y": -243.58786306130526
+    }
+  },
+  "node_colors": {
+    "flow_1770313124474_daf6a168ed5f18": "#8623d7",
+    "flow_1770313152330_89fdf7c41777f8": "#8623d7",
+    "flow_1770313183954_57d4716e5d872": "#8623d7",
+    "flow_1770313300706_c9bf7e7bc5df5": "#8623d7",
+    "flow_1770312860506_77f65628f77078": "#6b23d7",
+    "flow_1770313022170_7f8c998659e198": "#6b23d7",
+    "flow_1770313040098_2efc8bb2ad6ed": "#6b23d7",
+    "flow_1770312166617_84757b11a7487": "#3823d7",
+    "flow_1770312240049_1b1b1a1f3a6d78": "#3823d7",
+    "flow_1770312249074_a9a09d4606a67": "#3823d7",
+    "flow_1770312261138_350aeceaf2c588": "#3823d7",
+    "26543caf-8bf3-4739-9f24-41caed481fad": "#3823d7",
+    "279f8f3f-af5a-4c90-ad27-87c6f0f2b9e2": "#3823d7",
+    "ec253047-177c-4b9c-a9bc-8bb2eb6a92e3": "#3823d7",
+    "9f9b153d-071c-4146-bac0-16f2b029f5e2": "#3823d7",
+    "flow_1770291129917_f7107607bda8c": "#2371d7",
+    "flow_1770292086734_f5dde7a978fa2": "#2371d7",
+    "flow_1770292107508_f31d6bb2ea7fd8": "#2371d7",
+    "flow_1770292128194_b06fa4a5a0bbf8": "#d72323",
+    "flow_1770308883869_791bae61908c38": "#2371d7",
+    "02979b78-7724-4205-8d96-9e47b88e4502": "#8623d7",
+    "cd1b7807-9104-4950-a7f0-751de045a62f": "#8623d7",
+    "2f95ae84-7f3c-430a-9571-9ce2892a3dcd": "#8623d7",
+    "c455a1d3-2b59-4817-9729-e45a47048ca4": "#8623d7",
+    "04710240-ac07-466a-8b62-8f15a5b553ed": "#8623d7",
+    "bdf2115b-5742-4cba-a961-863f06f78ff0": "#8623d7",
+    "e6e48e5d-6aeb-40fa-b36c-cc1137d05a80": "#8623d7",
+    "525b6815-e9f2-41ab-a6d9-20c005081e47": "#8623d7",
+    "flow_1770313371651_81bd0f30fe291": "#d7239e",
+    "flow_1770313405946_0bf3db581b9d28": "#d7239e",
+    "flow_1770313472523_172ad095e7965": "#d7239e",
+    "flow_1770313525562_a9839524693458": "#d7239e",
+    "flow_1770313576586_1a21431071aea8": "#d7239e",
+    "flow_1770374152346_11b7ce95840388": "#d72323",
+    "flow_1770375275978_7088ccd2d65fa": "#23cbd7",
+    "flow_1770375338368_763921bb9702b8": "#23cbd7",
+    "flow_1770375403459_fb1b23ed559ee": "#23cbd7",
+    "flow_1770375441377_a9c38babca9a48": "#23cbd7",
+    "flow_1770376052587_8e89ed692e5788": "#23cbd7",
+    "flow_1770376194339_62882d8fa61aa": "#23cbd7",
+    "flow_1770376216553_eb8bae4f053848": "#23cbd7",
+    "flow_1770376256666_01b48eed5e23a": "#23cbd7",
+    "flow_1770376288784_5c560d6c61c648": "#23cbd7",
+    "flow_1770381814982_731d87ed56f6f8": "#253be4",
+    "flow_1770308982955_4202bed3a7b74": "#1f25c7",
+    "flow_1770291052138_dab6a1e3b2951": "#1f25c7",
+    "flow_1770291785984_0c21a7be86f2c": "#1f25c7",
+    "flow_1770292452062_5ec68ab7cd9268": "#1f25c7",
+    "flow_1770382195494_555fa1eda0a12": "#2371d7",
+    "flow_1770382387117_b5027e4e52fea": "#a723d7",
+    "flow_1770372638811_0f879661cabad8": "#253be4",
+    "flow_1770382600494_762f742ed5edd8": "#1f25c7",
+    "flow_1770382760326_bce0fde7d7d098": "#253be4",
+    "flow_1770382850638_055560833c9138": "#23cbd7",
+    "flow_1770307979469_15d2c8fe38d67": "#1f25c7",
+    "flow_1770308032859_3dc34e46a49af": "#1f25c7",
+    "flow_1770308059244_9650471a4451d8": "#1f25c7",
+    "flow_1770308099932_c1a956d207abb": "#1f25c7",
+    "flow_1770308131477_bdc0ede1111f78": "#1f25c7",
+    "flow_1770308770340_00aa1de6362a78": "#1f25c7",
+    "flow_1770383201158_e2b128da7a1c7": "#23cbd7",
+    "flow_1770383391862_2633e76c8fdf28": "#1f25c7",
+    "flow_1770383583134_c925d4f54a1778": "#23cbd7",
+    "flow_1770383648333_c50a5abbef476": "#23cbd7",
+    "flow_1770384279326_a18399b4be23f8": "#2371d7",
+    "flow_1770384693798_aa865b7bf61988": "#d7239e"
+  },
+  "node_size": {},
+  "flowchart_nodes": [
+    {
+      "id": "flow_1770313124474_daf6a168ed5f18",
+      "type": "flowchart.roundRect",
+      "name": "MLops",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:39:03.308Z",
+      "updated_on": "2026-02-06T10:08:21.514Z"
+    },
+    {
+      "id": "flow_1770313152330_89fdf7c41777f8",
+      "type": "flowchart.roundRect",
+      "name": "Kubeflow",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:39:28.427Z",
+      "updated_on": "2026-02-06T10:08:21.514Z"
+    },
+    {
+      "id": "flow_1770313183954_57d4716e5d872",
+      "type": "flowchart.roundRect",
+      "name": "Airflow",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:39:55.691Z",
+      "updated_on": "2026-02-06T10:08:21.514Z"
+    },
+    {
+      "id": "flow_1770313300706_c9bf7e7bc5df5",
+      "type": "flowchart.roundRect",
+      "name": "CI/CD Practices",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:41:54.235Z",
+      "updated_on": "2026-02-06T10:08:21.514Z"
+    },
+    {
+      "id": "flow_1770312860506_77f65628f77078",
+      "type": "flowchart.roundRect",
+      "name": "Container Platforms",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:34:49.060Z",
+      "updated_on": "2026-02-06T10:09:52.267Z"
+    },
+    {
+      "id": "flow_1770313022170_7f8c998659e198",
+      "type": "flowchart.roundRect",
+      "name": "Docker",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:37:14.742Z",
+      "updated_on": "2026-02-06T10:09:52.267Z"
+    },
+    {
+      "id": "flow_1770313040098_2efc8bb2ad6ed",
+      "type": "flowchart.roundRect",
+      "name": "Kubernetes",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:37:48.611Z",
+      "updated_on": "2026-02-06T10:09:52.267Z"
+    },
+    {
+      "id": "flow_1770312166617_84757b11a7487",
+      "type": "flowchart.roundRect",
+      "name": "Cloud",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:23:00.345Z",
+      "updated_on": "2026-02-06T10:10:01.010Z"
+    },
+    {
+      "id": "flow_1770312240049_1b1b1a1f3a6d78",
+      "type": "flowchart.roundRect",
+      "name": "AWS",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:24:04.850Z",
+      "updated_on": "2026-02-06T10:10:01.010Z"
+    },
+    {
+      "id": "flow_1770312249074_a9a09d4606a67",
+      "type": "flowchart.roundRect",
+      "name": "Azure",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:24:14.633Z",
+      "updated_on": "2026-02-06T10:10:01.010Z"
+    },
+    {
+      "id": "flow_1770312261138_350aeceaf2c588",
+      "type": "flowchart.roundRect",
+      "name": "GCP",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:24:27.449Z",
+      "updated_on": "2026-02-06T10:10:01.010Z"
+    },
+    {
+      "id": "flow_1770372638811_0f879661cabad8",
+      "type": "flowchart.roundRect",
+      "name": "Technical Compitences",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T10:11:29.891Z",
+      "updated_on": "2026-02-06T10:11:29.891Z"
+    },
+    {
+      "id": "flow_1770291129917_f7107607bda8c",
+      "type": "flowchart.roundRect",
+      "name": "Generative AI",
+      "purpose": "Deep Understanding of Generative AI Technologies and their application tailored to our business requirements. \nCurrent updates.\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:32:43.743Z",
+      "updated_on": "2026-02-06T10:12:54.137Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770292086734_f5dde7a978fa2",
+      "type": "flowchart.roundRect",
+      "name": "GPT",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:48:20.657Z",
+      "updated_on": "2026-02-06T10:12:54.137Z"
+    },
+    {
+      "id": "flow_1770292107508_f31d6bb2ea7fd8",
+      "type": "flowchart.roundRect",
+      "name": "DALL-E",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:48:40.054Z",
+      "updated_on": "2026-02-06T10:12:54.137Z"
+    },
+    {
+      "id": "flow_1770292128194_b06fa4a5a0bbf8",
+      "type": "flowchart.roundRect",
+      "name": "Stable Diffusion",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:49:07.622Z",
+      "updated_on": "2026-02-06T10:12:54.137Z"
+    },
+    {
+      "id": "flow_1770308883869_791bae61908c38",
+      "type": "flowchart.roundRect",
+      "name": "Hugging Faces",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:28:31.101Z",
+      "updated_on": "2026-02-06T10:12:54.137Z"
+    },
+    {
+      "id": "flow_1770313371651_81bd0f30fe291",
+      "type": "flowchart.roundRect",
+      "name": "Data Regulations",
+      "purpose": "\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:43:16.090Z",
+      "updated_on": "2026-02-06T10:16:10.121Z"
+    },
+    {
+      "id": "flow_1770313405946_0bf3db581b9d28",
+      "type": "flowchart.roundRect",
+      "name": "AI Governance",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:44:21.418Z",
+      "updated_on": "2026-02-06T10:16:10.121Z"
+    },
+    {
+      "id": "flow_1770313472523_172ad095e7965",
+      "type": "flowchart.roundRect",
+      "name": "Ethical frameworks,",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:44:54.129Z",
+      "updated_on": "2026-02-06T10:16:10.121Z"
+    },
+    {
+      "id": "flow_1770313525562_a9839524693458",
+      "type": "flowchart.roundRect",
+      "name": "Compliance",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:45:42.008Z",
+      "updated_on": "2026-02-06T10:16:10.121Z"
+    },
+    {
+      "id": "flow_1770313576586_1a21431071aea8",
+      "type": "flowchart.roundRect",
+      "name": "Data Privacy",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T17:46:44.242Z",
+      "updated_on": "2026-02-06T10:16:10.121Z"
+    },
+    {
+      "id": "flow_1770374152346_11b7ce95840388",
+      "type": "flowchart.actor",
+      "name": "SolutionArchitect",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T10:38:47.619Z",
+      "updated_on": "2026-02-06T10:38:47.619Z"
+    },
+    {
+      "id": "flow_1770375275978_7088ccd2d65fa",
+      "type": "flowchart.heart",
+      "name": "Python",
+      "purpose": "Essential expertise in python libraries\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T10:55:10.224Z",
+      "updated_on": "2026-02-06T17:17:34.768Z"
+    },
+    {
+      "id": "flow_1770375338368_763921bb9702b8",
+      "type": "flowchart.rect",
+      "name": "PyTorch",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T10:55:56.337Z",
+      "updated_on": "2026-02-06T10:59:28.226Z",
+      "related_links": [
+        {
+          "name": "PyTorch",
+          "url": "https://pytorch.org/"
+        }
+      ]
+    },
+    {
+      "id": "flow_1770375403459_fb1b23ed559ee",
+      "type": "flowchart.rect",
+      "name": "Tensorflow",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T10:57:00.754Z",
+      "updated_on": "2026-02-06T11:00:24.694Z",
+      "related_links": [
+        {
+          "name": "TensorFlow",
+          "url": "https://www.tensorflow.org/"
+        }
+      ]
+    },
+    {
+      "id": "flow_1770375441377_a9c38babca9a48",
+      "type": "flowchart.rect",
+      "name": "ScikitLearn",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T10:57:37.138Z",
+      "updated_on": "2026-02-06T11:01:20.659Z",
+      "related_links": [
+        {
+          "name": "scikit-learn",
+          "url": "https://scikit-learn.org/stable/"
+        }
+      ]
+    },
+    {
+      "id": "flow_1770376052587_8e89ed692e5788",
+      "type": "flowchart.roundRect",
+      "name": "Frame Works",
+      "purpose": "Fame works like Langchain, Langgraph, deepagent, \n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T11:08:23.228Z",
+      "updated_on": "2026-02-06T11:08:23.228Z"
+    },
+    {
+      "id": "flow_1770376194339_62882d8fa61aa",
+      "type": "flowchart.rect",
+      "name": "Langchain",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T11:10:09.674Z",
+      "updated_on": "2026-02-06T13:58:47.775Z"
+    },
+    {
+      "id": "flow_1770376216553_eb8bae4f053848",
+      "type": "flowchart.rect",
+      "name": "DeepAgent",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T11:10:36.866Z",
+      "updated_on": "2026-02-06T13:58:11.719Z"
+    },
+    {
+      "id": "flow_1770376256666_01b48eed5e23a",
+      "type": "flowchart.rect",
+      "name": "VectorDB",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T11:11:06.003Z",
+      "updated_on": "2026-02-06T13:58:03.423Z"
+    },
+    {
+      "id": "flow_1770376288784_5c560d6c61c648",
+      "type": "flowchart.rect",
+      "name": "Embedding",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T11:11:51.650Z",
+      "updated_on": "2026-02-06T13:57:48.278Z"
+    },
+    {
+      "id": "flow_1770381814982_731d87ed56f6f8",
+      "type": "flowchart.roundRect",
+      "name": "Design and Development",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T12:43:50.798Z",
+      "updated_on": "2026-02-06T12:58:43.308Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770308982955_4202bed3a7b74",
+      "type": "flowchart.roundRect",
+      "name": "Health Check",
+      "purpose": "Conduct periodic evaluations of deployed AI systems, recommending adjustments and enhancements for improved operational efficiency\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:29:59.220Z",
+      "updated_on": "2026-02-06T12:46:27.598Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770291052138_dab6a1e3b2951",
+      "type": "flowchart.roundRect",
+      "name": "Architecture",
+      "purpose": "Architectural Design\nEnterprise Grade Architecture \nBest practices.\nScalability, Security & Performance.",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T11:31:03.537Z",
+      "updated_on": "2026-02-06T12:47:36.332Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770382195494_555fa1eda0a12",
+      "type": "flowchart.roundRect",
+      "name": "Chatbot",
+      "purpose": "Chatbot applications.\nConversational applications.\npersonalized applications \n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T12:50:12.997Z",
+      "updated_on": "2026-02-06T12:51:12.725Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770382387117_b5027e4e52fea",
+      "type": "flowchart.roundRect",
+      "name": "Tools",
+      "purpose": "Ellavenlabs, LTX, Suno, ",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T12:53:17.838Z",
+      "updated_on": "2026-02-06T12:55:33.222Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770382600494_762f742ed5edd8",
+      "type": "flowchart.roundRect",
+      "name": "BestPractices",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T12:56:50.587Z",
+      "updated_on": "2026-02-06T12:56:50.587Z"
+    },
+    {
+      "id": "flow_1770382760326_bce0fde7d7d098",
+      "type": "flowchart.roundRect",
+      "name": "Organizational",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T12:59:51.083Z",
+      "updated_on": "2026-02-06T12:59:51.083Z"
+    },
+    {
+      "id": "flow_1770382850638_055560833c9138",
+      "type": "flowchart.roundRect",
+      "name": "Roadmaps",
+      "purpose": "Define AI strategies and roadmaps, balancing short-term impact with long-term innovation.",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T13:01:24.838Z",
+      "updated_on": "2026-02-06T13:01:24.838Z"
+    },
+    {
+      "id": "flow_1770307979469_15d2c8fe38d67",
+      "type": "flowchart.circle",
+      "name": "Teams",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:13:10.620Z",
+      "updated_on": "2026-02-06T13:03:38.518Z"
+    },
+    {
+      "id": "flow_1770308032859_3dc34e46a49af",
+      "type": "flowchart.rect",
+      "name": "DataEngineers",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:14:02.932Z",
+      "updated_on": "2026-02-06T13:03:38.518Z"
+    },
+    {
+      "id": "flow_1770308059244_9650471a4451d8",
+      "type": "flowchart.rect",
+      "name": "Data Scientist",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:14:44.092Z",
+      "updated_on": "2026-02-06T13:03:38.518Z"
+    },
+    {
+      "id": "flow_1770308099932_c1a956d207abb",
+      "type": "flowchart.rect",
+      "name": "MLOps",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:15:22.868Z",
+      "updated_on": "2026-02-06T13:03:38.518Z"
+    },
+    {
+      "id": "flow_1770308131477_bdc0ede1111f78",
+      "type": "flowchart.rect",
+      "name": "Cloud Engineers",
+      "purpose": "AWS, Azure, GCP\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:15:56.931Z",
+      "updated_on": "2026-02-06T13:03:38.518Z"
+    },
+    {
+      "id": "flow_1770308770340_00aa1de6362a78",
+      "type": "flowchart.rect",
+      "name": "Product Managers",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-05T16:26:27.099Z",
+      "updated_on": "2026-02-06T13:03:38.518Z"
+    },
+    {
+      "id": "flow_1770383201158_e2b128da7a1c7",
+      "type": "flowchart.roundRect",
+      "name": "Sakeholders",
+      "purpose": "Communicating with  stakeholders to translate business problems into AI solutions\n",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T13:06:59.750Z",
+      "updated_on": "2026-02-06T13:09:36.965Z",
+      "related_links": []
+    },
+    {
+      "id": "flow_1770383391862_2633e76c8fdf28",
+      "type": "flowchart.rect",
+      "name": "Functional Teams",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T13:10:18.237Z",
+      "updated_on": "2026-02-06T13:10:18.237Z"
+    },
+    {
+      "id": "flow_1770383583134_c925d4f54a1778",
+      "type": "flowchart.rect",
+      "name": "RAG",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T13:13:11.250Z",
+      "updated_on": "2026-02-06T13:58:53.118Z"
+    },
+    {
+      "id": "flow_1770383648333_c50a5abbef476",
+      "type": "flowchart.rect",
+      "name": "MCP",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T13:15:05.349Z",
+      "updated_on": "2026-02-06T13:59:01.686Z"
+    },
+    {
+      "id": "flow_1770384279326_a18399b4be23f8",
+      "type": "flowchart.roundRect",
+      "name": "Prompt Engineering",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T13:24:58.110Z",
+      "updated_on": "2026-02-06T13:24:58.110Z"
+    },
+    {
+      "id": "flow_1770384693798_aa865b7bf61988",
+      "type": "flowchart.roundRect",
+      "name": "Licensing",
+      "purpose": "",
+      "youtube_url": "",
+      "youtube_video_id": "",
+      "yt_settings": {
+        "startSeconds": 0,
+        "endSeconds": 0,
+        "loop": false,
+        "mute": false,
+        "controls": true
+      },
+      "created_on": "2026-02-06T13:32:41.701Z",
+      "updated_on": "2026-02-06T13:32:41.701Z"
+    }
+  ],
+  "flowchart_edges": [
+    {
+      "id": "e_flow_1770313124474_daf6a168ed5f18_flow_1770313152330_89fdf7c41777f8_1770313202930",
+      "source": "flow_1770313124474_daf6a168ed5f18",
+      "target": "flow_1770313152330_89fdf7c41777f8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313124474_daf6a168ed5f18_flow_1770313183954_57d4716e5d872_1770313205186",
+      "source": "flow_1770313124474_daf6a168ed5f18",
+      "target": "flow_1770313183954_57d4716e5d872",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313124474_daf6a168ed5f18_flow_1770313300706_c9bf7e7bc5df5_1770313321064",
+      "source": "flow_1770313124474_daf6a168ed5f18",
+      "target": "flow_1770313300706_c9bf7e7bc5df5",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312860506_77f65628f77078_flow_1770313022170_7f8c998659e198_1770313073586",
+      "source": "flow_1770312860506_77f65628f77078",
+      "target": "flow_1770313022170_7f8c998659e198",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312860506_77f65628f77078_flow_1770313040098_2efc8bb2ad6ed_1770313076041",
+      "source": "flow_1770312860506_77f65628f77078",
+      "target": "flow_1770313040098_2efc8bb2ad6ed",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312166617_84757b11a7487_flow_1770312240049_1b1b1a1f3a6d78_1770312293570",
+      "source": "flow_1770312166617_84757b11a7487",
+      "target": "flow_1770312240049_1b1b1a1f3a6d78",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312166617_84757b11a7487_flow_1770312249074_a9a09d4606a67_1770312299746",
+      "source": "flow_1770312166617_84757b11a7487",
+      "target": "flow_1770312249074_a9a09d4606a67",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770312166617_84757b11a7487_flow_1770312261138_350aeceaf2c588_1770312304243",
+      "source": "flow_1770312166617_84757b11a7487",
+      "target": "flow_1770312261138_350aeceaf2c588",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770372638811_0f879661cabad8_flow_1770313124474_daf6a168ed5f18_1770372701043",
+      "source": "flow_1770372638811_0f879661cabad8",
+      "target": "flow_1770313124474_daf6a168ed5f18",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770372638811_0f879661cabad8_flow_1770312860506_77f65628f77078_1770372703538",
+      "source": "flow_1770372638811_0f879661cabad8",
+      "target": "flow_1770312860506_77f65628f77078",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770372638811_0f879661cabad8_flow_1770312166617_84757b11a7487_1770372707194",
+      "source": "flow_1770372638811_0f879661cabad8",
+      "target": "flow_1770312166617_84757b11a7487",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770292086734_f5dde7a978fa2_1770292163137",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770292086734_f5dde7a978fa2",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770292107508_f31d6bb2ea7fd8_1770292169097",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770292107508_f31d6bb2ea7fd8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770292128194_b06fa4a5a0bbf8_1770292173192",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770292128194_b06fa4a5a0bbf8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770308883869_791bae61908c38_1770308914523",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770308883869_791bae61908c38",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770372638811_0f879661cabad8_flow_1770291129917_f7107607bda8c_1770372835818",
+      "source": "flow_1770372638811_0f879661cabad8",
+      "target": "flow_1770291129917_f7107607bda8c",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770313405946_0bf3db581b9d28_1770313465936",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770313405946_0bf3db581b9d28",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770313472523_172ad095e7965_1770313505712",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770313472523_172ad095e7965",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770313525562_a9839524693458_1770313548890",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770313525562_a9839524693458",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770313576586_1a21431071aea8_1770313582138",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770313576586_1a21431071aea8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770374152346_11b7ce95840388_flow_1770372638811_0f879661cabad8_1770375250068",
+      "source": "flow_1770374152346_11b7ce95840388",
+      "target": "flow_1770372638811_0f879661cabad8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770372638811_0f879661cabad8_flow_1770375275978_7088ccd2d65fa_1770375323426",
+      "source": "flow_1770372638811_0f879661cabad8",
+      "target": "flow_1770375275978_7088ccd2d65fa",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770375275978_7088ccd2d65fa_flow_1770375338368_763921bb9702b8_1770375389930",
+      "source": "flow_1770375275978_7088ccd2d65fa",
+      "target": "flow_1770375338368_763921bb9702b8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770375275978_7088ccd2d65fa_flow_1770375403459_fb1b23ed559ee_1770375430336",
+      "source": "flow_1770375275978_7088ccd2d65fa",
+      "target": "flow_1770375403459_fb1b23ed559ee",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770375275978_7088ccd2d65fa_flow_1770375441377_a9c38babca9a48_1770375462912",
+      "source": "flow_1770375275978_7088ccd2d65fa",
+      "target": "flow_1770375441377_a9c38babca9a48",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770372638811_0f879661cabad8_flow_1770376052587_8e89ed692e5788_1770376117153",
+      "source": "flow_1770372638811_0f879661cabad8",
+      "target": "flow_1770376052587_8e89ed692e5788",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770376052587_8e89ed692e5788_flow_1770376194339_62882d8fa61aa_1770376242154",
+      "source": "flow_1770376052587_8e89ed692e5788",
+      "target": "flow_1770376194339_62882d8fa61aa",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770376052587_8e89ed692e5788_flow_1770376216553_eb8bae4f053848_1770376244338",
+      "source": "flow_1770376052587_8e89ed692e5788",
+      "target": "flow_1770376216553_eb8bae4f053848",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770376052587_8e89ed692e5788_flow_1770376256666_01b48eed5e23a_1770376317515",
+      "source": "flow_1770376052587_8e89ed692e5788",
+      "target": "flow_1770376256666_01b48eed5e23a",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770376052587_8e89ed692e5788_flow_1770376288784_5c560d6c61c648_1770376321904",
+      "source": "flow_1770376052587_8e89ed692e5788",
+      "target": "flow_1770376288784_5c560d6c61c648",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770374152346_11b7ce95840388_flow_1770381814982_731d87ed56f6f8_1770381839426",
+      "source": "flow_1770374152346_11b7ce95840388",
+      "target": "flow_1770381814982_731d87ed56f6f8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770381814982_731d87ed56f6f8_flow_1770313371651_81bd0f30fe291_1770381913885",
+      "source": "flow_1770381814982_731d87ed56f6f8",
+      "target": "flow_1770313371651_81bd0f30fe291",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770381814982_731d87ed56f6f8_flow_1770308982955_4202bed3a7b74_1770382015422",
+      "source": "flow_1770381814982_731d87ed56f6f8",
+      "target": "flow_1770308982955_4202bed3a7b74",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770381814982_731d87ed56f6f8_flow_1770291052138_dab6a1e3b2951_1770382096830",
+      "source": "flow_1770381814982_731d87ed56f6f8",
+      "target": "flow_1770291052138_dab6a1e3b2951",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770382195494_555fa1eda0a12_1770382276532",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770382195494_555fa1eda0a12",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770372638811_0f879661cabad8_flow_1770382387117_b5027e4e52fea_1770382412967",
+      "source": "flow_1770372638811_0f879661cabad8",
+      "target": "flow_1770382387117_b5027e4e52fea",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291052138_dab6a1e3b2951_flow_1770382600494_762f742ed5edd8_1770382632493",
+      "source": "flow_1770291052138_dab6a1e3b2951",
+      "target": "flow_1770382600494_762f742ed5edd8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770374152346_11b7ce95840388_flow_1770382760326_bce0fde7d7d098_1770382814596",
+      "source": "flow_1770374152346_11b7ce95840388",
+      "target": "flow_1770382760326_bce0fde7d7d098",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770382760326_bce0fde7d7d098_flow_1770382850638_055560833c9138_1770382890918",
+      "source": "flow_1770382760326_bce0fde7d7d098",
+      "target": "flow_1770382850638_055560833c9138",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308032859_3dc34e46a49af_1770308045899",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308032859_3dc34e46a49af",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308059244_9650471a4451d8_1770308090388",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308059244_9650471a4451d8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308099932_c1a956d207abb_1770308112044",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308099932_c1a956d207abb",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308131477_bdc0ede1111f78_1770308167235",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308131477_bdc0ede1111f78",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770308770340_00aa1de6362a78_1770308800236",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770308770340_00aa1de6362a78",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770382760326_bce0fde7d7d098_flow_1770307979469_15d2c8fe38d67_1770383067414",
+      "source": "flow_1770382760326_bce0fde7d7d098",
+      "target": "flow_1770307979469_15d2c8fe38d67",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770382760326_bce0fde7d7d098_flow_1770383201158_e2b128da7a1c7_1770383224597",
+      "source": "flow_1770382760326_bce0fde7d7d098",
+      "target": "flow_1770383201158_e2b128da7a1c7",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770307979469_15d2c8fe38d67_flow_1770383391862_2633e76c8fdf28_1770383440589",
+      "source": "flow_1770307979469_15d2c8fe38d67",
+      "target": "flow_1770383391862_2633e76c8fdf28",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770376052587_8e89ed692e5788_flow_1770383583134_c925d4f54a1778_1770383595189",
+      "source": "flow_1770376052587_8e89ed692e5788",
+      "target": "flow_1770383583134_c925d4f54a1778",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770376052587_8e89ed692e5788_flow_1770383648333_c50a5abbef476_1770383699774",
+      "source": "flow_1770376052587_8e89ed692e5788",
+      "target": "flow_1770383648333_c50a5abbef476",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770291129917_f7107607bda8c_flow_1770384279326_a18399b4be23f8_1770384302974",
+      "source": "flow_1770291129917_f7107607bda8c",
+      "target": "flow_1770384279326_a18399b4be23f8",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    },
+    {
+      "id": "e_flow_1770313371651_81bd0f30fe291_flow_1770384693798_aa865b7bf61988_1770384708966",
+      "source": "flow_1770313371651_81bd0f30fe291",
+      "target": "flow_1770384693798_aa865b7bf61988",
+      "source_handle": "source-bottom",
+      "target_handle": "target-top",
+      "purpose": ""
+    }
+  ],
+  "groups": [],
+  "child": []
+}
